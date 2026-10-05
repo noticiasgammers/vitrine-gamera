@@ -1,0 +1,9 @@
+{
+  "name": "Vitrine Gamer",
+  "short_name": "Vitrine",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0d14",
+  "theme_color": "#0b0d14",
+  "icons": []
+}
