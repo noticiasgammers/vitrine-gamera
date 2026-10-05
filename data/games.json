@@ -1,11 +1,794 @@
 {
- "updated": "2026-10-05T14:27:18.234Z",
+ "updated": "2026-10-05T14:46:56.132Z",
  "today": "2026-10-05",
  "sections": {
   "hoje": [],
-  "destaques": [],
-  "lancamentos": [],
-  "proximos": []
+  "destaques": [
+   248521,
+   662318,
+   1004513,
+   802010,
+   1015425,
+   1004657,
+   1020061,
+   1019804,
+   1020012,
+   1020111,
+   1020110,
+   1020194,
+   1020195,
+   1020258,
+   1019943
+  ],
+  "lancamentos": [
+   1015425,
+   1004513,
+   1020258,
+   802010,
+   1020196,
+   1020061,
+   1019804,
+   1020129,
+   1020195
+  ],
+  "proximos": [
+   983213,
+   1017395,
+   975605,
+   1018102,
+   1004664,
+   1016708,
+   1020128,
+   972995,
+   998661,
+   391403,
+   1012187,
+   490430,
+   994083,
+   469645
+  ]
  },
- "games": {}
+ "games": {
+  "248521": {
+   "id": 248521,
+   "name": "Valheim",
+   "released": "2026-09-09",
+   "image": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
+   "rating": 3.98,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/892970/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Valheim%20trailer"
+  },
+  "391403": {
+   "id": 391403,
+   "name": "Path of Exile 2",
+   "released": "2026-12-11",
+   "image": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
+   "rating": 3.51,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Massively Multiplayer",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2694490/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Path%20of%20Exile%202%20trailer"
+  },
+  "469645": {
+   "id": 469645,
+   "name": "Titan Quest 2",
+   "released": "2027-01-19",
+   "image": "https://media.rawg.io/media/games/233/233b58ed99520a1e0b19109f7263f011.jpg",
+   "rating": 2.33,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1154030/Titan_Quest_II/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Titan%20Quest%202%20trailer"
+  },
+  "490430": {
+   "id": 490430,
+   "name": "Prince of Persia: The Sands of Time Remake",
+   "released": "2026-12-31",
+   "image": "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
+   "rating": 3.81,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Xbox",
+     "url": "https://www.microsoft.com/en-us/p/prince-of-persia-the-sands-of-time-remake/9pdzj7zmwmf3?activetab=pivot:overviewtab"
+    },
+    {
+     "name": "PlayStation",
+     "url": "https://store.playstation.com/en-us/product/UP0001-CUSA18521_00-POPSOTREMAKE2020"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Prince%20of%20Persia%3A%20The%20Sands%20of%20Time%20Remake%20trailer"
+  },
+  "662318": {
+   "id": 662318,
+   "name": "Marvel's Wolverine",
+   "released": "2026-09-15",
+   "image": "https://media.rawg.io/media/games/28d/28d61be51ec0411e24c28f71122dcaaf.jpeg",
+   "rating": 3.56,
+   "metacritic": null,
+   "platforms": [
+    "playstation"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "PlayStation",
+     "url": "https://store.playstation.com/en-ca/product/UP9000-PPSA03671_00-MARVELSWOLVERINE"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Marvel's%20Wolverine%20trailer"
+  },
+  "802010": {
+   "id": 802010,
+   "name": "Nivalis",
+   "released": "2026-09-30",
+   "image": "https://media.rawg.io/media/screenshots/696/696638dca1d39d65168401c821f28519.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1488490/Nivalis/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Nivalis%20trailer"
+  },
+  "972995": {
+   "id": 972995,
+   "name": "Grand Theft Auto VI",
+   "released": "2026-11-19",
+   "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
+   "rating": 3.81,
+   "metacritic": null,
+   "platforms": [
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "PlayStation",
+     "url": "https://store.playstation.com/en-ca/product/EP1004-PPSA01547_00-GTAVIULTIMATE001"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Grand%20Theft%20Auto%20VI%20trailer"
+  },
+  "975605": {
+   "id": 975605,
+   "name": "Enshrouded",
+   "released": "2026-10-15",
+   "image": "https://media.rawg.io/media/games/23a/23a1c71366aea4341aec483c9dd08a59.jpg",
+   "rating": 3.71,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1203620/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Enshrouded%20trailer"
+  },
+  "983213": {
+   "id": 983213,
+   "name": "Gears of War: E-Day",
+   "released": "2026-10-06",
+   "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "xbox"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3010850/Gears_of_War_EDay/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Gears%20of%20War%3A%20E-Day%20trailer"
+  },
+  "994083": {
+   "id": 994083,
+   "name": "ananta",
+   "released": "2027-01-15",
+   "image": "https://media.rawg.io/media/screenshots/21f/21ffdb58671720697c5e7382b021755b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "android"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4814120/ANANTA/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=ananta%20trailer"
+  },
+  "998661": {
+   "id": 998661,
+   "name": "Beautiful Light",
+   "released": "2026-12-01",
+   "image": "https://media.rawg.io/media/screenshots/3c5/3c511506ba31902bbdcbf963219ef77c.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Shooter"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1313230/Beautiful_Light/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Beautiful%20Light%20trailer"
+  },
+  "1004513": {
+   "id": 1004513,
+   "name": "End of Abyss",
+   "released": "2026-10-01",
+   "image": "https://media.rawg.io/media/games/9b7/9b755942f5c8006891c20e50095dae09.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "PlayStation",
+     "url": "https://store.playstation.com/en-us/concept/10012377"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=End%20of%20Abyss%20trailer"
+  },
+  "1004657": {
+   "id": 1004657,
+   "name": "Aniimo",
+   "released": "2026-09-16",
+   "image": "https://media.rawg.io/media/screenshots/21b/21b53e57144d6fc9b7c07d51b56e5da7.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "android"
+   ],
+   "genres": [
+    "Massively Multiplayer",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4126040/Aniimo/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Aniimo%20trailer"
+  },
+  "1004664": {
+   "id": 1004664,
+   "name": "Mycopunk",
+   "released": "2026-10-20",
+   "image": "https://media.rawg.io/media/games/cbf/cbf5b06692e82e312a5dc9db32ed5b4c.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Shooter",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3247750/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Mycopunk%20trailer"
+  },
+  "1012187": {
+   "id": 1012187,
+   "name": "They Come in Fives",
+   "released": "2026-12-16",
+   "image": "https://media.rawg.io/media/games/69f/69f16f2f13fdb39e5efba2fc5528d026.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Card",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4025380/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=They%20Come%20in%20Fives%20trailer"
+  },
+  "1015425": {
+   "id": 1015425,
+   "name": "Ace Combat 8: Wings of Theve",
+   "released": "2026-10-02",
+   "image": "https://media.rawg.io/media/games/541/541d6c97a674635d68ea3d19737f090b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action",
+    "Simulation"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2288340/ACE_COMBAT_8_WINGS_OF_THEVE/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Ace%20Combat%208%3A%20Wings%20of%20Theve%20trailer"
+  },
+  "1016708": {
+   "id": 1016708,
+   "name": "EmberVille",
+   "released": "2026-10-26",
+   "image": "https://media.rawg.io/media/screenshots/a65/a65915e30efd086919dafcb7f79a6b79.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2295170/Emberville/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=EmberVille%20trailer"
+  },
+  "1017395": {
+   "id": 1017395,
+   "name": "Star Wars: Galactic Racer",
+   "released": "2026-10-06",
+   "image": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Racing"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Star%20Wars%3A%20Galactic%20Racer%20trailer"
+  },
+  "1018102": {
+   "id": 1018102,
+   "name": "Castlevania: Belmont's Curse",
+   "released": "2026-10-15",
+   "image": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "nintendo"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont's%20Curse%20trailer"
+  },
+  "1019804": {
+   "id": 1019804,
+   "name": "Apocalypter",
+   "released": "2026-09-23",
+   "image": "https://media.rawg.io/media/screenshots/c19/c19f6c89d2cdc01fd7591211c2fa6b00.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Racing",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4146760/Apocalypter/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
+  },
+  "1019943": {
+   "id": 1019943,
+   "name": "LED HEARTS",
+   "released": "2026-09-09",
+   "image": "https://media.rawg.io/media/screenshots/166/1664919f9346e8c9a182742902349d55.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5034070/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=LED%20HEARTS%20trailer"
+  },
+  "1020012": {
+   "id": 1020012,
+   "name": "Backrooms: The Entity",
+   "released": "2026-09-12",
+   "image": "https://media.rawg.io/media/screenshots/dee/deed20e3ebd25ee31daf8d0388901f03.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4727140/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Entity%20trailer"
+  },
+  "1020061": {
+   "id": 1020061,
+   "name": "EA SPORTS FC 27",
+   "released": "2026-09-25",
+   "image": "https://media.rawg.io/media/screenshots/d9b/d9b0ef34a249647310c5bc7577ce68e3.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox",
+    "nintendo"
+   ],
+   "genres": [
+    "Sports"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/"
+    },
+    {
+     "name": "Nintendo eShop",
+     "url": "https://www.nintendo.com/us/store/products/ea-sports-fc-27-switch-2/"
+    },
+    {
+     "name": "PlayStation",
+     "url": "https://store.playstation.com/en-us/product/UP0006-PPSA34015_00-27STANDARDBUNDLE"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=EA%20SPORTS%20FC%2027%20trailer"
+  },
+  "1020110": {
+   "id": 1020110,
+   "name": "스페셜포스 리마스터",
+   "released": "2026-09-16",
+   "image": "https://media.rawg.io/media/screenshots/27d/27d78624538dc03d3978f7d7a15d6f39.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4261320/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%EC%8A%A4%ED%8E%98%EC%85%9C%ED%8F%AC%EC%8A%A4%20%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0%20trailer"
+  },
+  "1020111": {
+   "id": 1020111,
+   "name": "Goddess of Fate: Waifu Strategy RPG",
+   "released": "2026-09-18",
+   "image": "https://media.rawg.io/media/screenshots/f16/f16bd1f70b789adacf571938f1ec7928.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5064710/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Goddess%20of%20Fate%3A%20Waifu%20Strategy%20RPG%20trailer"
+  },
+  "1020128": {
+   "id": 1020128,
+   "name": "Tavern Farkle GB",
+   "released": "2026-10-29",
+   "image": "https://media.rawg.io/media/screenshots/a70/a70fe6db270dae52f5169b826c81c3ec.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "nintendo"
+   ],
+   "genres": [
+    "Casual",
+    "Board Games"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4191210/Tavern_Farkle_GB/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
+  },
+  "1020129": {
+   "id": 1020129,
+   "name": "Something Weird Will Happen",
+   "released": "2026-09-23",
+   "image": "https://media.rawg.io/media/screenshots/617/6173db572009f3593f46741d69b60bde.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4974630/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Something%20Weird%20Will%20Happen%20trailer"
+  },
+  "1020194": {
+   "id": 1020194,
+   "name": "TAMA JIGOKU",
+   "released": "2026-09-09",
+   "image": "https://media.rawg.io/media/screenshots/2cc/2cc1ba313a29d05b191ce9d6586c84ee.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3265560/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=TAMA%20JIGOKU%20trailer"
+  },
+  "1020195": {
+   "id": 1020195,
+   "name": "Beyond the Broken Veil",
+   "released": "2026-09-22",
+   "image": "https://media.rawg.io/media/screenshots/eae/eaeba62e59549a4b2ac9f9a18ae57447.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Strategy",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5196150/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Beyond%20the%20Broken%20Veil%20trailer"
+  },
+  "1020196": {
+   "id": 1020196,
+   "name": "Surrounded by Scrunchies",
+   "released": "2026-09-25",
+   "image": "https://media.rawg.io/media/screenshots/2a1/2a1e92e9c23044036bde6a2753ee433c.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5228310/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Surrounded%20by%20Scrunchies%20trailer"
+  },
+  "1020258": {
+   "id": 1020258,
+   "name": "阴阳界：志怪放置副游",
+   "released": "2026-09-30",
+   "image": "https://media.rawg.io/media/screenshots/cce/cce91649a04a485f9dcc37978bb73456.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5143030/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
+  }
+ }
 }
