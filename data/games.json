@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T14:46:56.132Z",
+ "updated": "2026-10-05T15:53:23.272Z",
  "today": "2026-10-05",
  "sections": {
   "hoje": [],
@@ -46,9 +46,201 @@
    490430,
    994083,
    469645
+  ],
+  "android": [
+   1009246,
+   223581,
+   1004657,
+   968616,
+   1015854,
+   1015390,
+   1016080,
+   1016313,
+   232627,
+   1011216,
+   1016362,
+   1013673,
+   1016077,
+   1016363,
+   1016078,
+   1015318,
+   1015317,
+   1017860,
+   224668,
+   231102,
+   221629,
+   227366
   ]
  },
  "games": {
+  "221629": {
+   "id": 221629,
+   "name": "BlackJack Trainer",
+   "released": "2026-01-07",
+   "image": "https://media.rawg.io/media/screenshots/d4f/d4f3aa553e0ae59c6a5bc0764e4724c1.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Card",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3974240/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.hornetapps.blackjacktrainer.lite&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=BlackJack%20Trainer%20trailer"
+  },
+  "223581": {
+   "id": 223581,
+   "name": "Tattoo Tycoon",
+   "released": "2025-10-23",
+   "image": "https://media.rawg.io/media/screenshots/106/106c0e88fdf9525298f9f07ebc17c4e6.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Strategy",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2375260/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.hg.tattootycoon&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Tattoo%20Tycoon%20trailer"
+  },
+  "224668": {
+   "id": 224668,
+   "name": "Bleentoro",
+   "released": "2025-12-07",
+   "image": "https://media.rawg.io/media/screenshots/839/839009647749cf53debb7d7d2c111f10.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3891970/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=yio.tro.bleentoro&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Bleentoro%20trailer"
+  },
+  "227366": {
+   "id": 227366,
+   "name": "Balance It!",
+   "released": "2026-06-26",
+   "image": "https://media.rawg.io/media/screenshots/986/9868968a62b865d4f1243c50e85e47a2.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Indie",
+    "Arcade"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4794930/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.teremokgames.balanceit&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Balance%20It!%20trailer"
+  },
+  "231102": {
+   "id": 231102,
+   "name": "Bouncy Ball",
+   "released": "2026-06-23",
+   "image": "https://media.rawg.io/media/screenshots/f60/f60cdd438d491016665282e6f357aed3.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4667570/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.raongames.bouneball&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Bouncy%20Ball%20trailer"
+  },
+  "232627": {
+   "id": 232627,
+   "name": "The Legacy",
+   "released": "2025-10-08",
+   "image": "https://media.rawg.io/media/screenshots/bfc/bfc4c98c8690a78def2a5c8d47216222.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2909870/"
+    },
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.fivebn.tl1&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=The%20Legacy%20trailer"
+  },
   "248521": {
    "id": 248521,
    "name": "Valheim",
@@ -86,12 +278,7 @@
     "Massively Multiplayer",
     "Adventure"
    ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2694490/"
-    }
-   ],
+   "stores": [],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Path%20of%20Exile%202%20trailer"
   },
@@ -192,6 +379,25 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Nivalis%20trailer"
+  },
+  "968616": {
+   "id": 968616,
+   "name": "Duet Night Abyss",
+   "released": "2025-10-28",
+   "image": "https://media.rawg.io/media/screenshots/368/368d3bcfd29f8bd62ea0573f874b3a4d.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Duet%20Night%20Abyss%20trailer"
   },
   "972995": {
    "id": 972995,
@@ -384,6 +590,45 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Mycopunk%20trailer"
   },
+  "1009246": {
+   "id": 1009246,
+   "name": "Arknights: Endfield",
+   "released": "2026-01-22",
+   "image": "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg",
+   "rating": 3.47,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "android"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Arknights%3A%20Endfield%20trailer"
+  },
+  "1011216": {
+   "id": 1011216,
+   "name": "FodFru",
+   "released": "2026-01-10",
+   "image": "https://media.rawg.io/media/screenshots/fc9/fc9c22106e6999c941b834ad967f26d0.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Platformer",
+    "Adventure"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=FodFru%20trailer"
+  },
   "1012187": {
    "id": 1012187,
    "name": "They Come in Fives",
@@ -406,6 +651,82 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=They%20Come%20in%20Fives%20trailer"
+  },
+  "1013673": {
+   "id": 1013673,
+   "name": "Polandball Go",
+   "released": "2025-10-12",
+   "image": "https://media.rawg.io/media/screenshots/ebf/ebffda7aad0dbbc0527e661d2b842c9e.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "android"
+   ],
+   "genres": [
+    "Strategy"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Polandball%20Go%20trailer"
+  },
+  "1015317": {
+   "id": 1015317,
+   "name": "Resident Evil: Survival Unit",
+   "released": "2025-11-17",
+   "image": "https://media.rawg.io/media/screenshots/1f2/1f2c63bea837ab723eee4e9a2734e888.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "android"
+   ],
+   "genres": [
+    "Casual"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Survival%20Unit%20trailer"
+  },
+  "1015318": {
+   "id": 1015318,
+   "name": "FLESHBREAK",
+   "released": "2025-11-28",
+   "image": "https://media.rawg.io/media/screenshots/d30/d30050f75570a9c10ddee7fd7c4dd4e3.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Adventure"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=FLESHBREAK%20trailer"
+  },
+  "1015390": {
+   "id": 1015390,
+   "name": "Humanity Echo: Cyberpunk Tactical RPG",
+   "released": "2026-03-19",
+   "image": "https://media.rawg.io/media/screenshots/b7c/b7cf253341570017e510727be72f3834.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Strategy",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3865080/Humanity_Echo_Cyberpunk_Tactical_RPG/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Humanity%20Echo%3A%20Cyberpunk%20Tactical%20RPG%20trailer"
   },
   "1015425": {
    "id": 1015425,
@@ -431,6 +752,153 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Ace%20Combat%208%3A%20Wings%20of%20Theve%20trailer"
+  },
+  "1015854": {
+   "id": 1015854,
+   "name": "Reigns: The Witcher",
+   "released": "2026-02-25",
+   "image": "https://media.rawg.io/media/screenshots/a6c/a6c0aa297c5268292d814a58721dba42.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1651600/Reigns_The_Witcher/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Reigns%3A%20The%20Witcher%20trailer"
+  },
+  "1016077": {
+   "id": 1016077,
+   "name": "FUTANARI PRINCESS",
+   "released": "2026-02-22",
+   "image": "https://media.rawg.io/media/screenshots/655/655b87230e586b6b7d1db2222df84a54.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Simulation"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4168220/Futanari_Princess_Royal_Desires/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=FUTANARI%20PRINCESS%20trailer"
+  },
+  "1016078": {
+   "id": 1016078,
+   "name": "MY MAFIA LORD ROMANCE",
+   "released": "2025-11-01",
+   "image": "https://media.rawg.io/media/screenshots/aa4/aa43d26f33530ba34add9abe7b4f78e7.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Simulation"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4101650/My_Mafia_Lord_Romance/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=MY%20MAFIA%20LORD%20ROMANCE%20trailer"
+  },
+  "1016080": {
+   "id": 1016080,
+   "name": "Subway Surfers City",
+   "released": "2026-02-26",
+   "image": "https://media.rawg.io/media/screenshots/2dc/2dc47ffc43b3cf5f3a844f8bd828454c.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "android"
+   ],
+   "genres": [
+    "Casual",
+    "Arcade"
+   ],
+   "stores": [
+    {
+     "name": "Google Play",
+     "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=us"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Subway%20Surfers%20City%20trailer"
+  },
+  "1016313": {
+   "id": 1016313,
+   "name": "ASTRID'S ADVENTURE",
+   "released": "2026-03-09",
+   "image": "https://media.rawg.io/media/screenshots/e1b/e1b0485e38bbebdb8847d4b5bc5efd0a.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Adventure"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=ASTRID'S%20ADVENTURE%20trailer"
+  },
+  "1016362": {
+   "id": 1016362,
+   "name": "FEMBOY GHOST",
+   "released": "2026-03-14",
+   "image": "https://media.rawg.io/media/screenshots/cd6/cd60f38dded83af87e384a82869c555b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Simulation"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=FEMBOY%20GHOST%20trailer"
+  },
+  "1016363": {
+   "id": 1016363,
+   "name": "Girl in the Attic [REDUX] (NSFW)",
+   "released": "2025-11-01",
+   "image": "https://media.rawg.io/media/screenshots/f99/f99dbfefb46cd0ec98a32a131cd3802d.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Strategy"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Girl%20in%20the%20Attic%20%5BREDUX%5D%20(NSFW)%20trailer"
   },
   "1016708": {
    "id": 1016708,
@@ -478,6 +946,25 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Star%20Wars%3A%20Galactic%20Racer%20trailer"
+  },
+  "1017860": {
+   "id": 1017860,
+   "name": "Five Nights at Frickbear's 3",
+   "released": "2026-03-14",
+   "image": "https://media.rawg.io/media/screenshots/3b1/3b142e37dea2dfd922e9fe5bb92210b2.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "android"
+   ],
+   "genres": [
+    "Strategy",
+    "Indie"
+   ],
+   "stores": [],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Five%20Nights%20at%20Frickbear's%203%20trailer"
   },
   "1018102": {
    "id": 1018102,
@@ -790,5 +1277,117 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
   }
- }
+ },
+ "deals": [
+  {
+   "store": "Steam",
+   "id": 1304930,
+   "name": "The Outlast Trials",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+   "discount": 90,
+   "original": 10799,
+   "final": 1079,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1304930"
+  },
+  {
+   "store": "Steam",
+   "id": 489830,
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+   "discount": 90,
+   "original": 14900,
+   "final": 1490,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/489830"
+  },
+  {
+   "store": "Steam",
+   "id": 1057090,
+   "name": "Ori and the Will of the Wisps",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+   "discount": 90,
+   "original": 12900,
+   "final": 1290,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1057090"
+  },
+  {
+   "store": "Steam",
+   "id": 1174180,
+   "name": "Red Dead Redemption 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+   "discount": 75,
+   "original": 29990,
+   "final": 7497,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1174180"
+  },
+  {
+   "store": "Steam",
+   "id": 1091500,
+   "name": "Cyberpunk 2077",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+   "discount": 70,
+   "original": 19990,
+   "final": 5997,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1091500"
+  },
+  {
+   "store": "Steam",
+   "id": 1817070,
+   "name": "Marvel’s Spider-Man Remastered",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "discount": 60,
+   "original": 24990,
+   "final": 9996,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1817070"
+  },
+  {
+   "store": "Steam",
+   "id": 3240220,
+   "name": "Grand Theft Auto V Enhanced",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+   "discount": 50,
+   "original": 14990,
+   "final": 7495,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3240220"
+  },
+  {
+   "store": "Steam",
+   "id": 3240220,
+   "name": "Grand Theft Auto V Enhanced",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+   "discount": 50,
+   "original": 14990,
+   "final": 7495,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3240220"
+  },
+  {
+   "store": "Steam",
+   "id": 4001890,
+   "name": "How to Fish",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+   "discount": 38,
+   "original": 2399,
+   "final": 1487,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4001890"
+  },
+  {
+   "store": "Steam",
+   "id": 1086940,
+   "name": "Baldur's Gate 3",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+   "discount": 30,
+   "original": 19999,
+   "final": 13999,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1086940"
+  }
+ ]
 }
