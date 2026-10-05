@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0d14">
+<title>Vitrine Gamer</title>
+<link rel="manifest" href="manifest.json">
+<style>
+  :root {
+    --bg: #0b0d14; --card: #151927; --card2: #1d2235; --txt: #eef0f7; --mut: #8b92aa;
+    --acc: #7c5cff; --acc2: #22d3ee; --ok: #34d399;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body { background: var(--bg); color: var(--txt); font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; padding-bottom: 40px; }
+  header { position: sticky; top: 0; z-index: 10; background: rgba(11,13,20,.92); backdrop-filter: blur(10px); padding: 14px 8px 10px; border-bottom: 1px solid #1f2437; }
+  h1 { font-size: 20px; letter-spacing: .3px; }
+  h1 span { background: linear-gradient(90deg, var(--acc), var(--acc2)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .sub { font-size: 12px; color: var(--mut); margin-top: 2px; }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { flex: none; border: 1px solid #2a3150; background: var(--card); color: var(--mut); padding: 7px 14px; border-radius: 999px; font-size: 13px; cursor: pointer; }
+  .chip.on { background: var(--acc); border-color: var(--acc); color: #fff; }
+  .tabs { display: flex; gap: 2px; margin-top: 8px; overflow-x: auto; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: none; text-align: center; padding: 9px 14px; font-size: 13px; color: var(--mut); border-bottom: 2px solid transparent; cursor: pointer; white-space: nowrap; }
+  .tab.on { color: var(--txt); border-color: var(--acc2); font-weight: 600; }
+  main { padding: 12px 6px; max-width: 1100px; margin: 0 auto; }
+  h2 { font-size: 17px; margin: 6px 6px 12px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+  .card { background: var(--card); border-radius: 16px; overflow: hidden; cursor: pointer; border: 1px solid #1f2437; transition: transform .15s; }
+  .card:active { transform: scale(.98); }
+  .img { position: relative; aspect-ratio: 16/9; background: var(--card2) center/cover no-repeat; }
+  .date { position: absolute; left: 10px; bottom: 10px; background: rgba(0,0,0,.75); padding: 4px 9px; border-radius: 8px; font-size: 12px; }
+  .score { position: absolute; right: 10px; top: 10px; background: var(--ok); color: #04210f; font-weight: 700; padding: 3px 8px; border-radius: 8px; font-size: 12px; }
+  .info { padding: 12px 14px 14px; }
+  .name { font-weight: 650; font-size: 16px; line-height: 1.25; }
+  .gen { color: var(--mut); font-size: 12px; margin: 4px 0 8px; }
+  .plats { display: flex; gap: 6px; flex-wrap: wrap; }
+  .p { font-size: 11px; padding: 3px 8px; border-radius: 6px; background: var(--card2); color: #c9cee0; }
+  .empty { color: var(--mut); text-align: center; padding: 40px 10px; }
+  .loading { text-align: center; padding: 60px 0; color: var(--mut); }
+  /* promocoes */
+  a.card { display: block; color: inherit; text-decoration: none; }
+  .off { position: absolute; left: 10px; top: 10px; background: var(--ok); color: #04210f; font-weight: 800; padding: 5px 10px; border-radius: 8px; font-size: 15px; }
+  .store { position: absolute; right: 10px; top: 10px; background: rgba(0,0,0,.75); padding: 4px 9px; border-radius: 8px; font-size: 12px; }
+  .price { display: flex; align-items: baseline; gap: 8px; margin-top: 6px; }
+  .price .old { color: var(--mut); text-decoration: line-through; font-size: 13px; }
+  .price .new { color: var(--ok); font-weight: 700; font-size: 18px; }
+  .note { color: var(--mut); font-size: 12px; margin: -4px 6px 12px; }
+  /* modal */
+  .modal { position: fixed; inset: 0; background: rgba(0,0,0,.7); display: none; align-items: flex-end; justify-content: center; z-index: 50; }
+  .modal.open { display: flex; }
+  .sheet { background: var(--card); width: 100%; max-width: 560px; max-height: 88vh; overflow-y: auto; border-radius: 22px 22px 0 0; padding-bottom: calc(18px + env(safe-area-inset-bottom)); }
+  .sheet .img { border-radius: 22px 22px 0 0; }
+  .sheet .body { padding: 16px; }
+  .close { position: absolute; right: 10px; top: 10px; width: 34px; height: 34px; border-radius: 50%; border: none; background: rgba(0,0,0,.7); color: #fff; font-size: 18px; cursor: pointer; }
+  .btns { display: flex; flex-direction: column; gap: 8px; margin-top: 14px; }
+  .btn { display: block; text-align: center; text-decoration: none; padding: 12px; border-radius: 12px; font-weight: 600; font-size: 14px; background: var(--card2); color: var(--txt); border: 1px solid #2a3150; }
+  .btn.trailer { background: linear-gradient(90deg, var(--acc), #5b8cff); border: none; color: #fff; }
+  .lbl { font-size: 12px; color: var(--mut); margin-top: 14px; }
+  footer { text-align: center; color: var(--mut); font-size: 11px; padding: 24px 16px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎮 Vitrine <span>Gamer</span></h1>
+  <div class="sub" id="sub">Carregando…</div>
+  <div class="chips" id="chips"></div>
+  <div class="tabs" id="tabs"></div>
+</header>
+<main id="main"><div class="loading">Carregando jogos…</div></main>
+<footer>Dados: RAWG.io · Os botões levam às páginas oficiais das lojas</footer>
+
+<div class="modal" id="modal"><div class="sheet" id="sheet"></div></div>
+
+<script>
+const PLATS = {
+  all: 'Todas', pc: 'PC / Steam', playstation: 'PlayStation', xbox: 'Xbox', nintendo: 'Nintendo', android: 'Android'
+};
+const PLAT_LABEL = { pc: 'PC', playstation: 'PlayStation', xbox: 'Xbox', nintendo: 'Nintendo', android: 'Android' };
+const TABS = [
+  ['hoje', 'Hoje'], ['destaques', 'Destaques'], ['lancamentos', 'Novidades'], ['proximos', 'Em breve'],
+  ['promocoes', 'Promoções'], ['android', 'Android']
+];
+const TITLES = {
+  hoje: 'Lançamentos de hoje', destaques: 'Em destaque (último mês)',
+  lancamentos: 'Lançamentos recentes', proximos: 'Próximos lançamentos',
+  promocoes: 'Promoções', android: 'Jogos Android populares'
+};
+
+let DATA = null, plat = 'all', tab = 'destaques';
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmtDate = s => {
+  if (!s) return 'Sem data';
+  const [y, m, d] = s.split('-');
+  return `${d}/${m}/${y}`;
+};
+// so aceita links https
+const safe = u => /^https:\/\//.test(u || '') ? u : '#';
+
+async function init() {
+  try {
+    const r = await fetch('data/games.json?' + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    DATA = await r.json();
+  } catch (e) {
+    $('main').innerHTML = '<div class="empty">Ainda não há dados. Rode o workflow "Atualizar jogos" no GitHub (aba Actions).</div>';
+    $('sub').textContent = 'Sem dados';
+    return;
+  }
+  const up = new Date(DATA.updated);
+  $('sub').textContent = 'Atualizado em ' + up.toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo', dateStyle: 'short', timeStyle: 'short' });
+  $('chips').innerHTML = Object.entries(PLATS).map(([k, v]) => `<div class="chip ${k === plat ? 'on' : ''}" data-p="${k}">${v}</div>`).join('');
+  $('tabs').innerHTML = TABS.map(([k, v]) => `<div class="tab ${k === tab ? 'on' : ''}" data-t="${k}">${v}</div>`).join('');
+  $('chips').onclick = e => { const p = e.target.dataset.p; if (p) { plat = p; init2(); } };
+  $('tabs').onclick = e => { const t = e.target.dataset.t; if (t) { tab = t; init2(); } };
+  render();
+}
+function init2() {
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c.dataset.p === plat));
+  document.querySelectorAll('.tab').forEach(c => c.classList.toggle('on', c.dataset.t === tab));
+  render();
+}
+
+const money = (cents, cur) => {
+  try { return (cents / 100).toLocaleString('pt-BR', { style: 'currency', currency: cur || 'BRL' }); }
+  catch (e) { return 'R$ ' + (cents / 100).toFixed(2).replace('.', ','); }
+};
+
+function dealCard(d) {
+  return `<a class="card" href="${esc(safe(d.url))}" target="_blank" rel="noopener">
+    <div class="img" style="background-image:url('${esc(safe(d.image))}')">
+      <div class="off">-${esc(d.discount)}%</div>
+      <div class="store">${esc(d.store)}</div>
+    </div>
+    <div class="info">
+      <div class="name">${esc(d.name)}</div>
+      <div class="price"><span class="old">${money(d.original, d.currency)}</span><span class="new">${money(d.final, d.currency)}</span></div>
+    </div></a>`;
+}
+
+function renderDeals() {
+  const deals = DATA.deals || [];
+  let html = `<h2>${TITLES.promocoes}</h2>`;
+  if (!deals.length) {
+    html += '<div class="empty">Nenhuma promoção encontrada na última atualização.</div>';
+  } else {
+    html += '<div class="note">Hoje só a Steam tem promoções aqui. Preços em reais, sujeitos a mudança na loja.</div>';
+    html += '<div class="grid">' + deals.map(dealCard).join('') + '</div>';
+  }
+  $('main').innerHTML = html;
+}
+
+function render() {
+  $('chips').style.display = tab === 'promocoes' ? 'none' : 'flex';
+  if (tab === 'promocoes') return renderDeals();
+  const ids = (DATA.sections[tab] || []).filter(id => {
+    const g = DATA.games[id];
+    return g && (plat === 'all' || g.platforms.includes(plat));
+  });
+  let html = `<h2>${TITLES[tab]}</h2>`;
+  if (!ids.length) {
+    html += '<div class="empty">Nenhum jogo nesta seção para o filtro escolhido.</div>';
+  } else {
+    html += '<div class="grid">' + ids.map(id => card(DATA.games[id])).join('') + '</div>';
+  }
+  $('main').innerHTML = html;
+  $('main').querySelectorAll('.card').forEach(c => c.onclick = () => openGame(c.dataset.id));
+}
+
+function card(g) {
+  return `<div class="card" data-id="${g.id}">
+    <div class="img" style="background-image:url('${esc(safe(g.image))}')">
+      ${g.metacritic ? `<div class="score">${g.metacritic}</div>` : ''}
+      <div class="date">${fmtDate(g.released)}</div>
+    </div>
+    <div class="info">
+      <div class="name">${esc(g.name)}</div>
+      <div class="gen">${esc(g.genres.join(' · '))}</div>
+      <div class="plats">${g.platforms.map(p => `<span class="p">${PLAT_LABEL[p]}</span>`).join('')}</div>
+    </div></div>`;
+}
+
+function openGame(id) {
+  const g = DATA.games[id];
+  const trailer = g.trailer ? safe(g.trailer) : safe(g.trailerSearch);
+  $('sheet').innerHTML = `
+    <div class="img" style="background-image:url('${esc(safe(g.image))}')">
+      <button class="close" id="x">✕</button>
+    </div>
+    <div class="body">
+      <div class="name" style="font-size:20px">${esc(g.name)}</div>
+      <div class="gen">${fmtDate(g.released)} · ${esc(g.genres.join(' · '))}</div>
+      <div class="plats">${g.platforms.map(p => `<span class="p">${PLAT_LABEL[p]}</span>`).join('')}</div>
+      <div class="btns">
+        <a class="btn trailer" href="${esc(trailer)}" target="_blank" rel="noopener">▶ Ver trailer</a>
+      </div>
+      <div class="lbl">${g.stores.length ? 'Páginas oficiais nas lojas' : 'Sem link de loja disponível'}</div>
+      <div class="btns">
+        ${g.stores.map(s => `<a class="btn" href="${esc(safe(s.url))}" target="_blank" rel="noopener">Abrir na ${esc(s.name)}</a>`).join('')}
+      </div>
+    </div>`;
+  $('modal').classList.add('open');
+  $('x').onclick = closeModal;
+}
+function closeModal() { $('modal').classList.remove('open'); }
+$('modal').onclick = e => { if (e.target.id === 'modal') closeModal(); };
+
+init();
+</script>
+</body>
+</html>
