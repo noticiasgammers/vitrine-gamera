@@ -103,6 +103,45 @@ async function steamDeals() {
   }
 }
 
+// Steam: jogos gratis. A API nao tem lista propria, entao varre as listas
+// publicas e pega itens com preco final zero.
+//  - original > 0 e desconto 100%  -> gratis por tempo limitado (promo)
+//  - original = 0                  -> free-to-play
+async function steamFreeGames() {
+  try {
+    const res = await fetch('https://store.steampowered.com/api/featuredcategories?cc=br&l=portuguese', {
+      headers: { 'Accept-Language': 'pt-BR' },
+    });
+    if (!res.ok) { console.warn('Steam gratis: HTTP', res.status); return []; }
+    const data = await res.json();
+    const seen = new Set();
+    const out = [];
+    for (const key of ['specials', 'top_sellers', 'new_releases', 'coming_soon']) {
+      for (const i of data?.[key]?.items ?? []) {
+        if (!i || !i.id || seen.has(i.id)) continue;
+        if (i.type !== undefined && i.type !== 0) continue;
+        if (i.final_price !== 0 || i.currency == null) continue;
+        seen.add(i.id);
+        const promo = (i.original_price || 0) > 0;
+        out.push({
+          store: 'Steam',
+          id: Number(i.id),
+          name: i.name,
+          image: i.header_image || i.large_capsule_image || i.small_capsule_image || null,
+          kind: promo ? 'promo' : 'f2p',
+          original: i.original_price || 0,
+          currency: i.currency || 'BRL',
+          url: `https://store.steampowered.com/app/${Number(i.id)}`,
+        });
+      }
+    }
+    return out.sort((a, b) => (a.kind === 'promo' ? -1 : 1) - (b.kind === 'promo' ? -1 : 1));
+  } catch (e) {
+    console.warn('Steam gratis falhou:', e.message);
+    return [];
+  }
+}
+
 console.log('Hoje:', todayStr);
 
 const [destaquesRaw, recentesRaw, proximosRaw, androidRaw] = await Promise.all([
@@ -139,6 +178,10 @@ for (const g of pool.values()) await enrich(g);
 const deals = [...await steamDeals()];
 console.log('Promocoes Steam:', deals.filter(d => d.store === 'Steam').length);
 
+// Jogos gratis
+const freeGames = [...await steamFreeGames()];
+console.log('Jogos gratis Steam:', freeGames.length);
+
 await mkdir('data', { recursive: true });
 await writeFile('data/games.json', JSON.stringify({
   updated: new Date().toISOString(),
@@ -146,5 +189,6 @@ await writeFile('data/games.json', JSON.stringify({
   sections,
   games: Object.fromEntries(pool),
   deals,
+  freeGames,
 }, null, 1));
 console.log('data/games.json salvo');
