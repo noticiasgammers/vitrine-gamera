@@ -1,39 +1,44 @@
 {
- "updated": "2026-10-05T15:53:23.272Z",
- "today": "2026-10-05",
+ "updated": "2026-10-06T09:11:18.862Z",
+ "today": "2026-10-06",
  "sections": {
-  "hoje": [],
+  "hoje": [
+   983213,
+   1017395
+  ],
   "destaques": [
    248521,
    662318,
+   983213,
    1004513,
    802010,
    1015425,
+   1017395,
    1004657,
    1020061,
    1019804,
+   1020035,
    1020012,
    1020111,
    1020110,
-   1020194,
-   1020195,
-   1020258,
-   1019943
+   1020194
   ],
   "lancamentos": [
+   983213,
+   1017395,
    1015425,
    1004513,
    1020258,
    802010,
+   1020319,
    1020196,
+   1020318,
    1020061,
    1019804,
    1020129,
    1020195
   ],
   "proximos": [
-   983213,
-   1017395,
    975605,
    1018102,
    1004664,
@@ -278,7 +283,12 @@
     "Massively Multiplayer",
     "Adventure"
    ],
-   "stores": [],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2694490/"
+    }
+   ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Path%20of%20Exile%202%20trailer"
   },
@@ -340,7 +350,7 @@
    "name": "Marvel's Wolverine",
    "released": "2026-09-15",
    "image": "https://media.rawg.io/media/games/28d/28d61be51ec0411e24c28f71122dcaaf.jpeg",
-   "rating": 3.56,
+   "rating": 3.62,
    "metacritic": null,
    "platforms": [
     "playstation"
@@ -1015,28 +1025,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
   },
-  "1019943": {
-   "id": 1019943,
-   "name": "LED HEARTS",
-   "released": "2026-09-09",
-   "image": "https://media.rawg.io/media/screenshots/166/1664919f9346e8c9a182742902349d55.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5034070/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=LED%20HEARTS%20trailer"
-  },
   "1020012": {
    "id": 1020012,
    "name": "Backrooms: The Entity",
@@ -1059,6 +1047,30 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Entity%20trailer"
+  },
+  "1020035": {
+   "id": 1020035,
+   "name": "PATLABOR the Case Files",
+   "released": "2026-09-16",
+   "image": "https://media.rawg.io/media/screenshots/513/513ee3026e6a05c5aa9285a89d4f506b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3275400/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=PATLABOR%20the%20Case%20Files%20trailer"
   },
   "1020061": {
    "id": 1020061,
@@ -1276,20 +1288,53 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
+  },
+  "1020318": {
+   "id": 1020318,
+   "name": "Formica",
+   "released": "2026-09-25",
+   "image": "https://media.rawg.io/media/screenshots/6f4/6f4b214f7997770701f5fcc90a062b22.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2315630/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Formica%20trailer"
+  },
+  "1020319": {
+   "id": 1020319,
+   "name": "Love Nest ~V0.098~",
+   "released": "2026-09-27",
+   "image": "https://media.rawg.io/media/screenshots/b97/b978bb52c9e06bb006c80e22d4e64699.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5184600/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Love%20Nest%20~V0.098~%20trailer"
   }
  },
  "deals": [
-  {
-   "store": "Steam",
-   "id": 1304930,
-   "name": "The Outlast Trials",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
-   "discount": 90,
-   "original": 10799,
-   "final": 1079,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1304930"
-  },
   {
    "store": "Steam",
    "id": 489830,
@@ -1303,14 +1348,14 @@
   },
   {
    "store": "Steam",
-   "id": 1057090,
-   "name": "Ori and the Will of the Wisps",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+   "id": 1304930,
+   "name": "The Outlast Trials",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
    "discount": 90,
-   "original": 12900,
-   "final": 1290,
+   "original": 10799,
+   "final": 1079,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1057090"
+   "url": "https://store.steampowered.com/app/1304930"
   },
   {
    "store": "Steam",
@@ -1336,14 +1381,36 @@
   },
   {
    "store": "Steam",
-   "id": 1817070,
-   "name": "Marvel’s Spider-Man Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "id": 266410,
+   "name": "iRacing",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
    "discount": 60,
-   "original": 24990,
-   "final": 9996,
+   "original": 3629,
+   "final": 1451,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1817070"
+   "url": "https://store.steampowered.com/app/266410"
+  },
+  {
+   "store": "Steam",
+   "id": 266410,
+   "name": "iRacing",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
+   "discount": 60,
+   "original": 3629,
+   "final": 1451,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/266410"
+  },
+  {
+   "store": "Steam",
+   "id": 266410,
+   "name": "iRacing",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
+   "discount": 60,
+   "original": 3629,
+   "final": 1451,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/266410"
   },
   {
    "store": "Steam",
@@ -1377,17 +1444,6 @@
    "final": 1487,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/4001890"
-  },
-  {
-   "store": "Steam",
-   "id": 1086940,
-   "name": "Baldur's Gate 3",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-   "discount": 30,
-   "original": 19999,
-   "final": 13999,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1086940"
   }
  ]
 }
