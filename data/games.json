@@ -1,27 +1,24 @@
 {
- "updated": "2026-10-06T12:29:54.919Z",
- "today": "2026-10-06",
+ "updated": "2026-10-07T09:11:17.309Z",
+ "today": "2026-10-07",
  "sections": {
-  "hoje": [
-   983213,
-   1017395
-  ],
+  "hoje": [],
   "destaques": [
    248521,
    662318,
    983213,
    1004513,
-   802010,
    1015425,
+   802010,
    1017395,
    1004657,
    1020061,
    1019804,
    1020035,
-   1020012,
    1020111,
    1020110,
-   1020194
+   1020194,
+   1020195
   ],
   "lancamentos": [
    983213,
@@ -35,8 +32,7 @@
    1020318,
    1020061,
    1019804,
-   1020129,
-   1020195
+   1020129
   ],
   "proximos": [
    975605,
@@ -50,7 +46,8 @@
    1012187,
    490430,
    994083,
-   469645
+   469645,
+   1017176
   ],
   "android": [
    1009246,
@@ -933,6 +930,30 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=EmberVille%20trailer"
   },
+  "1017176": {
+   "id": 1017176,
+   "name": "Metro 2039",
+   "released": "2027-02-04",
+   "image": "https://media.rawg.io/media/games/4a5/4a5865eca8376e08a8e31ce278b5248f.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Shooter"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2590240/METRO_2039/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Metro%202039%20trailer"
+  },
   "1017395": {
    "id": 1017395,
    "name": "Star Wars: Galactic Racer",
@@ -1024,29 +1045,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
-  },
-  "1020012": {
-   "id": 1020012,
-   "name": "Backrooms: The Entity",
-   "released": "2026-09-12",
-   "image": "https://media.rawg.io/media/screenshots/dee/deed20e3ebd25ee31daf8d0388901f03.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4727140/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Entity%20trailer"
   },
   "1020035": {
    "id": 1020035,
@@ -1337,17 +1335,6 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 489830,
-   "name": "The Elder Scrolls V: Skyrim Special Edition",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
-   "discount": 90,
-   "original": 14900,
-   "final": 1490,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/489830"
-  },
-  {
-   "store": "Steam",
    "id": 1304930,
    "name": "The Outlast Trials",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
@@ -1356,6 +1343,17 @@
    "final": 1079,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1304930"
+  },
+  {
+   "store": "Steam",
+   "id": 489830,
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+   "discount": 90,
+   "original": 14900,
+   "final": 1490,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/489830"
   },
   {
    "store": "Steam",
@@ -1449,183 +1447,143 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5247270,
-   "name": "Moto Racing Manager",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247270/d15d31e15627a649f882a63a4069d70ae4bbd63e/header.jpg?t=1791286254",
+   "id": 4891320,
+   "name": "[WoG] War of Genesis: Idle Loot",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1791357492",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5247270"
+   "url": "https://store.steampowered.com/app/4891320"
   },
   {
    "store": "Steam",
-   "id": 5190330,
-   "name": "贋作・掟の門（習作）",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190330/cfdf6f48f293efb18ca7a50fb6a1d7d3b8236f7c/header.jpg?t=1791282771",
+   "id": 4709570,
+   "name": "MageTender",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709570/02ae28bb2278bbe356b22d9a49747ed8836e7449/header.jpg?t=1791342726",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5190330"
+   "url": "https://store.steampowered.com/app/4709570"
   },
   {
    "store": "Steam",
-   "id": 4120530,
-   "name": "10CountAvoidance",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4120530/12c1af56308559e57a8985ef5dabc9bbe0e1bc90/header.jpg?t=1791259229",
+   "id": 5243580,
+   "name": "HB Evolution",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5243580/1aca9410b5bb55501a6a209d6e419e0aef15cb6c/header.jpg?t=1791312078",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4120530"
+   "url": "https://store.steampowered.com/app/5243580"
   },
   {
    "store": "Steam",
-   "id": 4583630,
-   "name": "Shadowverse WB Latin America",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4583630/c4d4ca19c6703229e07a8cf132c81a4908327a24/header.jpg?t=1791255090",
+   "id": 4341400,
+   "name": "TUNG",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1791306744",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4583630"
+   "url": "https://store.steampowered.com/app/4341400"
   },
   {
    "store": "Steam",
-   "id": 4030680,
-   "name": "女神：守護之約(Norn Saber : The Guardian's Oath)",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4030680/5af2349dd3b84bc404d18c672a8624ced25457f5/header.jpg?t=1791252583",
+   "id": 5294150,
+   "name": "Broadband Architect Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294150/094b7a21a4776f7baf5a3dd2e50628ffaad2920b/header.jpg?t=1791235418",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4030680"
+   "url": "https://store.steampowered.com/app/5294150"
   },
   {
    "store": "Steam",
-   "id": 5161590,
-   "name": "Deadly Force",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5161590/f4bddcbb3ff5f0172a40a986ecb5907a612cb051/header.jpg?t=1791244236",
+   "id": 5089160,
+   "name": "Agora Não, Alienígenas! Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089160/54116d6876c621139ef77f22737993ab83433d14/header.jpg?t=1790574270",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5161590"
+   "url": "https://store.steampowered.com/app/5089160"
   },
   {
    "store": "Steam",
-   "id": 5128520,
-   "name": "Pogo Gnom",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5128520/867d4d48e9e7af0846c446332d121117b5da1aa9/header.jpg?t=1791247944",
+   "id": 5248170,
+   "name": "Killpath",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248170/82bfde10c54af17bda59670f2dd39ef6021d267c/header.jpg?t=1789740920",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5128520"
+   "url": "https://store.steampowered.com/app/5248170"
   },
   {
    "store": "Steam",
-   "id": 5237770,
-   "name": "Starbloom Ranch",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5237770/6006ded46e75168716629ce853b7b72a77932af4/header.jpg?t=1791237093",
+   "id": 5231870,
+   "name": "OUT OF BOUNDS Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5231870/c278b887221aa7f40ea8197b838b7bff67dd2100/header.jpg?t=1790723885",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5237770"
+   "url": "https://store.steampowered.com/app/5231870"
   },
   {
    "store": "Steam",
-   "id": 4761400,
-   "name": "Stolemates",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761400/9cbb6e6653215577f88b066f8eb053d3998e02bb/header.jpg?t=1791236274",
+   "id": 4822560,
+   "name": "Cats In The Shell Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822560/f16ea3b144412a577f7799d93dd571ed81db5dd0/header.jpg?t=1791315011",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4761400"
+   "url": "https://store.steampowered.com/app/4822560"
   },
   {
    "store": "Steam",
-   "id": 5276970,
-   "name": "Last Delivery",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5276970/41010b15bc0d37b1d8a2755ce6cfaa9ffe558f8f/header.jpg?t=1789982823",
+   "id": 5253300,
+   "name": "DIGITRE:SUM 10/20 Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5253300/7db9666a90e314fce2dd44541ef5293ee2f2fd25/header.jpg?t=1789180817",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5276970"
+   "url": "https://store.steampowered.com/app/5253300"
   },
   {
    "store": "Steam",
-   "id": 5192190,
-   "name": "Watch Party: Watch the Web Together (Demo)",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5192190/97c56d9258f0494b09f0f82aa10dd2812ea9904e/header.jpg?t=1791230702",
+   "id": 5298680,
+   "name": "Shapolor Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298680/668a335dbd92c66c7ce564e3f791cc3a14f744ec/header.jpg?t=1791354035",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5192190"
+   "url": "https://store.steampowered.com/app/5298680"
   },
   {
    "store": "Steam",
-   "id": 5328140,
-   "name": "Only Mining Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328140/e9b11d0ab3a1dad76a9fee33596576aa2cac7b6f/header.jpg?t=1791289622",
+   "id": 4932560,
+   "name": "Annie's DineInn: Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932560/1fd0e469630dc9a08671859f451a33279b9ded9d/header.jpg?t=1790088417",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5328140"
+   "url": "https://store.steampowered.com/app/4932560"
   },
   {
    "store": "Steam",
-   "id": 5160320,
-   "name": "White Christmas Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160320/67272df64d2191fe169469ecd59b70aabb339946/header.jpg?t=1790922840",
+   "id": 5125890,
+   "name": "Puzzle Arrows: The Original",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125890/ec8884a83b71d4250b3076f4171db5d58e3a5977/header.jpg?t=1790229864",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5160320"
+   "url": "https://store.steampowered.com/app/5125890"
   },
   {
    "store": "Steam",
-   "id": 5199370,
-   "name": "WyrmGate Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5199370/d9ed6748295c9ac46bdaf96a86b014cbf4012d02/header.jpg?t=1790976515",
+   "id": 4891640,
+   "name": "Do you remember?",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891640/3223e3be251df17ff5b82bcf59c11d82af2b1e6d/header.jpg?t=1791042585",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5199370"
-  },
-  {
-   "store": "Steam",
-   "id": 5280030,
-   "name": "The Road Remembers",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280030/627a24317350bebedefa7eceba9ff53be8572a2a/header.jpg?t=1790728483",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5280030"
-  },
-  {
-   "store": "Steam",
-   "id": 5167810,
-   "name": "Hot Meals Fast Wheels - Prologue",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5167810/4539d22285b824e1cd7d49efb220e8752f647f0b/header.jpg?t=1790856996",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5167810"
-  },
-  {
-   "store": "Steam",
-   "id": 5090100,
-   "name": "Northgard Battlegrounds Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5090100/b43717039f891770be2c40c13085ef373580d1be/header_alt_assets_0.jpg?t=1791289234",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5090100"
-  },
-  {
-   "store": "Steam",
-   "id": 4197500,
-   "name": "Pinball Chemist",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197500/b2d1fcdfcdf416c33ea6c97437a18086b9b75139/header.jpg?t=1791028518",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4197500"
+   "url": "https://store.steampowered.com/app/4891640"
   }
  ]
 }
