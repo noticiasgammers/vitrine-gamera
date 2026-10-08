@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-07T09:11:17.309Z",
- "today": "2026-10-07",
+ "updated": "2026-10-08T09:11:41.555Z",
+ "today": "2026-10-08",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -30,9 +30,7 @@
    1020319,
    1020196,
    1020318,
-   1020061,
-   1019804,
-   1020129
+   1020061
   ],
   "proximos": [
    975605,
@@ -1172,29 +1170,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
-  "1020129": {
-   "id": 1020129,
-   "name": "Something Weird Will Happen",
-   "released": "2026-09-23",
-   "image": "https://media.rawg.io/media/screenshots/617/6173db572009f3593f46741d69b60bde.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4974630/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Something%20Weird%20Will%20Happen%20trailer"
-  },
   "1020194": {
    "id": 1020194,
    "name": "TAMA JIGOKU",
@@ -1390,17 +1365,6 @@
   },
   {
    "store": "Steam",
-   "id": 1817070,
-   "name": "Marvel’s Spider-Man Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-   "discount": 60,
-   "original": 24990,
-   "final": 9996,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1817070"
-  },
-  {
-   "store": "Steam",
    "id": 3240220,
    "name": "Grand Theft Auto V Enhanced",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1420,6 +1384,17 @@
    "final": 7495,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3240220"
+  },
+  {
+   "store": "Steam",
+   "id": 814380,
+   "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+   "discount": 50,
+   "original": 27400,
+   "final": 13700,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/814380"
   },
   {
    "store": "Steam",
@@ -1447,143 +1422,163 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4891320,
-   "name": "[WoG] War of Genesis: Idle Loot",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1791357492",
+   "id": 4904570,
+   "name": "Taskbar Legends",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904570/878ae95c4c344ac2728db8098bb426dd7c3a5568/header.jpg?t=1791444602",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4891320"
+   "url": "https://store.steampowered.com/app/4904570"
   },
   {
    "store": "Steam",
-   "id": 4709570,
-   "name": "MageTender",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709570/02ae28bb2278bbe356b22d9a49747ed8836e7449/header.jpg?t=1791342726",
+   "id": 5255280,
+   "name": "Beluga Polo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255280/8160fc92ca57f97ac2de3f668c9e28606f0cf904/header.jpg?t=1791439484",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4709570"
+   "url": "https://store.steampowered.com/app/5255280"
   },
   {
    "store": "Steam",
-   "id": 5243580,
-   "name": "HB Evolution",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5243580/1aca9410b5bb55501a6a209d6e419e0aef15cb6c/header.jpg?t=1791312078",
+   "id": 5041280,
+   "name": "Angel Legion-DLC Myriad Splendor H",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041280/911969bb70ec7cec87300181a793eeb4d9b4b33a/header.jpg?t=1791438175",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5243580"
+   "url": "https://store.steampowered.com/app/5041280"
   },
   {
    "store": "Steam",
-   "id": 4341400,
-   "name": "TUNG",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4341400/80b51905ea100c8437c11e8e455c2d0b993e2448/header.jpg?t=1791306744",
+   "id": 5005680,
+   "name": "CatPoker",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005680/c91e08a40676f1ca2ffa6fc5f08abb123bb696d0/header.jpg?t=1791437185",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4341400"
+   "url": "https://store.steampowered.com/app/5005680"
   },
   {
    "store": "Steam",
-   "id": 5294150,
-   "name": "Broadband Architect Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294150/094b7a21a4776f7baf5a3dd2e50628ffaad2920b/header.jpg?t=1791235418",
+   "id": 5037330,
+   "name": "The Loer Chronicles",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037330/f35d8c7b1ec2d7c4d4b731799e84a5396429c3fa/header.jpg?t=1791432244",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5294150"
+   "url": "https://store.steampowered.com/app/5037330"
   },
   {
    "store": "Steam",
-   "id": 5089160,
-   "name": "Agora Não, Alienígenas! Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089160/54116d6876c621139ef77f22737993ab83433d14/header.jpg?t=1790574270",
+   "id": 5178350,
+   "name": "Yulgang W",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5178350/c499370bccdef35fb60b61a147ae1399fc8aaa40/header.jpg?t=1791428531",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5089160"
+   "url": "https://store.steampowered.com/app/5178350"
   },
   {
    "store": "Steam",
-   "id": 5248170,
-   "name": "Killpath",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248170/82bfde10c54af17bda59670f2dd39ef6021d267c/header.jpg?t=1789740920",
+   "id": 5173790,
+   "name": "不是一款拼单词游戏",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173790/1e084de1412f35c8cb6fd695516da66580eafc43/header.jpg?t=1791423369",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5248170"
+   "url": "https://store.steampowered.com/app/5173790"
   },
   {
    "store": "Steam",
-   "id": 5231870,
-   "name": "OUT OF BOUNDS Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5231870/c278b887221aa7f40ea8197b838b7bff67dd2100/header.jpg?t=1790723885",
+   "id": 5252920,
+   "name": "かみひより ～識塗り編～ 体験版",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5252920/82ae0d70347080f51526c318b7a9e0a38c1c01de/header.jpg?t=1791450046",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5231870"
+   "url": "https://store.steampowered.com/app/5252920"
   },
   {
    "store": "Steam",
-   "id": 4822560,
-   "name": "Cats In The Shell Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822560/f16ea3b144412a577f7799d93dd571ed81db5dd0/header.jpg?t=1791315011",
+   "id": 5129800,
+   "name": "Epic Seven Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129800/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1791450114",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4822560"
+   "url": "https://store.steampowered.com/app/5129800"
   },
   {
    "store": "Steam",
-   "id": 5253300,
-   "name": "DIGITRE:SUM 10/20 Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5253300/7db9666a90e314fce2dd44541ef5293ee2f2fd25/header.jpg?t=1789180817",
+   "id": 5324860,
+   "name": "MIU",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5324860/28f9e7a1ab9ff390c567032736282add25071974/header.jpg?t=1790962603",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5253300"
+   "url": "https://store.steampowered.com/app/5324860"
   },
   {
    "store": "Steam",
-   "id": 5298680,
-   "name": "Shapolor Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298680/668a335dbd92c66c7ce564e3f791cc3a14f744ec/header.jpg?t=1791354035",
+   "id": 5326590,
+   "name": "Re:Red Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5326590/4c4fcfedce9bc319cfe3518bf28f61d85d31df75/header.jpg?t=1791394274",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5298680"
+   "url": "https://store.steampowered.com/app/5326590"
   },
   {
    "store": "Steam",
-   "id": 4932560,
-   "name": "Annie's DineInn: Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932560/1fd0e469630dc9a08671859f451a33279b9ded9d/header.jpg?t=1790088417",
+   "id": 1352700,
+   "name": "Dancing with Ghosts",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1352700/686a040b4794e031f67d70ca096f65d3c0087e8d/header.jpg?t=1791429553",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4932560"
+   "url": "https://store.steampowered.com/app/1352700"
   },
   {
    "store": "Steam",
-   "id": 5125890,
-   "name": "Puzzle Arrows: The Original",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125890/ec8884a83b71d4250b3076f4171db5d58e3a5977/header.jpg?t=1790229864",
+   "id": 5130480,
+   "name": "Organize as Capivaras!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130480/13edff66f11240d5fcb217805745d0473a174a7f/header.jpg?t=1791430244",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5125890"
+   "url": "https://store.steampowered.com/app/5130480"
   },
   {
    "store": "Steam",
-   "id": 4891640,
-   "name": "Do you remember?",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891640/3223e3be251df17ff5b82bcf59c11d82af2b1e6d/header.jpg?t=1791042585",
+   "id": 4323330,
+   "name": "Extinction Zone",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323330/38dae90c0af766a69952648a8f186506522f5c16/header.jpg?t=1786098008",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4891640"
+   "url": "https://store.steampowered.com/app/4323330"
+  },
+  {
+   "store": "Steam",
+   "id": 5320850,
+   "name": "FROG IN THE HOLE! Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5320850/aff90e19cb346e1ec694330e21a46d847b97e8fb/header_alt_assets_0.jpg?t=1791411681",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5320850"
+  },
+  {
+   "store": "Steam",
+   "id": 4891650,
+   "name": "PlantUp",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891650/e4fc2a7321901dc2c3915d3391abe2b2667a40ae/header.jpg?t=1791450640",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4891650"
   }
  ]
 }
