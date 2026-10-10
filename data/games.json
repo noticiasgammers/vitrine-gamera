@@ -1,15 +1,14 @@
 {
- "updated": "2026-10-09T09:11:45.387Z",
- "today": "2026-10-09",
+ "updated": "2026-10-10T09:08:44.306Z",
+ "today": "2026-10-10",
  "sections": {
   "hoje": [],
   "destaques": [
-   248521,
    662318,
    983213,
    1004513,
-   1015425,
    802010,
+   1015425,
    1017395,
    1004657,
    1020061,
@@ -17,20 +16,23 @@
    1020035,
    1020111,
    1020110,
-   1020194,
-   1020195
+   1020195,
+   1020012,
+   1020258
   ],
   "lancamentos": [
+   1020339,
    983213,
    1017395,
+   1020420,
    1015425,
+   1020419,
+   1020418,
    1004513,
    1020258,
    802010,
-   1020319,
-   1020196,
-   1020318,
-   1020061
+   1020417,
+   1020319
   ],
   "proximos": [
    975605,
@@ -212,29 +214,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Bouncy%20Ball%20trailer"
   },
-  "248521": {
-   "id": 248521,
-   "name": "Valheim",
-   "released": "2026-09-09",
-   "image": "https://media.rawg.io/media/games/adb/adb59be81367b19c2544457424bcf086.jpg",
-   "rating": 3.98,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/892970/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Valheim%20trailer"
-  },
   "391403": {
    "id": 391403,
    "name": "Path of Exile 2",
@@ -403,7 +382,7 @@
    "name": "Enshrouded",
    "released": "2026-10-15",
    "image": "https://media.rawg.io/media/games/23a/23a1c71366aea4341aec483c9dd08a59.jpg",
-   "rating": 3.71,
+   "rating": 3.69,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -426,7 +405,7 @@
    "name": "Gears of War: E-Day",
    "released": "2026-10-06",
    "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-   "rating": 3.5,
+   "rating": 3.71,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1015,6 +994,29 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
   },
+  "1020012": {
+   "id": 1020012,
+   "name": "Backrooms: The Entity",
+   "released": "2026-09-12",
+   "image": "https://media.rawg.io/media/screenshots/dee/deed20e3ebd25ee31daf8d0388901f03.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4727140/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Entity%20trailer"
+  },
   "1020035": {
    "id": 1020035,
    "name": "PATLABOR the Case Files",
@@ -1141,29 +1143,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
-  "1020194": {
-   "id": 1020194,
-   "name": "TAMA JIGOKU",
-   "released": "2026-09-09",
-   "image": "https://media.rawg.io/media/screenshots/2cc/2cc1ba313a29d05b191ce9d6586c84ee.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3265560/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=TAMA%20JIGOKU%20trailer"
-  },
   "1020195": {
    "id": 1020195,
    "name": "Beyond the Broken Veil",
@@ -1186,29 +1165,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Beyond%20the%20Broken%20Veil%20trailer"
-  },
-  "1020196": {
-   "id": 1020196,
-   "name": "Surrounded by Scrunchies",
-   "released": "2026-09-25",
-   "image": "https://media.rawg.io/media/screenshots/2a1/2a1e92e9c23044036bde6a2753ee433c.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5228310/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Surrounded%20by%20Scrunchies%20trailer"
   },
   "1020258": {
    "id": 1020258,
@@ -1233,28 +1189,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
   },
-  "1020318": {
-   "id": 1020318,
-   "name": "Formica",
-   "released": "2026-09-25",
-   "image": "https://media.rawg.io/media/screenshots/6f4/6f4b214f7997770701f5fcc90a062b22.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2315630/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Formica%20trailer"
-  },
   "1020319": {
    "id": 1020319,
    "name": "Love Nest ~V0.098~",
@@ -1276,6 +1210,120 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Love%20Nest%20~V0.098~%20trailer"
+  },
+  "1020339": {
+   "id": 1020339,
+   "name": "Demonator",
+   "released": "2026-10-07",
+   "image": "https://media.rawg.io/media/screenshots/752/7523a71e2777cd819034c7a1c2308d65.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5293950/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Demonator%20trailer"
+  },
+  "1020417": {
+   "id": 1020417,
+   "name": "My Zombies Are Hungry",
+   "released": "2026-09-28",
+   "image": "https://media.rawg.io/media/screenshots/5b5/5b5daa946af1410f968b5a24db1f6fe4.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5239600/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=My%20Zombies%20Are%20Hungry%20trailer"
+  },
+  "1020418": {
+   "id": 1020418,
+   "name": "Simple Squares",
+   "released": "2026-10-01",
+   "image": "https://media.rawg.io/media/screenshots/ea7/ea7ca99e75b9838cafc355896707ac39.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4611290/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Simple%20Squares%20trailer"
+  },
+  "1020419": {
+   "id": 1020419,
+   "name": "Only Straight Bros",
+   "released": "2026-10-02",
+   "image": "https://media.rawg.io/media/screenshots/16d/16d9462a3747218b7c7c70f94a3f8eb7.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5021060/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Only%20Straight%20Bros%20trailer"
+  },
+  "1020420": {
+   "id": 1020420,
+   "name": "GACHA AND SLEEP",
+   "released": "2026-10-05",
+   "image": "https://media.rawg.io/media/screenshots/b8c/b8ca8ec1ddec017a1cd923471667ac48.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2101640/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=GACHA%20AND%20SLEEP%20trailer"
   }
  },
  "deals": [
@@ -1303,17 +1351,6 @@
   },
   {
    "store": "Steam",
-   "id": 1620730,
-   "name": "Hell is Us",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/dfcfb243a5ce1352f2bb080b1eb531ce0cd2cccc/header_alt_assets_0.jpg?t=1791467530",
-   "discount": 70,
-   "original": 17999,
-   "final": 5399,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1620730"
-  },
-  {
-   "store": "Steam",
    "id": 3240220,
    "name": "Grand Theft Auto V Enhanced",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1322,17 +1359,6 @@
    "final": 9895,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3240220"
-  },
-  {
-   "store": "Steam",
-   "id": 1808500,
-   "name": "ARC Raiders",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
-   "discount": 50,
-   "original": 16900,
-   "final": 8450,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1808500"
   },
   {
    "store": "Steam",
@@ -1347,6 +1373,17 @@
   },
   {
    "store": "Steam",
+   "id": 1808500,
+   "name": "ARC Raiders",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
+   "discount": 50,
+   "original": 16900,
+   "final": 8450,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1808500"
+  },
+  {
+   "store": "Steam",
    "id": 105600,
    "name": "Terraria",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
@@ -1355,6 +1392,17 @@
    "final": 1649,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/105600"
+  },
+  {
+   "store": "Steam",
+   "id": 4656000,
+   "name": "BOMBANANA!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+   "discount": 40,
+   "original": 1999,
+   "final": 1199,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4656000"
   },
   {
    "store": "Steam",
@@ -1369,14 +1417,14 @@
   },
   {
    "store": "Steam",
-   "id": 3883570,
-   "name": "Invokyr",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791485649",
-   "discount": 25,
-   "original": 4799,
-   "final": 3599,
+   "id": 3031880,
+   "name": "Car Park Capital",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
+   "discount": 10,
+   "original": 5499,
+   "final": 4949,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3883570"
+   "url": "https://store.steampowered.com/app/3031880"
   },
   {
    "store": "Steam",
@@ -1393,163 +1441,213 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4096710,
-   "name": "KRONITE VOID",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096710/831e2cec299b921412e654450da339c8475fc674/header.jpg?t=1791524507",
+   "id": 4979430,
+   "name": "The Enchanted Crayon",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979430/2391b522a93cdbbfa36f3fb06f9327679c295466/header.jpg?t=1791618001",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4096710"
+   "url": "https://store.steampowered.com/app/4979430"
   },
   {
    "store": "Steam",
-   "id": 839140,
-   "name": "修仙界",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839140/a7934a87204c41dbc10746ee4f5811291ee66002/header.jpg?t=1791524087",
+   "id": 4150920,
+   "name": "The Szyk",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150920/680c3404b3e164693a6ab829fbef956d46f33d6f/header.jpg?t=1791617385",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/839140"
+   "url": "https://store.steampowered.com/app/4150920"
   },
   {
    "store": "Steam",
-   "id": 4744820,
-   "name": "CRYSTASH!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744820/97782ebf7f3d1f070ce072b5a15867c1bbec2a1d/header.jpg?t=1791511330",
+   "id": 4711830,
+   "name": "Evenin' Shift",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711830/69e52302ad3621b83ef123cd8b7ab0e960e1df5c/header.jpg?t=1791615909",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4744820"
+   "url": "https://store.steampowered.com/app/4711830"
   },
   {
    "store": "Steam",
-   "id": 4744800,
-   "name": "Rush Aim Show",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744800/d2e2bf5d8caea2e94c413cef0ccb5b0b45a034ec/header.jpg?t=1791511286",
+   "id": 4846870,
+   "name": "キズツケ kizutsuke",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4846870/9cfe51a0413150cf0086c45d3249f55ba9cc3df2/header.jpg?t=1791617478",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4744800"
+   "url": "https://store.steampowered.com/app/4846870"
   },
   {
    "store": "Steam",
-   "id": 4744830,
-   "name": "Kickin' Elevator",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744830/37f68f6f6845a81ef957ec8c4bbae5af0dfc0762/header.jpg?t=1791511225",
+   "id": 5105400,
+   "name": "SPACE JK",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105400/443fc1089b9fe857b73476ac18e2685d37e36652/header.jpg?t=1791608363",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4744830"
+   "url": "https://store.steampowered.com/app/5105400"
   },
   {
    "store": "Steam",
-   "id": 5057270,
-   "name": "明月专属传奇",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5057270/35c244214b77a54238bd5d3ff751a488922fa47c/header.jpg?t=1791510688",
+   "id": 4330940,
+   "name": "Lord Liberty Quest II ~Pure White~",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4330940/0c2109955641c4b9bfd831867603277ac2a35f90/header.jpg?t=1791601203",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5057270"
+   "url": "https://store.steampowered.com/app/4330940"
   },
   {
    "store": "Steam",
-   "id": 5206450,
-   "name": "Long March",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206450/312ad9df17bead349aa87c1b52d2701e7a899b76/header.jpg?t=1791508925",
+   "id": 5099990,
+   "name": "농구제왕",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099990/3dc316953fd75ad6900c68618c4370e302ebdbe4/header.jpg?t=1791597619",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5206450"
+   "url": "https://store.steampowered.com/app/5099990"
   },
   {
    "store": "Steam",
-   "id": 5343270,
-   "name": "ROCK CORE",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5343270/bb5852b59c7500c3a30846db92ac32f789339f6b/header.jpg?t=1790925137",
+   "id": 4632980,
+   "name": "Light Work",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632980/b23dde9d311d3134e46bcb21ed5520be72d98b68/header.jpg?t=1791590287",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5343270"
+   "url": "https://store.steampowered.com/app/4632980"
   },
   {
    "store": "Steam",
-   "id": 4524500,
-   "name": "Final Selection",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4524500/67842ad895485c8d47e68eeaaff75faf1679f27f/header.jpg?t=1791293953",
+   "id": 4666760,
+   "name": "Lang Ops: Blank Canvas",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666760/4f18c23ba5e4915f7107e1a704bb4a2c3a2f48b9/header.jpg?t=1791583224",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4524500"
+   "url": "https://store.steampowered.com/app/4666760"
   },
   {
    "store": "Steam",
-   "id": 4613010,
-   "name": "The Matron of Ashes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613010/49ce02c68ed6da368f4aab9a9be62d46ea1baf03/header.jpg?t=1790345794",
+   "id": 5309680,
+   "name": "Coldstar",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5309680/f78a40d039788c987f65e0df594ed9defaad2bf1/header.jpg?t=1791575126",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4613010"
+   "url": "https://store.steampowered.com/app/5309680"
   },
   {
    "store": "Steam",
-   "id": 4978570,
-   "name": "Частота 17 Герц Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4978570/78d866b512e4ed6158044b1ae5a220f4e0bcefd5/header.jpg?t=1791193575",
+   "id": 4731030,
+   "name": "Webs of Reverie",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731030/efdf47c00601e935962ef9b8900a6aae807091a7/header.jpg?t=1791572303",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4978570"
+   "url": "https://store.steampowered.com/app/4731030"
   },
   {
    "store": "Steam",
-   "id": 5162540,
-   "name": "昼夜事件",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5162540/6e51aa1cee870ba18d0ad40f64bdbdb717664fb0/header.jpg?t=1791016147",
+   "id": 4843280,
+   "name": "Nova Warp",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843280/c9dd5c3810847d834dad98cbe04ca80f51e718a6/header.jpg?t=1791565836",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5162540"
+   "url": "https://store.steampowered.com/app/4843280"
   },
   {
    "store": "Steam",
-   "id": 5145640,
-   "name": "Battle Bot Tactics Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145640/7d20d5ebdb04e3704acc04b500cd056a283c3d25/header.jpg?t=1790690901",
+   "id": 3627560,
+   "name": "Bounty Hunter Horrors",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3627560/6e8a2da31174d37aa5bc545596553cfd7dd62183/header.jpg?t=1790814064",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5145640"
+   "url": "https://store.steampowered.com/app/3627560"
   },
   {
    "store": "Steam",
-   "id": 5317980,
-   "name": "THIS GAME COSTS $500",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5317980/67cf284aed6f65926c534ef7a44c080728ed9baf/header.jpg?t=1791321564",
+   "id": 5114480,
+   "name": "The Cup Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114480/648cef84191edddda2419e7125cd3ece629ff19d/header.jpg?t=1791601921",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5317980"
+   "url": "https://store.steampowered.com/app/5114480"
   },
   {
    "store": "Steam",
-   "id": 3031880,
-   "name": "Car Park Capital",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791385559",
+   "id": 4575830,
+   "name": "Big Furry Weekends!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575830/88c830e3eb4218573c5704157f13c6477a7ab8f8/header.jpg?t=1789868313",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3031880"
+   "url": "https://store.steampowered.com/app/4575830"
   },
   {
    "store": "Steam",
-   "id": 5313150,
-   "name": "YumeGirl Original Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5313150/42f3986555bca50d0a4e4d63247390bc53998890/header.jpg?t=1791462907",
+   "id": 5138180,
+   "name": "Don't Give Up",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138180/dbc3ec153a9787ee9ba07f83af909fcf5821c767/header.jpg?t=1790541460",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5313150"
+   "url": "https://store.steampowered.com/app/5138180"
+  },
+  {
+   "store": "Steam",
+   "id": 5132010,
+   "name": "Q-Rely: AI Friend",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5132010/8e0b8c963250b9309ce1e77422573be2dd93f812/header.jpg?t=1790111626",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5132010"
+  },
+  {
+   "store": "Steam",
+   "id": 5102310,
+   "name": "DISK-Y Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102310/57d0eabeda5208fbe326ea38860a52ce2ff75efc/header.jpg?t=1790486533",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5102310"
+  },
+  {
+   "store": "Steam",
+   "id": 5371780,
+   "name": "Monster Showdown Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371780/e2e3b46182e65ee34055a21799346a3402097e51/header.jpg?t=1791420216",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5371780"
+  },
+  {
+   "store": "Steam",
+   "id": 4894260,
+   "name": "Inspector Sommers in: Ouroborian Madness",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894260/4a99329c88781b73a92772fd6f8ddbc037ccd25b/header.jpg?t=1790880990",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4894260"
+  },
+  {
+   "store": "Steam",
+   "id": 5332620,
+   "name": "Frota Fantasma",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5332620/5d82081fd520571b9112ed3dbfdfd9f13078a008/header_portuguese.jpg?t=1791241193",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5332620"
   }
  ]
 }
