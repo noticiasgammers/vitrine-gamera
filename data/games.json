@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-11T09:09:57.489Z",
- "today": "2026-10-11",
+ "updated": "2026-10-12T09:13:16.210Z",
+ "today": "2026-10-12",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -13,8 +13,8 @@
    1004657,
    1020061,
    1019804,
-   1020035,
    1020317,
+   1020035,
    1020111,
    1020110,
    1020195,
@@ -31,8 +31,7 @@
    1004513,
    1020258,
    802010,
-   1020417,
-   1020319
+   1020417
   ],
   "proximos": [
    975605,
@@ -219,7 +218,7 @@
    "name": "Path of Exile 2",
    "released": "2026-12-11",
    "image": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
-   "rating": 3.53,
+   "rating": 3.52,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -295,7 +294,7 @@
    "name": "Marvel's Wolverine",
    "released": "2026-09-15",
    "image": "https://media.rawg.io/media/games/28d/28d61be51ec0411e24c28f71122dcaaf.jpeg",
-   "rating": 3.65,
+   "rating": 3.64,
    "metacritic": null,
    "platforms": [
     "playstation"
@@ -405,7 +404,7 @@
    "name": "Gears of War: E-Day",
    "released": "2026-10-06",
    "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-   "rating": 3.71,
+   "rating": 3.75,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1191,9 +1190,9 @@
   },
   "1020317": {
    "id": 1020317,
-   "name": "lily's world XD",
+   "name": "Lily's World XD",
    "released": "2026-09-17",
-   "image": "https://media.rawg.io/media/screenshots/af7/af7b1f1b6fcff3b9f170547610f7dcfc.jpg",
+   "image": "https://media.rawg.io/media/games/3ea/3ea3624524929c413552cf8ad49c5482.jpg",
    "rating": null,
    "metacritic": null,
    "platforms": [
@@ -1210,29 +1209,7 @@
     }
    ],
    "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=lily's%20world%20XD%20trailer"
-  },
-  "1020319": {
-   "id": 1020319,
-   "name": "Love Nest ~V0.098~",
-   "released": "2026-09-27",
-   "image": "https://media.rawg.io/media/screenshots/b97/b978bb52c9e06bb006c80e22d4e64699.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5184600/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Love%20Nest%20~V0.098~%20trailer"
+   "trailerSearch": "https://www.youtube.com/results?search_query=Lily's%20World%20XD%20trailer"
   },
   "1020339": {
    "id": 1020339,
@@ -1374,6 +1351,17 @@
   },
   {
    "store": "Steam",
+   "id": 632360,
+   "name": "Risk of Rain 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
+   "discount": 67,
+   "original": 5999,
+   "final": 1979,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/632360"
+  },
+  {
+   "store": "Steam",
    "id": 3240220,
    "name": "Grand Theft Auto V Enhanced",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1396,17 +1384,6 @@
   },
   {
    "store": "Steam",
-   "id": 105600,
-   "name": "Terraria",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-   "discount": 50,
-   "original": 3299,
-   "final": 1649,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/105600"
-  },
-  {
-   "store": "Steam",
    "id": 814380,
    "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
@@ -1415,6 +1392,17 @@
    "final": 13700,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/814380"
+  },
+  {
+   "store": "Steam",
+   "id": 105600,
+   "name": "Terraria",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+   "discount": 50,
+   "original": 3299,
+   "final": 1649,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/105600"
   },
   {
    "store": "Steam",
@@ -1429,6 +1417,17 @@
   },
   {
    "store": "Steam",
+   "id": 1621690,
+   "name": "Core Keeper",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
+   "discount": 40,
+   "original": 5999,
+   "final": 3599,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1621690"
+  },
+  {
+   "store": "Steam",
    "id": 1623730,
    "name": "Palworld",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
@@ -1437,56 +1436,34 @@
    "final": 6229,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1623730"
-  },
-  {
-   "store": "Steam",
-   "id": 3883570,
-   "name": "Invokyr",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-   "discount": 25,
-   "original": 4799,
-   "final": 3599,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3883570"
-  },
-  {
-   "store": "Steam",
-   "id": 2333000,
-   "name": "Silver Pines",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/2ce661be5b6e60b8fcc92ecdf3f9dc2dca2a9037/header.jpg?t=1791483390",
-   "discount": 10,
-   "original": 6799,
-   "final": 6119,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2333000"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5136630,
-   "name": "CyberCowboys",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136630/8d2b7a6c99edc3aebb98b4cce8ef17497dad24a5/header.jpg?t=1791672464",
+   "id": 5299150,
+   "name": "PanzerCity",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5299150/0795c2e0368c0a42b956da5f9946ddf27332f852/header.jpg?t=1791789075",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5136630"
+   "url": "https://store.steampowered.com/app/5299150"
   },
   {
    "store": "Steam",
-   "id": 1965430,
-   "name": "BOSS ARENA: The Goldilock One Trials",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965430/02c57d8ea1acc6b1232ede1238ddd24159b6ccfc/header.jpg?t=1791638459",
+   "id": 5224380,
+   "name": "Demersus",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224380/52a49b05b4365c427e83fb75c5f643eab5e2455e/header.jpg?t=1791772978",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1965430"
+   "url": "https://store.steampowered.com/app/5224380"
   },
   {
    "store": "Steam",
    "id": 5138180,
    "name": "Don't Give Up",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138180/dbc3ec153a9787ee9ba07f83af909fcf5821c767/header.jpg?t=1790541460",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138180/dbc3ec153a9787ee9ba07f83af909fcf5821c767/header.jpg?t=1791746151",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
@@ -1494,93 +1471,83 @@
   },
   {
    "store": "Steam",
-   "id": 5371780,
-   "name": "Monster Showdown Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371780/e2e3b46182e65ee34055a21799346a3402097e51/header.jpg?t=1791420216",
+   "id": 5282110,
+   "name": "中国式高考ChineseGaokao‌",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282110/94b7e9ca879a5ee4f11f72a18a94a70b7d549897/header.jpg?t=1791074249",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5371780"
+   "url": "https://store.steampowered.com/app/5282110"
   },
   {
    "store": "Steam",
-   "id": 5102310,
-   "name": "DISK-Y Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102310/57d0eabeda5208fbe326ea38860a52ce2ff75efc/header.jpg?t=1790486533",
+   "id": 5338230,
+   "name": "Security Duty",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338230/8f6ab9f602f81956e8bdddb821ba6b01d081b5e6/header.jpg?t=1790921002",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5102310"
+   "url": "https://store.steampowered.com/app/5338230"
   },
   {
    "store": "Steam",
-   "id": 5332620,
-   "name": "Frota Fantasma",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5332620/5d82081fd520571b9112ed3dbfdfd9f13078a008/header_portuguese.jpg?t=1791241193",
+   "id": 5405010,
+   "name": "Slingbox Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5405010/f66c236921b0e83b7873af0b2c8b1fecfa47e119/header.jpg?t=1791377013",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5332620"
+   "url": "https://store.steampowered.com/app/5405010"
   },
   {
    "store": "Steam",
-   "id": 4894260,
-   "name": "Inspector Sommers in: Ouroborian Madness",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894260/4a99329c88781b73a92772fd6f8ddbc037ccd25b/header.jpg?t=1790880990",
+   "id": 5363200,
+   "name": "Pizzapoly Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5363200/6fef5b545f5f59b3df76cba061cd25dfa6fc393a/header.jpg?t=1791642495",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4894260"
+   "url": "https://store.steampowered.com/app/5363200"
   },
   {
    "store": "Steam",
-   "id": 3580070,
-   "name": "Within",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3580070/ac08f364cdb232aec19a9305eeb73f009a10c775/header.jpg?t=1789206594",
+   "id": 3356000,
+   "name": "The Traveller's Sight",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356000/e275f1766aa7b632aa019f7629e756fda34d81dd/header.jpg?t=1791493062",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3580070"
+   "url": "https://store.steampowered.com/app/3356000"
   },
   {
    "store": "Steam",
-   "id": 5414690,
-   "name": "Illegourmet Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5414690/b220c957864de6b0288f400db63b687d3a8e5521/header.jpg?t=1791486407",
+   "id": 5076390,
+   "name": "The Rifted Skies Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076390/f3b3ac21e40bcf698fd2f25fcb6880e0e94ade78/header.jpg?t=1791206444",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5414690"
+   "url": "https://store.steampowered.com/app/5076390"
   },
   {
    "store": "Steam",
-   "id": 5189940,
-   "name": "Next time... I'll work from home",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189940/4247bfdf9d6d8eef56ba92a7f9ff59d4f78dd22f/header.jpg?t=1791571155",
+   "id": 4911970,
+   "name": "Demon God Story",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911970/fa1b1e12c5bb4d66e8aa92888be89c4f34efce6f/header.jpg?t=1785938876",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5189940"
+   "url": "https://store.steampowered.com/app/4911970"
   },
   {
    "store": "Steam",
-   "id": 5315210,
-   "name": "Massively Singleplayer Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5315210/6f330aa4f89a1449a2cc0cbe01aaaf1f454003b3/header.jpg?t=1791661363",
+   "id": 3301010,
+   "name": "Den-Den: Tokyo Horror",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301010/09815a8cd4f0d34dccaa431a0572312d54dde0ef/header.jpg?t=1791439288",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5315210"
-  },
-  {
-   "store": "Steam",
-   "id": 5127640,
-   "name": "SuperNatural Market: Sell or Die Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127640/22c55af5216fee79298ed0b5965eec1786929c63/header.jpg?t=1791561424",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5127640"
+   "url": "https://store.steampowered.com/app/3301010"
   }
  ]
 }
