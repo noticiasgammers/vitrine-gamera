@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-12T09:13:16.210Z",
- "today": "2026-10-12",
+ "updated": "2026-10-13T09:13:01.434Z",
+ "today": "2026-10-13",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -18,20 +18,22 @@
    1020111,
    1020110,
    1020195,
-   1020012
+   1020258
   ],
   "lancamentos": [
+   1020459,
+   1020461,
    1020339,
    983213,
    1017395,
    1020420,
+   1020460,
    1015425,
    1020419,
    1020418,
    1004513,
    1020258,
-   802010,
-   1020417
+   802010
   ],
   "proximos": [
    975605,
@@ -59,7 +61,6 @@
    1016313,
    1011216,
    1016362,
-   1013673,
    1016077,
    1016363,
    1016078,
@@ -606,23 +607,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=They%20Come%20in%20Fives%20trailer"
   },
-  "1013673": {
-   "id": 1013673,
-   "name": "Polandball Go",
-   "released": "2025-10-12",
-   "image": "https://media.rawg.io/media/screenshots/ebf/ebffda7aad0dbbc0527e661d2b842c9e.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "android"
-   ],
-   "genres": [
-    "Strategy"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Polandball%20Go%20trailer"
-  },
   "1015317": {
    "id": 1015317,
    "name": "Resident Evil: Survival Unit",
@@ -993,29 +977,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
   },
-  "1020012": {
-   "id": 1020012,
-   "name": "Backrooms: The Entity",
-   "released": "2026-09-12",
-   "image": "https://media.rawg.io/media/screenshots/dee/deed20e3ebd25ee31daf8d0388901f03.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4727140/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Entity%20trailer"
-  },
   "1020035": {
    "id": 1020035,
    "name": "PATLABOR the Case Files",
@@ -1234,29 +1195,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Demonator%20trailer"
   },
-  "1020417": {
-   "id": 1020417,
-   "name": "My Zombies Are Hungry",
-   "released": "2026-09-28",
-   "image": "https://media.rawg.io/media/screenshots/5b5/5b5daa946af1410f968b5a24db1f6fe4.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5239600/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=My%20Zombies%20Are%20Hungry%20trailer"
-  },
   "1020418": {
    "id": 1020418,
    "name": "Simple Squares",
@@ -1324,6 +1262,75 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=GACHA%20AND%20SLEEP%20trailer"
+  },
+  "1020459": {
+   "id": 1020459,
+   "name": "キズツケ kizutsuke",
+   "released": "2026-10-10",
+   "image": "https://media.rawg.io/media/screenshots/9ba/9bace80ff57ebde1c6dab30f73edb13a.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4846870/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%E3%82%AD%E3%82%BA%E3%83%84%E3%82%B1%20kizutsuke%20trailer"
+  },
+  "1020460": {
+   "id": 1020460,
+   "name": "蒼海 -AOMI",
+   "released": "2026-10-04",
+   "image": "https://media.rawg.io/media/screenshots/e83/e8376d40623d15fc3627313967d47d40.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5231010/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%E8%92%BC%E6%B5%B7%20-AOMI%20trailer"
+  },
+  "1020461": {
+   "id": 1020461,
+   "name": "Fatal Haven",
+   "released": "2026-10-08",
+   "image": "https://media.rawg.io/media/screenshots/06f/06f5386a8008358c785f372aa9cd9577.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5104830/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Fatal%20Haven%20trailer"
   }
  },
  "deals": [
@@ -1337,28 +1344,6 @@
    "final": 7497,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1174180"
-  },
-  {
-   "store": "Steam",
-   "id": 2138710,
-   "name": "Sifu",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1782742326",
-   "discount": 75,
-   "original": 7599,
-   "final": 1899,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2138710"
-  },
-  {
-   "store": "Steam",
-   "id": 632360,
-   "name": "Risk of Rain 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
-   "discount": 67,
-   "original": 5999,
-   "final": 1979,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/632360"
   },
   {
    "store": "Steam",
@@ -1406,17 +1391,6 @@
   },
   {
    "store": "Steam",
-   "id": 4656000,
-   "name": "BOMBANANA!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
-   "discount": 40,
-   "original": 1999,
-   "final": 1199,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4656000"
-  },
-  {
-   "store": "Steam",
    "id": 1621690,
    "name": "Core Keeper",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
@@ -1428,6 +1402,17 @@
   },
   {
    "store": "Steam",
+   "id": 4656000,
+   "name": "BOMBANANA!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+   "discount": 40,
+   "original": 1999,
+   "final": 1199,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4656000"
+  },
+  {
+   "store": "Steam",
    "id": 1623730,
    "name": "Palworld",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
@@ -1436,118 +1421,179 @@
    "final": 6229,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1623730"
+  },
+  {
+   "store": "Steam",
+   "id": 3883570,
+   "name": "Invokyr",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
+   "discount": 25,
+   "original": 4799,
+   "final": 3599,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3883570"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5299150,
-   "name": "PanzerCity",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5299150/0795c2e0368c0a42b956da5f9946ddf27332f852/header.jpg?t=1791789075",
+   "id": 1191830,
+   "name": "Iverian Wars: Craxion vs Defugel",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191830/dca35eb8cbbd31315de56b0bbb51e37a4b46f60b/header_alt_assets_1.jpg?t=1791877890",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5299150"
+   "url": "https://store.steampowered.com/app/1191830"
   },
   {
    "store": "Steam",
-   "id": 5224380,
-   "name": "Demersus",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224380/52a49b05b4365c427e83fb75c5f643eab5e2455e/header.jpg?t=1791772978",
+   "id": 5006180,
+   "name": "Warmachine: Rogue-Scout",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006180/9c3168daa550330b17f765b75ed59d2de2cd0b2e/header.jpg?t=1791870147",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5224380"
+   "url": "https://store.steampowered.com/app/5006180"
   },
   {
    "store": "Steam",
-   "id": 5138180,
-   "name": "Don't Give Up",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138180/dbc3ec153a9787ee9ba07f83af909fcf5821c767/header.jpg?t=1791746151",
+   "id": 5270020,
+   "name": "惡搞浣熊",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270020/6ea4ec8ae37141e96f173fb5863e3b782ca458fb/header.jpg?t=1791859009",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5138180"
+   "url": "https://store.steampowered.com/app/5270020"
   },
   {
    "store": "Steam",
-   "id": 5282110,
-   "name": "中国式高考ChineseGaokao‌",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282110/94b7e9ca879a5ee4f11f72a18a94a70b7d549897/header.jpg?t=1791074249",
+   "id": 4963800,
+   "name": "Beset",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963800/c7fc1966ecd48c5cfb291ef4486ebdb0e0bc6e9c/header.jpg?t=1791843014",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5282110"
+   "url": "https://store.steampowered.com/app/4963800"
   },
   {
    "store": "Steam",
-   "id": 5338230,
-   "name": "Security Duty",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338230/8f6ab9f602f81956e8bdddb821ba6b01d081b5e6/header.jpg?t=1790921002",
+   "id": 5289540,
+   "name": "Triet Cat",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289540/5e3730c25c4474949e26a5b4a89c0107a5f1f438/header.jpg?t=1791832085",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5338230"
+   "url": "https://store.steampowered.com/app/5289540"
   },
   {
    "store": "Steam",
-   "id": 5405010,
-   "name": "Slingbox Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5405010/f66c236921b0e83b7873af0b2c8b1fecfa47e119/header.jpg?t=1791377013",
+   "id": 4611710,
+   "name": "DSARTS",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611710/bf8e1827c77391a3a832536da8f5eb84dac86f51/header.jpg?t=1791830315",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5405010"
+   "url": "https://store.steampowered.com/app/4611710"
   },
   {
    "store": "Steam",
-   "id": 5363200,
-   "name": "Pizzapoly Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5363200/6fef5b545f5f59b3df76cba061cd25dfa6fc393a/header.jpg?t=1791642495",
+   "id": 4958670,
+   "name": "Orderfall",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958670/0141ae43e53505d2d81bee6626cf69c796a2b0f1/header.jpg?t=1788869870",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5363200"
+   "url": "https://store.steampowered.com/app/4958670"
   },
   {
    "store": "Steam",
-   "id": 3356000,
-   "name": "The Traveller's Sight",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3356000/e275f1766aa7b632aa019f7629e756fda34d81dd/header.jpg?t=1791493062",
+   "id": 5316090,
+   "name": "Dead Keys Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316090/428437035ea5220e706f34777f0c3d15461f99bf/header.jpg?t=1791805106",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3356000"
+   "url": "https://store.steampowered.com/app/5316090"
   },
   {
    "store": "Steam",
-   "id": 5076390,
-   "name": "The Rifted Skies Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076390/f3b3ac21e40bcf698fd2f25fcb6880e0e94ade78/header.jpg?t=1791206444",
+   "id": 4385110,
+   "name": "PigPonyPocalypse",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385110/a58a2474c401bc0c0b81a2d747bbc87860a68f03/header.jpg?t=1791841305",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5076390"
+   "url": "https://store.steampowered.com/app/4385110"
   },
   {
    "store": "Steam",
-   "id": 4911970,
-   "name": "Demon God Story",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911970/fa1b1e12c5bb4d66e8aa92888be89c4f34efce6f/header.jpg?t=1785938876",
+   "id": 3674200,
+   "name": "Miner Crysis",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3674200/ca691e0ee3e222ed1367c692fd1a9e0d49c3e0c6/header.jpg?t=1791486490",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4911970"
+   "url": "https://store.steampowered.com/app/3674200"
   },
   {
    "store": "Steam",
-   "id": 3301010,
-   "name": "Den-Den: Tokyo Horror",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301010/09815a8cd4f0d34dccaa431a0572312d54dde0ef/header.jpg?t=1791439288",
+   "id": 5272920,
+   "name": "Four Ways — Chapter 1",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272920/7fc4c4e016b14161e7050a1fb4b89373c693d460/header.jpg?t=1790326386",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3301010"
+   "url": "https://store.steampowered.com/app/5272920"
+  },
+  {
+   "store": "Steam",
+   "id": 5033710,
+   "name": "Yume Tenshi",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033710/29c08ec21294da3f226401ebc135c37e0200ec49/header.jpg?t=1790747714",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5033710"
+  },
+  {
+   "store": "Steam",
+   "id": 5341930,
+   "name": "Pipkind: A Dice Puzzle Adventure",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341930/ab6c25988ce6c8bdf19f0ddc8894663105318014/header.jpg?t=1791279635",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5341930"
+  },
+  {
+   "store": "Steam",
+   "id": 5179800,
+   "name": "Cone & Crest",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179800/f1c14bc72b83689d60a9ae6170e7b9cabe2cef8a/header.jpg?t=1791728420",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5179800"
+  },
+  {
+   "store": "Steam",
+   "id": 5124350,
+   "name": "Steal & Sell Simulator Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124350/86ad5e38d9d4b5c6d27924536e33c76585fbbdd8/header.jpg?t=1791868472",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5124350"
+  },
+  {
+   "store": "Steam",
+   "id": 4695040,
+   "name": "Gym Bros: LooksMaxx",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695040/0c323d4c38b06b82eb0e0d7e52932154ad8e3e23/header.jpg?t=1791726869",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4695040"
   }
  ]
 }
