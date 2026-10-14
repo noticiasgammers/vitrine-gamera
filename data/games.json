@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T09:13:01.434Z",
- "today": "2026-10-13",
+ "updated": "2026-10-14T09:24:39.778Z",
+ "today": "2026-10-14",
  "sections": {
   "hoje": [],
   "destaques": [
    662318,
+   1015409,
    983213,
+   1008986,
    1004513,
+   868088,
+   1017395,
    1015425,
    802010,
-   1017395,
    1004657,
    1020061,
-   1019804,
    1020317,
-   1020035,
-   1020111,
-   1020110,
-   1020195,
-   1020258
+   1019804,
+   1020035
   ],
   "lancamentos": [
+   1008986,
    1020459,
    1020461,
    1020339,
@@ -335,6 +335,29 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Nivalis%20trailer"
   },
+  "868088": {
+   "id": 868088,
+   "name": "Silent Hill Townfall",
+   "released": "2026-09-24",
+   "image": "https://media.rawg.io/media/games/d1c/d1c4e52d3084231530fcab5d90033d42.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation"
+   ],
+   "genres": [
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Silent%20Hill%20Townfall%20trailer"
+  },
   "968616": {
    "id": 968616,
    "name": "Duet Night Abyss",
@@ -545,6 +568,31 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Mycopunk%20trailer"
   },
+  "1008986": {
+   "id": 1008986,
+   "name": "Valor Mortis",
+   "released": "2026-10-13",
+   "image": "https://media.rawg.io/media/games/61d/61d1431d20f9f6e19b27cb89aa4a4402.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2828710/Valor_Mortis/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Valor%20Mortis%20trailer"
+  },
   "1009246": {
    "id": 1009246,
    "name": "Arknights: Endfield",
@@ -665,6 +713,31 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Humanity%20Echo%3A%20Cyberpunk%20Tactical%20RPG%20trailer"
+  },
+  "1015409": {
+   "id": 1015409,
+   "name": "Control Resonant",
+   "released": "2026-09-24",
+   "image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
+   "rating": 4.3,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Control%20Resonant%20trailer"
   },
   "1015425": {
    "id": 1015425,
@@ -1034,51 +1107,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=EA%20SPORTS%20FC%2027%20trailer"
   },
-  "1020110": {
-   "id": 1020110,
-   "name": "스페셜포스 리마스터",
-   "released": "2026-09-16",
-   "image": "https://media.rawg.io/media/screenshots/27d/27d78624538dc03d3978f7d7a15d6f39.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4261320/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%EC%8A%A4%ED%8E%98%EC%85%9C%ED%8F%AC%EC%8A%A4%20%EB%A6%AC%EB%A7%88%EC%8A%A4%ED%84%B0%20trailer"
-  },
-  "1020111": {
-   "id": 1020111,
-   "name": "Goddess of Fate: Waifu Strategy RPG",
-   "released": "2026-09-18",
-   "image": "https://media.rawg.io/media/screenshots/f16/f16bd1f70b789adacf571938f1ec7928.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5064710/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Goddess%20of%20Fate%3A%20Waifu%20Strategy%20RPG%20trailer"
-  },
   "1020128": {
    "id": 1020128,
    "name": "Tavern Farkle GB",
@@ -1102,29 +1130,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
-  },
-  "1020195": {
-   "id": 1020195,
-   "name": "Beyond the Broken Veil",
-   "released": "2026-09-22",
-   "image": "https://media.rawg.io/media/screenshots/eae/eaeba62e59549a4b2ac9f9a18ae57447.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5196150/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Beyond%20the%20Broken%20Veil%20trailer"
   },
   "1020258": {
    "id": 1020258,
@@ -1347,6 +1352,17 @@
   },
   {
    "store": "Steam",
+   "id": 1091500,
+   "name": "Cyberpunk 2077",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+   "discount": 70,
+   "original": 19990,
+   "final": 5997,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1091500"
+  },
+  {
+   "store": "Steam",
    "id": 3240220,
    "name": "Grand Theft Auto V Enhanced",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1380,25 +1396,14 @@
   },
   {
    "store": "Steam",
-   "id": 105600,
-   "name": "Terraria",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-   "discount": 50,
-   "original": 3299,
-   "final": 1649,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/105600"
-  },
-  {
-   "store": "Steam",
-   "id": 1621690,
-   "name": "Core Keeper",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
+   "id": 2138330,
+   "name": "Cyberpunk 2077: Phantom Liberty",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
    "discount": 40,
-   "original": 5999,
-   "final": 3599,
+   "original": 9999,
+   "final": 5999,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1621690"
+   "url": "https://store.steampowered.com/app/2138330"
   },
   {
    "store": "Steam",
@@ -1413,187 +1418,166 @@
   },
   {
    "store": "Steam",
-   "id": 1623730,
-   "name": "Palworld",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
-   "discount": 30,
-   "original": 8899,
-   "final": 6229,
+   "id": 2871520,
+   "name": "Deep Dish Dungeon",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871520/a941857720d5b6a62a2e0a7646f2ca46b00039b6/header_alt_assets_1.jpg?t=1791960486",
+   "discount": 15,
+   "original": 4999,
+   "final": 4249,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1623730"
-  },
-  {
-   "store": "Steam",
-   "id": 3883570,
-   "name": "Invokyr",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-   "discount": 25,
-   "original": 4799,
-   "final": 3599,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3883570"
+   "url": "https://store.steampowered.com/app/2871520"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 1191830,
-   "name": "Iverian Wars: Craxion vs Defugel",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1191830/dca35eb8cbbd31315de56b0bbb51e37a4b46f60b/header_alt_assets_1.jpg?t=1791877890",
+   "id": 5123480,
+   "name": "Anomaly Watchout!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123480/1af075dca739c314d6cf9ccc3c535cb5cccebae1/header.jpg?t=1791964500",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1191830"
+   "url": "https://store.steampowered.com/app/5123480"
   },
   {
    "store": "Steam",
-   "id": 5006180,
-   "name": "Warmachine: Rogue-Scout",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006180/9c3168daa550330b17f765b75ed59d2de2cd0b2e/header.jpg?t=1791870147",
+   "id": 1333410,
+   "name": "Stream Racer",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333410/header.jpg?t=1791964429",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5006180"
+   "url": "https://store.steampowered.com/app/1333410"
   },
   {
    "store": "Steam",
-   "id": 5270020,
-   "name": "惡搞浣熊",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270020/6ea4ec8ae37141e96f173fb5863e3b782ca458fb/header.jpg?t=1791859009",
+   "id": 5289970,
+   "name": "Tales From Eternity - Interactive Preview",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289970/3e6a687a139d1ce0dd745e32e765b424b82e084b/header.jpg?t=1791963999",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5270020"
+   "url": "https://store.steampowered.com/app/5289970"
   },
   {
    "store": "Steam",
-   "id": 4963800,
-   "name": "Beset",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963800/c7fc1966ecd48c5cfb291ef4486ebdb0e0bc6e9c/header.jpg?t=1791843014",
+   "id": 5140930,
+   "name": "HyperION DAW - Factory Samples",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140930/33d51d0148755e692de559d6afe5655143553b18/header.jpg?t=1791950585",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4963800"
+   "url": "https://store.steampowered.com/app/5140930"
   },
   {
    "store": "Steam",
-   "id": 5289540,
-   "name": "Triet Cat",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289540/5e3730c25c4474949e26a5b4a89c0107a5f1f438/header.jpg?t=1791832085",
+   "id": 5024590,
+   "name": "HyperION DAW",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5024590/33d51d0148755e692de559d6afe5655143553b18/header.jpg?t=1791950512",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5289540"
+   "url": "https://store.steampowered.com/app/5024590"
   },
   {
    "store": "Steam",
-   "id": 4611710,
-   "name": "DSARTS",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611710/bf8e1827c77391a3a832536da8f5eb84dac86f51/header.jpg?t=1791830315",
+   "id": 4907670,
+   "name": "霸业封神传奇",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907670/02fcbcdcfe40cb0c6c995887ca63867e4e7a4a27/header.jpg?t=1791947866",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4611710"
+   "url": "https://store.steampowered.com/app/4907670"
   },
   {
    "store": "Steam",
-   "id": 4958670,
-   "name": "Orderfall",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958670/0141ae43e53505d2d81bee6626cf69c796a2b0f1/header.jpg?t=1788869870",
+   "id": 5162410,
+   "name": "COLD CALL Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5162410/9b630ba5af8cfd54767fc19a8df57f31b7a4cf7e/header.jpg?t=1791834733",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4958670"
+   "url": "https://store.steampowered.com/app/5162410"
   },
   {
    "store": "Steam",
-   "id": 5316090,
-   "name": "Dead Keys Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5316090/428437035ea5220e706f34777f0c3d15461f99bf/header.jpg?t=1791805106",
+   "id": 5283330,
+   "name": "Wattverse",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283330/d7b72cf06db83ec77229dd33252fbfec52eced91/header.jpg?t=1791185554",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5316090"
+   "url": "https://store.steampowered.com/app/5283330"
   },
   {
    "store": "Steam",
-   "id": 4385110,
-   "name": "PigPonyPocalypse",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4385110/a58a2474c401bc0c0b81a2d747bbc87860a68f03/header.jpg?t=1791841305",
+   "id": 5324710,
+   "name": "GeomSurf",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5324710/5b86d194122165b3a7b6bec64dc42ffe9c0a09c7/header.jpg?t=1791023326",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4385110"
+   "url": "https://store.steampowered.com/app/5324710"
   },
   {
    "store": "Steam",
-   "id": 3674200,
-   "name": "Miner Crysis",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3674200/ca691e0ee3e222ed1367c692fd1a9e0d49c3e0c6/header.jpg?t=1791486490",
+   "id": 5137000,
+   "name": "Tidy & Bright: Together at the Christmas Market",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5137000/e9ffc02cbba126e0658a88896c06dcf80cc801e7/header.jpg?t=1788900391",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3674200"
+   "url": "https://store.steampowered.com/app/5137000"
   },
   {
    "store": "Steam",
-   "id": 5272920,
-   "name": "Four Ways — Chapter 1",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272920/7fc4c4e016b14161e7050a1fb4b89373c693d460/header.jpg?t=1790326386",
+   "id": 2323110,
+   "name": "JosPlays - Gemhaven",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2323110/9134481a6b22c94ff5f914b8078bd100031a27f8/header.jpg?t=1791100068",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5272920"
+   "url": "https://store.steampowered.com/app/2323110"
   },
   {
    "store": "Steam",
-   "id": 5033710,
-   "name": "Yume Tenshi",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033710/29c08ec21294da3f226401ebc135c37e0200ec49/header.jpg?t=1790747714",
+   "id": 5224130,
+   "name": "Darkenstein 3D: Total Trampage",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5224130/d51fb7cbb033baf780084690ec8b83e782cb0800/header.jpg?t=1790334019",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5033710"
+   "url": "https://store.steampowered.com/app/5224130"
   },
   {
    "store": "Steam",
-   "id": 5341930,
-   "name": "Pipkind: A Dice Puzzle Adventure",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341930/ab6c25988ce6c8bdf19f0ddc8894663105318014/header.jpg?t=1791279635",
+   "id": 5313710,
+   "name": "Cat Over Here! Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5313710/6e09d58857939da29612245b34fdbf4287ab1e99/header.jpg?t=1791895348",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5341930"
+   "url": "https://store.steampowered.com/app/5313710"
   },
   {
    "store": "Steam",
-   "id": 5179800,
-   "name": "Cone & Crest",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179800/f1c14bc72b83689d60a9ae6170e7b9cabe2cef8a/header.jpg?t=1791728420",
+   "id": 5214490,
+   "name": "Colors Of V",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5214490/4e26b561fde64de1892e224d13f9acbde44bfdf5/header.jpg?t=1790593418",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5179800"
+   "url": "https://store.steampowered.com/app/5214490"
   },
   {
    "store": "Steam",
-   "id": 5124350,
-   "name": "Steal & Sell Simulator Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124350/86ad5e38d9d4b5c6d27924536e33c76585fbbdd8/header.jpg?t=1791868472",
+   "id": 5076060,
+   "name": "Madcar Multiplayer : Premium pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076060/8f59881fb1ae82d95dbf8079ba0b855b6f413cfb/header.jpg?t=1790530210",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5124350"
-  },
-  {
-   "store": "Steam",
-   "id": 4695040,
-   "name": "Gym Bros: LooksMaxx",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695040/0c323d4c38b06b82eb0e0d7e52932154ad8e3e23/header.jpg?t=1791726869",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4695040"
+   "url": "https://store.steampowered.com/app/5076060"
   }
  ]
 }
