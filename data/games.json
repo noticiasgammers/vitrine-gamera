@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16T09:23:58.513Z",
- "today": "2026-10-16",
+ "updated": "2026-10-17T09:18:12.452Z",
+ "today": "2026-10-17",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -10,18 +10,20 @@
    1008986,
    1004513,
    868088,
-   1017395,
    1015425,
+   1017395,
    1018102,
    802010,
-   1004657,
    1020061,
    1020317,
-   1019804
+   1019804,
+   1020452
   ],
   "lancamentos": [
    975605,
+   1020487,
    1018102,
+   1020483,
    1008986,
    1020459,
    1020461,
@@ -30,13 +32,12 @@
    983213,
    1017395,
    1020420,
-   1020460,
-   1015425,
-   1020419
+   1020460
   ],
   "proximos": [
    1004664,
    1016708,
+   802450,
    1020128,
    972995,
    998661,
@@ -309,6 +310,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Nivalis%20trailer"
+  },
+  "802450": {
+   "id": 802450,
+   "name": "COP BASTARD",
+   "released": "2026-10-28",
+   "image": "https://media.rawg.io/media/screenshots/985/98584b5b6dbd388a148612d54e5ceb5b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1742440/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
   },
   "868088": {
    "id": 868088,
@@ -694,7 +718,7 @@
    "name": "Control Resonant",
    "released": "2026-09-24",
    "image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
-   "rating": 4.29,
+   "rating": 4.32,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1128,29 +1152,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Demonator%20trailer"
   },
-  "1020419": {
-   "id": 1020419,
-   "name": "Only Straight Bros",
-   "released": "2026-10-02",
-   "image": "https://media.rawg.io/media/screenshots/16d/16d9462a3747218b7c7c70f94a3f8eb7.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5021060/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Only%20Straight%20Bros%20trailer"
-  },
   "1020420": {
    "id": 1020420,
    "name": "GACHA AND SLEEP",
@@ -1272,6 +1273,52 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Fatal%20Haven%20trailer"
+  },
+  "1020483": {
+   "id": 1020483,
+   "name": "Locker Room: Femboy Edition",
+   "released": "2026-10-14",
+   "image": "https://media.rawg.io/media/screenshots/b7f/b7f2a94edd123b775127c03addd99a29.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5204280/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Locker%20Room%3A%20Femboy%20Edition%20trailer"
+  },
+  "1020487": {
+   "id": 1020487,
+   "name": "Tales of Eternia Remastered",
+   "released": "2026-10-15",
+   "image": "https://media.rawg.io/media/screenshots/b1a/b1a44ef452b7f2ddd8081dfc002a43d0.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3470960/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Tales%20of%20Eternia%20Remastered%20trailer"
   }
  },
  "deals": [
@@ -1296,17 +1343,6 @@
    "final": 7497,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1174180"
-  },
-  {
-   "store": "Steam",
-   "id": 2183900,
-   "name": "Warhammer 40,000: Space Marine 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
-   "discount": 75,
-   "original": 19990,
-   "final": 4997,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2183900"
   },
   {
    "store": "Steam",
@@ -1340,6 +1376,17 @@
    "final": 17940,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3768760"
+  },
+  {
+   "store": "Steam",
+   "id": 2138330,
+   "name": "Cyberpunk 2077: Phantom Liberty",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
+   "discount": 40,
+   "original": 9999,
+   "final": 5999,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2138330"
   },
   {
    "store": "Steam",
@@ -1378,103 +1425,163 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4807880,
-   "name": "冒险者公会",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807880/a1e75001f3fce05637b6502b4c091f18d63f3dd8/header.jpg?t=1792134040",
+   "id": 4729580,
+   "name": "Wolf Island",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729580/37df5400a780b97ce3e0f1b804a4f19e907eef89/header.jpg?t=1792214708",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4807880"
+   "url": "https://store.steampowered.com/app/4729580"
   },
   {
    "store": "Steam",
-   "id": 4355200,
-   "name": "Incredulity",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355200/5099e515b7a05f08b73060dd0a5adbd577993d28/header.jpg?t=1792126047",
+   "id": 4360980,
+   "name": "Ocean",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360980/ce3c818856a18f9a4e23285907c71806dbabdac1/header.jpg?t=1792204600",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4355200"
+   "url": "https://store.steampowered.com/app/4360980"
   },
   {
    "store": "Steam",
-   "id": 4930500,
-   "name": "盯着你！桌面喵小西",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930500/36b86689d7afe632f295335994e4c6abdab80fae/header.jpg?t=1792119273",
+   "id": 4350900,
+   "name": "Just a Cat",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350900/7fb2ee7c6b42ec5decbd87ccf3d5b1e66274aa0d/header.jpg?t=1792191974",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4930500"
+   "url": "https://store.steampowered.com/app/4350900"
   },
   {
    "store": "Steam",
-   "id": 5075110,
-   "name": "零氪超变",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075110/a8595d38dc54ef31bf918b587f9a5848a69a0755/header.jpg?t=1792113697",
+   "id": 4561260,
+   "name": "Open Sourcerer",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561260/c9cae599b22ee7e92e0904e94c2e37b450ec8156/header.jpg?t=1792184456",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5075110"
+   "url": "https://store.steampowered.com/app/4561260"
   },
   {
    "store": "Steam",
-   "id": 5439360,
-   "name": "Tidy Up Her Toys Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439360/9d07ba35cee64f2454f87e1fd617585b8b71cd09/header.jpg?t=1791882817",
+   "id": 5230050,
+   "name": "Wife's Bedroom",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230050/0db07d2c6ace96a7486fc61131f86be908dbe7a7/header.jpg?t=1792183718",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5439360"
+   "url": "https://store.steampowered.com/app/5230050"
   },
   {
    "store": "Steam",
-   "id": 5423590,
-   "name": "SEAMARK Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423590/3814966f69cb90dbaa9cb061daea763e4a90c28e/header.jpg?t=1792141439",
+   "id": 5250500,
+   "name": "The Great Game of Cards",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5250500/451b69a5d65cde20d403676e91ea9314996b4f9b/header.jpg?t=1792182030",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5423590"
+   "url": "https://store.steampowered.com/app/5250500"
   },
   {
    "store": "Steam",
-   "id": 5315480,
-   "name": "Waste Your Time",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5315480/b3207fcc000b62d34351c57a6ef58d39235f7fd4/header.jpg?t=1790956331",
+   "id": 5337870,
+   "name": "NETWORK & CYBER SECURITY SIMULATOR Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5337870/81eebe515ab8b72031be9a0051fe113f43c57d96/header.jpg?t=1792097619",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5315480"
+   "url": "https://store.steampowered.com/app/5337870"
   },
   {
    "store": "Steam",
-   "id": 5242290,
-   "name": "Demon Face Punching Club",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242290/b42c4f9364091124103ee65e909a264a73a47f98/header.jpg?t=1790680110",
+   "id": 5348120,
+   "name": "Galactic Kebab Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5348120/3d5bd4ad3bdcce0702290562e50fca1034e2290a/header.jpg?t=1791985073",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5242290"
+   "url": "https://store.steampowered.com/app/5348120"
   },
   {
    "store": "Steam",
-   "id": 5307150,
-   "name": "Spirit Gems - Supporter Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307150/e29f25409ca22b9d6044d7f95aec0fc9dae983d5/header.jpg?t=1791490917",
+   "id": 5444150,
+   "name": "Eccentric Wander Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5444150/2a98c388c1ad3781c98352b68a1ada022109efbe/header.jpg?t=1791950108",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5307150"
+   "url": "https://store.steampowered.com/app/5444150"
   },
   {
    "store": "Steam",
-   "id": 5397240,
-   "name": "Water is Heavy Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5397240/173aaff2081a3a518864d909ece2c065fa6325b8/header.jpg?t=1791433279",
+   "id": 5220910,
+   "name": "GomokuSoccer",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220910/534c764792674d735f782b5d7049d490ddff5416/header.jpg?t=1791260537",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5397240"
+   "url": "https://store.steampowered.com/app/5220910"
+  },
+  {
+   "store": "Steam",
+   "id": 5351640,
+   "name": "STOREBOT: Tidy Up PC Parts",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351640/9e0a821dfc6ba8c36a93034508c415260c974cd4/header.jpg?t=1792025315",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5351640"
+  },
+  {
+   "store": "Steam",
+   "id": 5391710,
+   "name": "萤光之旅",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391710/df65e3210c1e8628a41f37eb3dae66c234898fe9/header.jpg?t=1791559184",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5391710"
+  },
+  {
+   "store": "Steam",
+   "id": 5409120,
+   "name": "Nodebreak Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409120/9403949c78c50a0cece25a7706c34a01c6cc940d/header.jpg?t=1791699125",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5409120"
+  },
+  {
+   "store": "Steam",
+   "id": 5395740,
+   "name": "群雄战歌：妖火纪元  Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395740/632feff4cdcef530dd8518efc323f58de5d945e3/header.jpg?t=1791392476",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5395740"
+  },
+  {
+   "store": "Steam",
+   "id": 5233310,
+   "name": "Idle Commander Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233310/1af46ddad9b3257abc4b5abcd83df13652017448/header.jpg?t=1790772313",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5233310"
+  },
+  {
+   "store": "Steam",
+   "id": 5270370,
+   "name": "Spill The Ink Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270370/b9d15fda01b54facbafca68293e012b99c9e518a/header.jpg?t=1791826053",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5270370"
   }
  ]
 }
