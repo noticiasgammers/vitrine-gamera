@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17T09:18:12.452Z",
- "today": "2026-10-17",
+ "updated": "2026-10-18T09:18:27.514Z",
+ "today": "2026-10-18",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -10,12 +10,11 @@
    1008986,
    1004513,
    868088,
+   1018102,
    1015425,
    1017395,
-   1018102,
    802010,
    1020061,
-   1020317,
    1019804,
    1020452
   ],
@@ -718,7 +717,7 @@
    "name": "Control Resonant",
    "released": "2026-09-24",
    "image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
-   "rating": 4.32,
+   "rating": 4.35,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1106,29 +1105,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
-  "1020317": {
-   "id": 1020317,
-   "name": "Lily's World XD",
-   "released": "2026-09-17",
-   "image": "https://media.rawg.io/media/games/3ea/3ea3624524929c413552cf8ad49c5482.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3195580/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Lily's%20World%20XD%20trailer"
-  },
   "1020339": {
    "id": 1020339,
    "name": "Demonator",
@@ -1346,6 +1322,17 @@
   },
   {
    "store": "Steam",
+   "id": 2183900,
+   "name": "Warhammer 40,000: Space Marine 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
+   "discount": 75,
+   "original": 19990,
+   "final": 4997,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2183900"
+  },
+  {
+   "store": "Steam",
    "id": 1091500,
    "name": "Cyberpunk 2077",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
@@ -1376,17 +1363,6 @@
    "final": 17940,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3768760"
-  },
-  {
-   "store": "Steam",
-   "id": 2138330,
-   "name": "Cyberpunk 2077: Phantom Liberty",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
-   "discount": 40,
-   "original": 9999,
-   "final": 5999,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2138330"
   },
   {
    "store": "Steam",
@@ -1425,6 +1401,36 @@
  "freeGames": [
   {
    "store": "Steam",
+   "id": 1979510,
+   "name": "Madcar Multiplayer",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979510/77f9d220c1d8b7f32999c52710ba1ccc8565fe87/header.jpg?t=1792239954",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1979510"
+  },
+  {
+   "store": "Steam",
+   "id": 5114130,
+   "name": "Beta Earth: Sovereignty Next",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114130/1045d0928a4c6d38c3131bb091fff9e4c39083fb/header.jpg?t=1792287730",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5114130"
+  },
+  {
+   "store": "Steam",
+   "id": 5345030,
+   "name": "Volleyball Mania",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345030/8671aa94504045ea199e538126ec8c01fd0d4912/header.jpg?t=1792223178",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5345030"
+  },
+  {
+   "store": "Steam",
    "id": 4729580,
    "name": "Wolf Island",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729580/37df5400a780b97ce3e0f1b804a4f19e907eef89/header.jpg?t=1792214708",
@@ -1435,56 +1441,6 @@
   },
   {
    "store": "Steam",
-   "id": 4360980,
-   "name": "Ocean",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4360980/ce3c818856a18f9a4e23285907c71806dbabdac1/header.jpg?t=1792204600",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4360980"
-  },
-  {
-   "store": "Steam",
-   "id": 4350900,
-   "name": "Just a Cat",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350900/7fb2ee7c6b42ec5decbd87ccf3d5b1e66274aa0d/header.jpg?t=1792191974",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4350900"
-  },
-  {
-   "store": "Steam",
-   "id": 4561260,
-   "name": "Open Sourcerer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4561260/c9cae599b22ee7e92e0904e94c2e37b450ec8156/header.jpg?t=1792184456",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4561260"
-  },
-  {
-   "store": "Steam",
-   "id": 5230050,
-   "name": "Wife's Bedroom",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230050/0db07d2c6ace96a7486fc61131f86be908dbe7a7/header.jpg?t=1792183718",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5230050"
-  },
-  {
-   "store": "Steam",
-   "id": 5250500,
-   "name": "The Great Game of Cards",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5250500/451b69a5d65cde20d403676e91ea9314996b4f9b/header.jpg?t=1792182030",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5250500"
-  },
-  {
-   "store": "Steam",
    "id": 5337870,
    "name": "NETWORK & CYBER SECURITY SIMULATOR Demo",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5337870/81eebe515ab8b72031be9a0051fe113f43c57d96/header.jpg?t=1792097619",
@@ -1492,16 +1448,6 @@
    "original": 0,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/5337870"
-  },
-  {
-   "store": "Steam",
-   "id": 5348120,
-   "name": "Galactic Kebab Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5348120/3d5bd4ad3bdcce0702290562e50fca1034e2290a/header.jpg?t=1791985073",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5348120"
   },
   {
    "store": "Steam",
@@ -1522,16 +1468,6 @@
    "original": 0,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/5220910"
-  },
-  {
-   "store": "Steam",
-   "id": 5351640,
-   "name": "STOREBOT: Tidy Up PC Parts",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351640/9e0a821dfc6ba8c36a93034508c415260c974cd4/header.jpg?t=1792025315",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5351640"
   },
   {
    "store": "Steam",
@@ -1565,6 +1501,16 @@
   },
   {
    "store": "Steam",
+   "id": 5270370,
+   "name": "Spill The Ink Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270370/b9d15fda01b54facbafca68293e012b99c9e518a/header.jpg?t=1791826053",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5270370"
+  },
+  {
+   "store": "Steam",
    "id": 5233310,
    "name": "Idle Commander Demo",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233310/1af46ddad9b3257abc4b5abcd83df13652017448/header.jpg?t=1790772313",
@@ -1575,13 +1521,23 @@
   },
   {
    "store": "Steam",
-   "id": 5270370,
-   "name": "Spill The Ink Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270370/b9d15fda01b54facbafca68293e012b99c9e518a/header.jpg?t=1791826053",
+   "id": 5379560,
+   "name": "SLUP",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379560/139a7f2580808e88717d745ac43aee36f87edb4a/header.jpg?t=1792117863",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5270370"
+   "url": "https://store.steampowered.com/app/5379560"
+  },
+  {
+   "store": "Steam",
+   "id": 5140500,
+   "name": "Vauren's BeastBorn Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140500/f9b49542e636739f87d9b4e5f503c990b211a763/header.jpg?t=1789969054",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5140500"
   }
  ]
 }
