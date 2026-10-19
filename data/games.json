@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18T09:18:27.514Z",
- "today": "2026-10-18",
+ "updated": "2026-10-19T09:28:09.722Z",
+ "today": "2026-10-19",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -10,8 +10,8 @@
    1008986,
    1004513,
    868088,
-   1018102,
    1015425,
+   1018102,
    1017395,
    802010,
    1020061,
@@ -30,8 +30,7 @@
    1020339,
    983213,
    1017395,
-   1020420,
-   1020460
+   1020420
   ],
   "proximos": [
    1004664,
@@ -426,7 +425,7 @@
    "name": "Gears of War: E-Day",
    "released": "2026-10-06",
    "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-   "rating": 3.75,
+   "rating": 3.89,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1204,29 +1203,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E3%82%AD%E3%82%BA%E3%83%84%E3%82%B1%20kizutsuke%20trailer"
   },
-  "1020460": {
-   "id": 1020460,
-   "name": "蒼海 -AOMI",
-   "released": "2026-10-04",
-   "image": "https://media.rawg.io/media/screenshots/e83/e8376d40623d15fc3627313967d47d40.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5231010/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%E8%92%BC%E6%B5%B7%20-AOMI%20trailer"
-  },
   "1020461": {
    "id": 1020461,
    "name": "Fatal Haven",
@@ -1366,6 +1342,17 @@
   },
   {
    "store": "Steam",
+   "id": 2138330,
+   "name": "Cyberpunk 2077: Phantom Liberty",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
+   "discount": 40,
+   "original": 9999,
+   "final": 5999,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2138330"
+  },
+  {
+   "store": "Steam",
    "id": 1374490,
    "name": "RuneScape: Dragonwilds",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
@@ -1374,17 +1361,6 @@
    "final": 8049,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1374490"
-  },
-  {
-   "store": "Steam",
-   "id": 2929250,
-   "name": "over the hill",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
-   "discount": 20,
-   "original": 5199,
-   "final": 4159,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2929250"
   },
   {
    "store": "Steam",
@@ -1401,143 +1377,143 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 1979510,
-   "name": "Madcar Multiplayer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1979510/77f9d220c1d8b7f32999c52710ba1ccc8565fe87/header.jpg?t=1792239954",
+   "id": 5359760,
+   "name": "The Harbour Between Us",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5359760/f3ae813234831a5ad1c4b4c089ba4860ee94cb2e/header.jpg?t=1792393504",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1979510"
+   "url": "https://store.steampowered.com/app/5359760"
   },
   {
    "store": "Steam",
-   "id": 5114130,
-   "name": "Beta Earth: Sovereignty Next",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114130/1045d0928a4c6d38c3131bb091fff9e4c39083fb/header.jpg?t=1792287730",
+   "id": 4714620,
+   "name": "Dynamite Blue",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714620/a5a9525f1afa5632d2f5437d9b34df4aaf1cfb46/header.jpg?t=1792389559",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5114130"
+   "url": "https://store.steampowered.com/app/4714620"
   },
   {
    "store": "Steam",
-   "id": 5345030,
-   "name": "Volleyball Mania",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345030/8671aa94504045ea199e538126ec8c01fd0d4912/header.jpg?t=1792223178",
+   "id": 4491130,
+   "name": "Kings Call 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491130/15aea01e1afcdd23f8cddda7fd21edd595f12e48/header.jpg?t=1792377701",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5345030"
+   "url": "https://store.steampowered.com/app/4491130"
   },
   {
    "store": "Steam",
-   "id": 4729580,
-   "name": "Wolf Island",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729580/37df5400a780b97ce3e0f1b804a4f19e907eef89/header.jpg?t=1792214708",
+   "id": 4694770,
+   "name": "HELLBENT",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694770/cff530cdb7014c187e11d5b3de98b93e9814ed48/header.jpg?t=1792373870",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4729580"
+   "url": "https://store.steampowered.com/app/4694770"
   },
   {
    "store": "Steam",
-   "id": 5337870,
-   "name": "NETWORK & CYBER SECURITY SIMULATOR Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5337870/81eebe515ab8b72031be9a0051fe113f43c57d96/header.jpg?t=1792097619",
+   "id": 5451820,
+   "name": "LIDVN Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451820/1eb5607401f436d995e080ae289fed33e88733b5/header.jpg?t=1792190012",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5337870"
+   "url": "https://store.steampowered.com/app/5451820"
   },
   {
    "store": "Steam",
-   "id": 5444150,
-   "name": "Eccentric Wander Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5444150/2a98c388c1ad3781c98352b68a1ada022109efbe/header.jpg?t=1791950108",
+   "id": 5173640,
+   "name": "Shift Happens: Together Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5173640/3d7c708ec3fba8d0441ef1f719545b988869d9fc/header.jpg?t=1791377189",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5444150"
+   "url": "https://store.steampowered.com/app/5173640"
   },
   {
    "store": "Steam",
-   "id": 5220910,
-   "name": "GomokuSoccer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220910/534c764792674d735f782b5d7049d490ddff5416/header.jpg?t=1791260537",
+   "id": 3698670,
+   "name": "My Name Is...",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698670/6cfe67ae7fd9eabb6726a7f384b1d27e6fbfab62/header.jpg?t=1790257944",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5220910"
+   "url": "https://store.steampowered.com/app/3698670"
   },
   {
    "store": "Steam",
-   "id": 5391710,
-   "name": "萤光之旅",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391710/df65e3210c1e8628a41f37eb3dae66c234898fe9/header.jpg?t=1791559184",
+   "id": 5260180,
+   "name": "Army Factory Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5260180/aee02667d4b1367c112e3d45d359c85f371e645f/header.jpg?t=1792256125",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5391710"
+   "url": "https://store.steampowered.com/app/5260180"
   },
   {
    "store": "Steam",
-   "id": 5409120,
-   "name": "Nodebreak Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409120/9403949c78c50a0cece25a7706c34a01c6cc940d/header.jpg?t=1791699125",
+   "id": 5209950,
+   "name": "Resonance",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5209950/3ad875014bfc062095996057f23da4afa7685d5a/header.jpg?t=1789709040",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5409120"
+   "url": "https://store.steampowered.com/app/5209950"
   },
   {
    "store": "Steam",
-   "id": 5395740,
-   "name": "群雄战歌：妖火纪元  Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395740/632feff4cdcef530dd8518efc323f58de5d945e3/header.jpg?t=1791392476",
+   "id": 5098480,
+   "name": "Roguelette Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5098480/7131dcce88eb12d456e8aa50e76975cb34f91e3d/header.jpg?t=1789559994",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5395740"
+   "url": "https://store.steampowered.com/app/5098480"
   },
   {
    "store": "Steam",
-   "id": 5270370,
-   "name": "Spill The Ink Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270370/b9d15fda01b54facbafca68293e012b99c9e518a/header.jpg?t=1791826053",
+   "id": 5197000,
+   "name": "Count The Draw Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5197000/4680c1faa05d0bd8d3359a5eab2d188716d6e06f/header.jpg?t=1791758349",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5270370"
+   "url": "https://store.steampowered.com/app/5197000"
   },
   {
    "store": "Steam",
-   "id": 5233310,
-   "name": "Idle Commander Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233310/1af46ddad9b3257abc4b5abcd83df13652017448/header.jpg?t=1790772313",
+   "id": 5120190,
+   "name": "Blackout Route Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120190/0e38aea1044627383bb65ed58d1e3879ef4d9e39/header.jpg?t=1792192458",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5233310"
+   "url": "https://store.steampowered.com/app/5120190"
   },
   {
    "store": "Steam",
-   "id": 5379560,
-   "name": "SLUP",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379560/139a7f2580808e88717d745ac43aee36f87edb4a/header.jpg?t=1792117863",
+   "id": 5006010,
+   "name": "Risewards Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006010/849d947775291d37f4495acb05f80d8088478e7d/header.jpg?t=1791224091",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5379560"
+   "url": "https://store.steampowered.com/app/5006010"
   },
   {
    "store": "Steam",
-   "id": 5140500,
-   "name": "Vauren's BeastBorn Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5140500/f9b49542e636739f87d9b4e5f503c990b211a763/header.jpg?t=1789969054",
+   "id": 5380190,
+   "name": "Just One More Fly",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5380190/3112a82f7b9581232c1a0ccb102414d152974e1a/header.jpg?t=1791564508",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5140500"
+   "url": "https://store.steampowered.com/app/5380190"
   }
  ]
 }
