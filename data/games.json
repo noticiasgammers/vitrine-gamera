@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T09:25:34.411Z",
- "today": "2026-10-21",
+ "updated": "2026-10-22T09:26:55.246Z",
+ "today": "2026-10-22",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -30,8 +30,7 @@
    1020459,
    1020461,
    1020520,
-   1020452,
-   1020339
+   1020452
   ],
   "proximos": [
    1016708,
@@ -1104,29 +1103,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
-  "1020339": {
-   "id": 1020339,
-   "name": "Demonator",
-   "released": "2026-10-07",
-   "image": "https://media.rawg.io/media/screenshots/752/7523a71e2777cd819034c7a1c2308d65.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5293950/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Demonator%20trailer"
-  },
   "1020452": {
    "id": 1020452,
    "name": "Order of the Sinking Star",
@@ -1320,14 +1296,14 @@
   },
   {
    "store": "Steam",
-   "id": 2183900,
-   "name": "Warhammer 40,000: Space Marine 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
+   "id": 2050650,
+   "name": "Resident Evil 4",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
    "discount": 75,
-   "original": 19990,
-   "final": 4997,
+   "original": 16900,
+   "final": 4225,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2183900"
+   "url": "https://store.steampowered.com/app/2050650"
   },
   {
    "store": "Steam",
@@ -1339,28 +1315,6 @@
    "final": 5997,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1091500"
-  },
-  {
-   "store": "Steam",
-   "id": 381210,
-   "name": "Dead by Daylight",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
-   "discount": 60,
-   "original": 6999,
-   "final": 2799,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/381210"
-  },
-  {
-   "store": "Steam",
-   "id": 1364780,
-   "name": "Street Fighter™ 6",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1791866175",
-   "discount": 60,
-   "original": 17900,
-   "final": 7160,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1364780"
   },
   {
    "store": "Steam",
@@ -1397,6 +1351,28 @@
   },
   {
    "store": "Steam",
+   "id": 3764200,
+   "name": "Resident Evil Requiem",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+   "discount": 30,
+   "original": 29900,
+   "final": 20930,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3764200"
+  },
+  {
+   "store": "Steam",
+   "id": 4954910,
+   "name": "Scam With Your Friends",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
+   "discount": 10,
+   "original": 3749,
+   "final": 3374,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4954910"
+  },
+  {
+   "store": "Steam",
    "id": 1203620,
    "name": "Enshrouded",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
@@ -1410,113 +1386,123 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5156550,
-   "name": "The Inkspire",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5156550/f1212fe668fe2e1ed0cd18b374e5ff5c1bc3f5bc/header.jpg?t=1792560475",
+   "id": 5127780,
+   "name": "Biblioclash Digital",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127780/c1b5443f6366e1ab6b6161ee302b167c4b3c29fb/header.jpg?t=1792648984",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5156550"
+   "url": "https://store.steampowered.com/app/5127780"
   },
   {
    "store": "Steam",
-   "id": 5360330,
-   "name": "JSAUX PIXEL",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360330/395725f3e145c675101ad4f05ad1ef538362aa05/header.jpg?t=1792561074",
+   "id": 4437140,
+   "name": "if you stay",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437140/9a33a6ec57200e49fa87b12aea23c048125fa036/header.jpg?t=1792641686",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5360330"
+   "url": "https://store.steampowered.com/app/4437140"
   },
   {
    "store": "Steam",
-   "id": 4272020,
-   "name": "WOIM",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272020/0c70036e4b97e0b8177a3bdff85b9d2d133c8461/header.jpg?t=1792321715",
+   "id": 5281080,
+   "name": "水族派對",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281080/8be766062899f45eb9139f49e60e445017f67000/header.jpg?t=1792636987",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4272020"
+   "url": "https://store.steampowered.com/app/5281080"
   },
   {
    "store": "Steam",
-   "id": 5158930,
-   "name": "SoundWave",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158930/9d47c1a403dbcfbc18e8e8ef27663e211eb328db/header.jpg?t=1792266863",
+   "id": 5306880,
+   "name": "Gross Survivors",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306880/cbfc0f092d601eec228059eb446872ef96ca6b6d/header.jpg?t=1792147692",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5158930"
+   "url": "https://store.steampowered.com/app/5306880"
   },
   {
    "store": "Steam",
-   "id": 5404530,
-   "name": "PLEASE WAIT",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5404530/a84c3562741ec01f255b889177bab9c3041db7ee/header.jpg?t=1792164363",
+   "id": 4578740,
+   "name": "Remain Seated",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578740/0d4ee4d1fd6554f86a2b2401357412982c841dfd/header.jpg?t=1792586812",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5404530"
+   "url": "https://store.steampowered.com/app/4578740"
   },
   {
    "store": "Steam",
-   "id": 4409620,
-   "name": "ARCS",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409620/166384d5f326f7e40694117bee11e96b354e3230/header.jpg?t=1792406032",
+   "id": 5328990,
+   "name": "Trivia Mania",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328990/af5f51ef1d53f336ca092b9598f75924774fcef6/header.jpg?t=1790899653",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4409620"
+   "url": "https://store.steampowered.com/app/5328990"
   },
   {
    "store": "Steam",
-   "id": 4562410,
-   "name": "KINGS QUARTERS",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562410/06c7b852438e550bfd9334043d18ac532a4a4cf3/header.jpg?t=1792543566",
+   "id": 5306540,
+   "name": "Groundwork Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306540/64674a7e52a9ea471b11731fb65425370550c032/header.jpg?t=1792660828",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4562410"
+   "url": "https://store.steampowered.com/app/5306540"
   },
   {
    "store": "Steam",
-   "id": 4338180,
-   "name": "Dearbnb",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338180/6e803c75fadd3dfed032291e1b3ab3c6e88afb52/header.jpg?t=1792507733",
+   "id": 4607340,
+   "name": "伊莉亚娜公主的坠落之夜~她已不再属于你~",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607340/bf738fd91cfc6203b4e2feaa6eca789bf1ed4260/header.jpg?t=1792406832",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4338180"
+   "url": "https://store.steampowered.com/app/4607340"
   },
   {
    "store": "Steam",
-   "id": 5279090,
-   "name": "Girlvania: Summer Lust",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5279090/fdfe375a1ecf4563f10cae0792946f413db634e8/header.jpg?t=1792515726",
+   "id": 5367850,
+   "name": "Little Spring",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367850/eaf3901b2b50ea921a0d6d5d6b18133b01891565/header.jpg?t=1791360828",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5279090"
+   "url": "https://store.steampowered.com/app/5367850"
   },
   {
    "store": "Steam",
-   "id": 5445550,
-   "name": "Click to Mine Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445550/3c0872ff02e0ded0af364e3e03eb0f2973111da3/header.jpg?t=1792242169",
+   "id": 4413070,
+   "name": "つみみじかん　～狂オシイホド愛シテル～",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413070/eafe4055368253f0b2cf0923cdbeaf6dd4e3c378/header.jpg?t=1792649567",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5445550"
+   "url": "https://store.steampowered.com/app/4413070"
   },
   {
    "store": "Steam",
-   "id": 5297320,
-   "name": "JIGOKU YUGI: Only The Last Gambler Standing Returns to Life",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5297320/d8883bbe22d5e4b04626dfa013804f72122047e1/header.jpg?t=1792246014",
+   "id": 3690870,
+   "name": "Tow Game",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690870/6c69ae74112d18c2e10a90f26a3fb88efe09b73b/header.jpg?t=1789052066",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5297320"
+   "url": "https://store.steampowered.com/app/3690870"
+  },
+  {
+   "store": "Steam",
+   "id": 4100210,
+   "name": "Halls of Torment - The Lost Archives",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100210/0566d09d077b2cab0f1551d7495e36c36e47c8da/header.jpg?t=1791973612",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4100210"
   }
  ]
 }
