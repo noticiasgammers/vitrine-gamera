@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T09:25:00.145Z",
- "today": "2026-10-23",
+ "updated": "2026-10-24T09:19:24.177Z",
+ "today": "2026-10-24",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -16,11 +16,12 @@
    802010,
    1004664,
    1020061,
-   1019804,
    1020452
   ],
   "lancamentos": [
+   1020545,
    1004664,
+   1020544,
    1020521,
    975605,
    1020487,
@@ -40,11 +41,11 @@
    490430,
    994083,
    469645,
-   1017176
+   1017176,
+   1011366
   ],
   "android": [
    1009246,
-   223581,
    1004657,
    968616,
    1015854,
@@ -93,34 +94,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=BlackJack%20Trainer%20trailer"
-  },
-  "223581": {
-   "id": 223581,
-   "name": "Tattoo Tycoon",
-   "released": "2025-10-23",
-   "image": "https://media.rawg.io/media/screenshots/106/106c0e88fdf9525298f9f07ebc17c4e6.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2375260/"
-    },
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=com.hg.tattootycoon&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Tattoo%20Tycoon%20trailer"
   },
   "224668": {
    "id": 224668,
@@ -259,7 +232,7 @@
    "name": "Prince of Persia: The Sands of Time Remake",
    "released": "2026-12-31",
    "image": "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
-   "rating": 3.82,
+   "rating": 3.83,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -375,7 +348,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.82,
+   "rating": 3.83,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -624,6 +597,29 @@
    "stores": [],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=FodFru%20trailer"
+  },
+  "1011366": {
+   "id": 1011366,
+   "name": "Outward 2",
+   "released": "2027-02-07",
+   "image": "https://media.rawg.io/media/screenshots/4f5/4f5af616d4835a604ec324a25d78095d.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2849490/Outward_2"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Outward%202%20trailer"
   },
   "1012187": {
    "id": 1012187,
@@ -1020,29 +1016,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont's%20Curse%20trailer"
   },
-  "1019804": {
-   "id": 1019804,
-   "name": "Apocalypter",
-   "released": "2026-09-23",
-   "image": "https://media.rawg.io/media/screenshots/c19/c19f6c89d2cdc01fd7591211c2fa6b00.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Racing",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4146760/Apocalypter/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Apocalypter%20trailer"
-  },
   "1020061": {
    "id": 1020061,
    "name": "EA SPORTS FC 27",
@@ -1220,6 +1193,52 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Maldhalla%20trailer"
+  },
+  "1020544": {
+   "id": 1020544,
+   "name": "The Sprit Forest",
+   "released": "2026-10-19",
+   "image": "https://media.rawg.io/media/screenshots/bd8/bd878be0e241f67dbe98b3111d640990.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Simulation"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5287930/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=The%20Sprit%20Forest%20trailer"
+  },
+  "1020545": {
+   "id": 1020545,
+   "name": "Sakura Hime 7",
+   "released": "2026-10-22",
+   "image": "https://media.rawg.io/media/screenshots/8a2/8a200b4386e958f37911b0a66dcc887a.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3596870/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
   }
  },
  "deals": [
@@ -1236,6 +1255,17 @@
   },
   {
    "store": "Steam",
+   "id": 750920,
+   "name": "Shadow of the Tomb Raider: Definitive Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
+   "discount": 90,
+   "original": 16649,
+   "final": 1664,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/750920"
+  },
+  {
+   "store": "Steam",
    "id": 2050650,
    "name": "Resident Evil 4",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -1247,6 +1277,17 @@
   },
   {
    "store": "Steam",
+   "id": 2183900,
+   "name": "Warhammer 40,000: Space Marine 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
+   "discount": 75,
+   "original": 19990,
+   "final": 4997,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2183900"
+  },
+  {
+   "store": "Steam",
    "id": 1091500,
    "name": "Cyberpunk 2077",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
@@ -1255,17 +1296,6 @@
    "final": 5997,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1091500"
-  },
-  {
-   "store": "Steam",
-   "id": 381210,
-   "name": "Dead by Daylight",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
-   "discount": 60,
-   "original": 6999,
-   "final": 2799,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/381210"
   },
   {
    "store": "Steam",
@@ -1288,17 +1318,6 @@
    "final": 5999,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/2138330"
-  },
-  {
-   "store": "Steam",
-   "id": 4656000,
-   "name": "BOMBANANA!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1792506779",
-   "discount": 40,
-   "original": 1999,
-   "final": 1199,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4656000"
   },
   {
    "store": "Steam",
@@ -1337,103 +1356,153 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4643480,
-   "name": "Shutterspeed",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643480/e0e9ffcdb56abd6cb56dc79d35d2e82c3c644e2a/header.jpg?t=1792743604",
+   "id": 4522380,
+   "name": "Realize in Peace",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522380/8b8c9b86951e4c9292c83f887658a5567ff0095d/header.jpg?t=1792811413",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4643480"
+   "url": "https://store.steampowered.com/app/4522380"
   },
   {
    "store": "Steam",
-   "id": 5394530,
-   "name": "Aim Tracer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5394530/bb7cf6a339154291eda1d87e531a08d0aa34d4df/header.jpg?t=1792743018",
+   "id": 5365450,
+   "name": "BRASS: Hard Contact",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365450/5980fdb380f6ef344bae08b8e688e797f957fac4/header.jpg?t=1792810987",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5394530"
+   "url": "https://store.steampowered.com/app/5365450"
   },
   {
    "store": "Steam",
-   "id": 4773930,
-   "name": "君临传奇之风起云涌",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773930/cfae1d952ac8f78f43245e6e3e8a8a4ff9e64c10/header.jpg?t=1792734260",
+   "id": 3839200,
+   "name": "Future Fab Heroes",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839200/b7c4232e7531218a42edf79681ee5f11d47e0dfa/header.jpg?t=1792803799",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4773930"
+   "url": "https://store.steampowered.com/app/3839200"
   },
   {
    "store": "Steam",
-   "id": 4314340,
-   "name": "The Reflection",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314340/15ab72b1be0e4313d2f804446ce0ec5936da22a9/header.jpg?t=1792690774",
+   "id": 5195600,
+   "name": "QuestAway",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4314340"
+   "url": "https://store.steampowered.com/app/5195600"
   },
   {
    "store": "Steam",
-   "id": 5236110,
-   "name": "Teleport Master",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5236110/96d6e31b41ef998c61595ad2b74b8437619be595/header.jpg?t=1790930658",
+   "id": 4775990,
+   "name": "Puppetry",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775990/d6dc00f01b4a2ac196a4dc9d584a53eb6a88b343/header.jpg?t=1792789321",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5236110"
+   "url": "https://store.steampowered.com/app/4775990"
   },
   {
    "store": "Steam",
-   "id": 5423590,
-   "name": "SEAMARK Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423590/3814966f69cb90dbaa9cb061daea763e4a90c28e/header.jpg?t=1792697678",
+   "id": 5385830,
+   "name": "Lily or Horse",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385830/920ed26d1fef714a3dbad95210df9e36bdfa4ff3/header.jpg?t=1792122537",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5423590"
+   "url": "https://store.steampowered.com/app/5385830"
   },
   {
    "store": "Steam",
-   "id": 2948120,
-   "name": "Cursed Profit",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948120/8174ac0698703ac7eea702e2f4a5b89a4e0fab20/header.jpg?t=1792558260",
+   "id": 4709550,
+   "name": "Behind the Corner",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792764634",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2948120"
+   "url": "https://store.steampowered.com/app/4709550"
   },
   {
    "store": "Steam",
-   "id": 5387430,
-   "name": "DEVIL'S LIMINAL Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5387430/7bdc55bad7bf419baf258b3f77e904b3aa3feea0/header.jpg?t=1792238727",
+   "id": 5280270,
+   "name": "Task Bar Cube: Inventory Package",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280270/fec0554b4db196e9d41805088bc265bee2efbd0d/header.jpg?t=1792559949",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5387430"
+   "url": "https://store.steampowered.com/app/5280270"
   },
   {
    "store": "Steam",
-   "id": 5389350,
-   "name": "Starfall Hill",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389350/2c6ba3de66a50d18739847ba3f341ec7453c0edf/header.jpg?t=1791972262",
+   "id": 5280220,
+   "name": "Task Bar Cube: Character Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280220/dd777b2b414e828f0be5603177215a5b80783ebf/header.jpg?t=1792559666",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5389350"
+   "url": "https://store.steampowered.com/app/5280220"
   },
   {
    "store": "Steam",
-   "id": 5439640,
-   "name": "TDoom Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439640/5865d39d11477c550bd313f29b6aa4fce311f22b/header.jpg?t=1791885885",
+   "id": 5280250,
+   "name": "Task Bar Cube: Support Package",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280250/af72d2ea7ac62c11eb3498762e0da9023ba22bbf/header.jpg?t=1792559811",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5439640"
+   "url": "https://store.steampowered.com/app/5280250"
+  },
+  {
+   "store": "Steam",
+   "id": 4924290,
+   "name": "Fire Bug",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924290/2a0db0d043d9bc8febc2b0974520791cef78ee0a/header.jpg?t=1784419477",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4924290"
+  },
+  {
+   "store": "Steam",
+   "id": 5306880,
+   "name": "Gross Survivors",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306880/cbfc0f092d601eec228059eb446872ef96ca6b6d/header.jpg?t=1792680574",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5306880"
+  },
+  {
+   "store": "Steam",
+   "id": 5084200,
+   "name": "Task Bar Cube",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084200/1d498d03902b7a57460f549f32e8d1bc1015cdd4/header.jpg?t=1792830912",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5084200"
+  },
+  {
+   "store": "Steam",
+   "id": 5347600,
+   "name": "Crazy City Golf",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347600/e083d3f1c8107bde8efc24e9719c9ab4a401935e/header.jpg?t=1792607256",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5347600"
+  },
+  {
+   "store": "Steam",
+   "id": 4924750,
+   "name": "Village of the Mirror",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924750/66b63fc2e6a90af49d8fb0dc3ae0671112ef3c49/header.jpg?t=1792669750",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4924750"
   }
  ]
 }
