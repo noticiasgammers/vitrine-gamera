@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-24T09:19:24.177Z",
- "today": "2026-10-24",
+ "updated": "2026-10-25T09:19:30.080Z",
+ "today": "2026-10-25",
  "sections": {
   "hoje": [],
   "destaques": [
    975605,
-   1015409,
    983213,
    1008986,
    1004513,
    1018102,
-   868088,
    1015425,
    1017395,
    802010,
    1004664,
    1020061,
-   1020452
+   1020452,
+   1020258,
+   1020418
   ],
   "lancamentos": [
    1020545,
@@ -27,8 +27,7 @@
    1020487,
    1018102,
    1020483,
-   1008986,
-   1020459
+   1008986
   ],
   "proximos": [
    1016708,
@@ -301,29 +300,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
   },
-  "868088": {
-   "id": 868088,
-   "name": "Silent Hill Townfall",
-   "released": "2026-09-24",
-   "image": "https://media.rawg.io/media/games/d1c/d1c4e52d3084231530fcab5d90033d42.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation"
-   ],
-   "genres": [
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Silent%20Hill%20Townfall%20trailer"
-  },
   "968616": {
    "id": 968616,
    "name": "Duet Night Abyss",
@@ -394,7 +370,7 @@
    "name": "Gears of War: E-Day",
    "released": "2026-10-06",
    "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-   "rating": 4,
+   "rating": 4.07,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -703,31 +679,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Humanity%20Echo%3A%20Cyberpunk%20Tactical%20RPG%20trailer"
   },
-  "1015409": {
-   "id": 1015409,
-   "name": "Control Resonant",
-   "released": "2026-09-24",
-   "image": "https://media.rawg.io/media/games/bfc/bfc7b45c6e9d3e21bb1c613c16c088f2.jpeg",
-   "rating": 4.32,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3669870/CONTROL_Resonant/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Control%20Resonant%20trailer"
-  },
   "1015425": {
    "id": 1015425,
    "name": "Ace Combat 8: Wings of Theve",
@@ -995,7 +946,7 @@
    "name": "Castlevania: Belmont's Curse",
    "released": "2026-10-15",
    "image": "https://media.rawg.io/media/games/429/42928697eb80feb13e6087170a10565a.jpeg",
-   "rating": null,
+   "rating": 3.5,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1073,6 +1024,51 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
+  "1020258": {
+   "id": 1020258,
+   "name": "阴阳界：志怪放置副游",
+   "released": "2026-09-30",
+   "image": "https://media.rawg.io/media/screenshots/cce/cce91649a04a485f9dcc37978bb73456.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5143030/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
+  },
+  "1020418": {
+   "id": 1020418,
+   "name": "Simple Squares",
+   "released": "2026-10-01",
+   "image": "https://media.rawg.io/media/screenshots/ea7/ea7ca99e75b9838cafc355896707ac39.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4611290/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Simple%20Squares%20trailer"
+  },
   "1020452": {
    "id": 1020452,
    "name": "Order of the Sinking Star",
@@ -1102,29 +1098,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Order%20of%20the%20Sinking%20Star%20trailer"
-  },
-  "1020459": {
-   "id": 1020459,
-   "name": "キズツケ kizutsuke",
-   "released": "2026-10-10",
-   "image": "https://media.rawg.io/media/screenshots/9ba/9bace80ff57ebde1c6dab30f73edb13a.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4846870/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%E3%82%AD%E3%82%BA%E3%83%84%E3%82%B1%20kizutsuke%20trailer"
   },
   "1020483": {
    "id": 1020483,
@@ -1255,17 +1228,6 @@
   },
   {
    "store": "Steam",
-   "id": 750920,
-   "name": "Shadow of the Tomb Raider: Definitive Edition",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
-   "discount": 90,
-   "original": 16649,
-   "final": 1664,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/750920"
-  },
-  {
-   "store": "Steam",
    "id": 2050650,
    "name": "Resident Evil 4",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -1277,17 +1239,6 @@
   },
   {
    "store": "Steam",
-   "id": 2183900,
-   "name": "Warhammer 40,000: Space Marine 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
-   "discount": 75,
-   "original": 19990,
-   "final": 4997,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2183900"
-  },
-  {
-   "store": "Steam",
    "id": 1091500,
    "name": "Cyberpunk 2077",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
@@ -1296,6 +1247,17 @@
    "final": 5997,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/1091500"
+  },
+  {
+   "store": "Steam",
+   "id": 381210,
+   "name": "Dead by Daylight",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
+   "discount": 60,
+   "original": 6999,
+   "final": 2799,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/381210"
   },
   {
    "store": "Steam",
@@ -1332,6 +1294,17 @@
   },
   {
    "store": "Steam",
+   "id": 5335510,
+   "name": "Moon Sweepers",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+   "discount": 15,
+   "original": 3399,
+   "final": 2889,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5335510"
+  },
+  {
+   "store": "Steam",
    "id": 4954910,
    "name": "Scam With Your Friends",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
@@ -1356,113 +1329,43 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4522380,
-   "name": "Realize in Peace",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4522380/8b8c9b86951e4c9292c83f887658a5567ff0095d/header.jpg?t=1792811413",
+   "id": 4435640,
+   "name": "Uninitialized",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435640/capsule_184x69.jpg?t=0",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4522380"
+   "url": "https://store.steampowered.com/app/4435640"
   },
   {
    "store": "Steam",
-   "id": 5365450,
-   "name": "BRASS: Hard Contact",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365450/5980fdb380f6ef344bae08b8e688e797f957fac4/header.jpg?t=1792810987",
+   "id": 5209250,
+   "name": "KING 4 A DAY",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5209250/3d4dafd9de4a27a0531010e2736292c83aa5e89f/header.jpg?t=1792915492",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5365450"
+   "url": "https://store.steampowered.com/app/5209250"
   },
   {
    "store": "Steam",
-   "id": 3839200,
-   "name": "Future Fab Heroes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839200/b7c4232e7531218a42edf79681ee5f11d47e0dfa/header.jpg?t=1792803799",
+   "id": 3138080,
+   "name": "Some Things Stay Broken",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138080/0f156c0eeba3e356485e0dd37e4545a69dee014c/header.jpg?t=1792910323",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3839200"
+   "url": "https://store.steampowered.com/app/3138080"
   },
   {
    "store": "Steam",
-   "id": 5195600,
-   "name": "QuestAway",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
+   "id": 4929010,
+   "name": "Unforgiving Dungeon",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929010/aa969a6d2c379d45bd11300cbb4064f517b7775f/header.jpg?t=1792854217",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5195600"
-  },
-  {
-   "store": "Steam",
-   "id": 4775990,
-   "name": "Puppetry",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775990/d6dc00f01b4a2ac196a4dc9d584a53eb6a88b343/header.jpg?t=1792789321",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4775990"
-  },
-  {
-   "store": "Steam",
-   "id": 5385830,
-   "name": "Lily or Horse",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385830/920ed26d1fef714a3dbad95210df9e36bdfa4ff3/header.jpg?t=1792122537",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5385830"
-  },
-  {
-   "store": "Steam",
-   "id": 4709550,
-   "name": "Behind the Corner",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792764634",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4709550"
-  },
-  {
-   "store": "Steam",
-   "id": 5280270,
-   "name": "Task Bar Cube: Inventory Package",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280270/fec0554b4db196e9d41805088bc265bee2efbd0d/header.jpg?t=1792559949",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5280270"
-  },
-  {
-   "store": "Steam",
-   "id": 5280220,
-   "name": "Task Bar Cube: Character Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280220/dd777b2b414e828f0be5603177215a5b80783ebf/header.jpg?t=1792559666",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5280220"
-  },
-  {
-   "store": "Steam",
-   "id": 5280250,
-   "name": "Task Bar Cube: Support Package",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280250/af72d2ea7ac62c11eb3498762e0da9023ba22bbf/header.jpg?t=1792559811",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5280250"
-  },
-  {
-   "store": "Steam",
-   "id": 4924290,
-   "name": "Fire Bug",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924290/2a0db0d043d9bc8febc2b0974520791cef78ee0a/header.jpg?t=1784419477",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4924290"
+   "url": "https://store.steampowered.com/app/4929010"
   },
   {
    "store": "Steam",
@@ -1478,11 +1381,21 @@
    "store": "Steam",
    "id": 5084200,
    "name": "Task Bar Cube",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084200/1d498d03902b7a57460f549f32e8d1bc1015cdd4/header.jpg?t=1792830912",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084200/1d498d03902b7a57460f549f32e8d1bc1015cdd4/header.jpg?t=1792919314",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/5084200"
+  },
+  {
+   "store": "Steam",
+   "id": 5358580,
+   "name": "Give Us Back Gravity",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5358580/7579384b6ab4f0c146214cb6f4b732d7213eff6e/header.jpg?t=1792505554",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5358580"
   },
   {
    "store": "Steam",
@@ -1503,6 +1416,56 @@
    "original": 0,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/4924750"
+  },
+  {
+   "store": "Steam",
+   "id": 5366400,
+   "name": "Prism Core",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5366400/7025f3cce15a39288e535820fd1f19453fe1f066/header.jpg?t=1792826461",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5366400"
+  },
+  {
+   "store": "Steam",
+   "id": 5274500,
+   "name": "永禄立志伝",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5274500/86b8cef77eefa9140482f5194318b427a4a8d619/header.jpg?t=1792719039",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5274500"
+  },
+  {
+   "store": "Steam",
+   "id": 5388030,
+   "name": "LEVELS Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5388030/7819bc3be8836e7c64616f3dcad42adc4391fa71/header.jpg?t=1792916766",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5388030"
+  },
+  {
+   "store": "Steam",
+   "id": 5426580,
+   "name": "六年级奶瓦聚会",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426580/b9a20c7057546c17d21f9774a8b65d02570bf393/header.jpg?t=1792573008",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5426580"
+  },
+  {
+   "store": "Steam",
+   "id": 5393420,
+   "name": "Elya",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393420/a66d6a5fa0404cb0a6fa1559e7f97c1e8bb2af6e/header.jpg?t=1792611645",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5393420"
   }
  ]
 }
