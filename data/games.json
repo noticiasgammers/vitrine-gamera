@@ -1,8 +1,10 @@
 {
- "updated": "2026-10-25T09:19:30.080Z",
- "today": "2026-10-25",
+ "updated": "2026-10-26T09:32:51.489Z",
+ "today": "2026-10-26",
  "sections": {
-  "hoje": [],
+  "hoje": [
+   1016708
+  ],
   "destaques": [
    975605,
    983213,
@@ -13,12 +15,13 @@
    1017395,
    802010,
    1004664,
-   1020061,
+   1016708,
    1020452,
    1020258,
    1020418
   ],
   "lancamentos": [
+   1016708,
    1020545,
    1004664,
    1020544,
@@ -30,7 +33,6 @@
    1008986
   ],
   "proximos": [
-   1016708,
    802450,
    1020128,
    972995,
@@ -41,7 +43,8 @@
    994083,
    469645,
    1017176,
-   1011366
+   1011366,
+   471026
   ],
   "android": [
    1009246,
@@ -183,7 +186,7 @@
    "name": "Path of Exile 2",
    "released": "2026-12-11",
    "image": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
-   "rating": 3.52,
+   "rating": 3.54,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -225,6 +228,31 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Titan%20Quest%202%20trailer"
+  },
+  "471026": {
+   "id": 471026,
+   "name": "Fable",
+   "released": "2027-02-23",
+   "image": "https://media.rawg.io/media/games/e06/e06a04ece5555c8c15a7c68e22649f0c.jpg",
+   "rating": 3.69,
+   "metacritic": null,
+   "platforms": [
+    "pc",
+    "playstation",
+    "xbox"
+   ],
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/2769570/Fable/?curator_clanid=4777282"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Fable%20trailer"
   },
   "490430": {
    "id": 490430,
@@ -540,7 +568,7 @@
    "name": "Arknights: Endfield",
    "released": "2026-01-22",
    "image": "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg",
-   "rating": 3.47,
+   "rating": 3.5,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -967,39 +995,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont's%20Curse%20trailer"
   },
-  "1020061": {
-   "id": 1020061,
-   "name": "EA SPORTS FC 27",
-   "released": "2026-09-25",
-   "image": "https://media.rawg.io/media/screenshots/d9b/d9b0ef34a249647310c5bc7577ce68e3.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox",
-    "nintendo"
-   ],
-   "genres": [
-    "Sports"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/"
-    },
-    {
-     "name": "Nintendo eShop",
-     "url": "https://www.nintendo.com/us/store/products/ea-sports-fc-27-switch-2/"
-    },
-    {
-     "name": "PlayStation",
-     "url": "https://store.playstation.com/en-us/product/UP0006-PPSA34015_00-27STANDARDBUNDLE"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=EA%20SPORTS%20FC%2027%20trailer"
-  },
   "1020128": {
    "id": 1020128,
    "name": "Tavern Farkle GB",
@@ -1228,6 +1223,17 @@
   },
   {
    "store": "Steam",
+   "id": 391220,
+   "name": "Rise of the Tomb Raider™",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+   "discount": 90,
+   "original": 12499,
+   "final": 1249,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/391220"
+  },
+  {
+   "store": "Steam",
    "id": 2050650,
    "name": "Resident Evil 4",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -1283,20 +1289,9 @@
   },
   {
    "store": "Steam",
-   "id": 3764200,
-   "name": "Resident Evil Requiem",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-   "discount": 30,
-   "original": 29900,
-   "final": 20930,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3764200"
-  },
-  {
-   "store": "Steam",
    "id": 5335510,
    "name": "Moon Sweepers",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
    "discount": 15,
    "original": 3399,
    "final": 2889,
@@ -1329,143 +1324,113 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4435640,
-   "name": "Uninitialized",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435640/capsule_184x69.jpg?t=0",
+   "id": 5010310,
+   "name": " Frontline 2042: Jogo de Tiro de Guerra Moderna",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010310/c6d5bb01b8ebc34256be7957249f29370d4f0289/header.jpg?t=1792992377",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4435640"
+   "url": "https://store.steampowered.com/app/5010310"
   },
   {
    "store": "Steam",
-   "id": 5209250,
-   "name": "KING 4 A DAY",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5209250/3d4dafd9de4a27a0531010e2736292c83aa5e89f/header.jpg?t=1792915492",
+   "id": 5324320,
+   "name": "Puzzle Peace: Cozy Jigsaw Puzzles",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5324320/26bb751523d7a0e1e58661630f9e109b30dd492f/header.jpg?t=1792972343",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5209250"
+   "url": "https://store.steampowered.com/app/5324320"
   },
   {
    "store": "Steam",
-   "id": 3138080,
-   "name": "Some Things Stay Broken",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3138080/0f156c0eeba3e356485e0dd37e4545a69dee014c/header.jpg?t=1792910323",
+   "id": 5438230,
+   "name": "Mining Fire Ball Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5438230/12433f2eb6f63e07e54a95456da2389b5509d8c9/header.jpg?t=1792642442",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3138080"
+   "url": "https://store.steampowered.com/app/5438230"
   },
   {
    "store": "Steam",
-   "id": 4929010,
-   "name": "Unforgiving Dungeon",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929010/aa969a6d2c379d45bd11300cbb4064f517b7775f/header.jpg?t=1792854217",
+   "id": 5381250,
+   "name": "Grim Guild",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5381250/b4c250a245cabea6ec4357b08349e9bc71bdaf54/header.jpg?t=1792594666",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4929010"
+   "url": "https://store.steampowered.com/app/5381250"
   },
   {
    "store": "Steam",
-   "id": 5306880,
-   "name": "Gross Survivors",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5306880/cbfc0f092d601eec228059eb446872ef96ca6b6d/header.jpg?t=1792680574",
+   "id": 4882380,
+   "name": "Hentai Senpai: Things That go HUMP in the Night Original Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882380/88283e78f71837f294002f4e820978b8d428f4a4/header.jpg?t=1782786815",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5306880"
+   "url": "https://store.steampowered.com/app/4882380"
   },
   {
    "store": "Steam",
-   "id": 5084200,
-   "name": "Task Bar Cube",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084200/1d498d03902b7a57460f549f32e8d1bc1015cdd4/header.jpg?t=1792919314",
+   "id": 5049140,
+   "name": "INANIMA Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049140/ac0e3b94f61e0cb9cda551d33b70856220756282/header.jpg?t=1792051505",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5084200"
+   "url": "https://store.steampowered.com/app/5049140"
   },
   {
    "store": "Steam",
-   "id": 5358580,
-   "name": "Give Us Back Gravity",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5358580/7579384b6ab4f0c146214cb6f4b732d7213eff6e/header.jpg?t=1792505554",
+   "id": 4987640,
+   "name": "TRAPPIST-1",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987640/e95dde623cff5f39b3b740ad7be27e030307a986/header.jpg?t=1792888869",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5358580"
+   "url": "https://store.steampowered.com/app/4987640"
   },
   {
    "store": "Steam",
-   "id": 5347600,
-   "name": "Crazy City Golf",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347600/e083d3f1c8107bde8efc24e9719c9ab4a401935e/header.jpg?t=1792607256",
+   "id": 5474890,
+   "name": "Cultist: The Ritual  Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5474890/3e2524279c9e39eb63d49694ce9bc895662cf4f3/header.jpg?t=1792601449",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5347600"
+   "url": "https://store.steampowered.com/app/5474890"
   },
   {
    "store": "Steam",
-   "id": 4924750,
-   "name": "Village of the Mirror",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924750/66b63fc2e6a90af49d8fb0dc3ae0671112ef3c49/header.jpg?t=1792669750",
+   "id": 5495640,
+   "name": "Пока помню Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5495640/b2152452e93aa4b7aa16f6068b00c1c1f5d6d4dd/header.jpg?t=1792750962",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4924750"
+   "url": "https://store.steampowered.com/app/5495640"
   },
   {
    "store": "Steam",
-   "id": 5366400,
-   "name": "Prism Core",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5366400/7025f3cce15a39288e535820fd1f19453fe1f066/header.jpg?t=1792826461",
+   "id": 1932910,
+   "name": "Cardopolis",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932910/99c5cd42ec4b5fdb5e3c7de5ebcb47e7d5f6a3fd/header.jpg?t=1793005313",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5366400"
+   "url": "https://store.steampowered.com/app/1932910"
   },
   {
    "store": "Steam",
-   "id": 5274500,
-   "name": "永禄立志伝",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5274500/86b8cef77eefa9140482f5194318b427a4a8d619/header.jpg?t=1792719039",
+   "id": 5248430,
+   "name": "Picpic",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5248430/b86d9b9b62d1e76bc461998d23054f1e6f9f0430/header.jpg?t=1793005628",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5274500"
-  },
-  {
-   "store": "Steam",
-   "id": 5388030,
-   "name": "LEVELS Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5388030/7819bc3be8836e7c64616f3dcad42adc4391fa71/header.jpg?t=1792916766",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5388030"
-  },
-  {
-   "store": "Steam",
-   "id": 5426580,
-   "name": "六年级奶瓦聚会",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426580/b9a20c7057546c17d21f9774a8b65d02570bf393/header.jpg?t=1792573008",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5426580"
-  },
-  {
-   "store": "Steam",
-   "id": 5393420,
-   "name": "Elya",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393420/a66d6a5fa0404cb0a6fa1559e7f97c1e8bb2af6e/header.jpg?t=1792611645",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5393420"
+   "url": "https://store.steampowered.com/app/5248430"
   }
  ]
 }
