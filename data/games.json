@@ -1,12 +1,15 @@
 {
- "updated": "2026-10-27T09:30:29.398Z",
- "today": "2026-10-27",
+ "updated": "2026-10-28T09:37:21.761Z",
+ "today": "2026-10-28",
  "sections": {
-  "hoje": [],
+  "hoje": [
+   802450
+  ],
   "destaques": [
    975605,
    983213,
    1008986,
+   962016,
    1004513,
    1018102,
    1015425,
@@ -15,11 +18,12 @@
    1004664,
    1016708,
    1020452,
-   1020258,
-   1020418
+   1020258
   ],
   "lancamentos": [
+   802450,
    1016708,
+   962016,
    1020588,
    1020545,
    1004664,
@@ -29,11 +33,9 @@
    975605,
    1020487,
    1018102,
-   1020483,
-   1008986
+   1020483
   ],
   "proximos": [
-   802450,
    1020128,
    972995,
    998661,
@@ -327,6 +329,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
+  },
+  "962016": {
+   "id": 962016,
+   "name": "REKA",
+   "released": "2026-10-26",
+   "image": "https://media.rawg.io/media/screenshots/7a7/7a7652c7423fedce4c2d4090858dbb01.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1737870/REKA/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=REKA%20trailer"
   },
   "968616": {
    "id": 968616,
@@ -1042,28 +1067,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E9%98%B4%E9%98%B3%E7%95%8C%EF%BC%9A%E5%BF%97%E6%80%AA%E6%94%BE%E7%BD%AE%E5%89%AF%E6%B8%B8%20trailer"
   },
-  "1020418": {
-   "id": 1020418,
-   "name": "Simple Squares",
-   "released": "2026-10-01",
-   "image": "https://media.rawg.io/media/screenshots/ea7/ea7ca99e75b9838cafc355896707ac39.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4611290/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Simple%20Squares%20trailer"
-  },
   "1020452": {
    "id": 1020452,
    "name": "Order of the Sinking Star",
@@ -1258,14 +1261,14 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 238320,
-   "name": "Outlast",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+   "id": 391220,
+   "name": "Rise of the Tomb Raider™",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
    "discount": 90,
-   "original": 4699,
-   "final": 469,
+   "original": 12499,
+   "final": 1249,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/238320"
+   "url": "https://store.steampowered.com/app/391220"
   },
   {
    "store": "Steam",
@@ -1280,25 +1283,14 @@
   },
   {
    "store": "Steam",
-   "id": 1449690,
-   "name": "The Walking Dead: The Telltale Definitive Series",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
-   "discount": 90,
-   "original": 13499,
-   "final": 1349,
+   "id": 242760,
+   "name": "The Forest",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+   "discount": 80,
+   "original": 3799,
+   "final": 759,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1449690"
-  },
-  {
-   "store": "Steam",
-   "id": 2050650,
-   "name": "Resident Evil 4",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-   "discount": 75,
-   "original": 16900,
-   "final": 4225,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2050650"
+   "url": "https://store.steampowered.com/app/242760"
   },
   {
    "store": "Steam",
@@ -1324,17 +1316,6 @@
   },
   {
    "store": "Steam",
-   "id": 221100,
-   "name": "DayZ",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-   "discount": 50,
-   "original": 16900,
-   "final": 8450,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/221100"
-  },
-  {
-   "store": "Steam",
    "id": 5335510,
    "name": "Moon Sweepers",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
@@ -1354,118 +1335,190 @@
    "final": 3374,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/4954910"
+  },
+  {
+   "store": "Steam",
+   "id": 1203620,
+   "name": "Enshrouded",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+   "discount": 10,
+   "original": 11999,
+   "final": 10799,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1203620"
+  },
+  {
+   "store": "Steam",
+   "id": 4688700,
+   "name": "Project Exhibitionist",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
+   "discount": 10,
+   "original": 10999,
+   "final": 9899,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4688700"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4594300,
-   "name": "RACAR - Shooter FPS",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594300/b4e65c4de59cc51163e84e92b646572d283b5cd5/header.jpg?t=1793090350",
+   "id": 5188720,
+   "name": "MachineGunner3 : Cosmos Ascending True",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188720/2adeee9adeb39ca40c841a43e681bd1684ede247/header.jpg?t=1793179062",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4594300"
+   "url": "https://store.steampowered.com/app/5188720"
   },
   {
    "store": "Steam",
-   "id": 4856160,
-   "name": "Conquest of Empires 3",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856160/e2053047e9685d12c0557daa6b7576437cbdc4be/header.jpg?t=1793088831",
+   "id": 4997370,
+   "name": "XADREZ2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997370/6c7b53d7b6890c9bccc61b803a15cf1a6ecdaa96/header.jpg?t=1793174440",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4856160"
+   "url": "https://store.steampowered.com/app/4997370"
   },
   {
    "store": "Steam",
-   "id": 5283330,
-   "name": "Wattverse",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283330/d7b72cf06db83ec77229dd33252fbfec52eced91/header.jpg?t=1793083749",
+   "id": 5313750,
+   "name": "RainBook Lite",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5313750/272100b1156d56cf3417eac6e49c736b1142015e/header.jpg?t=1793173254",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5283330"
+   "url": "https://store.steampowered.com/app/5313750"
   },
   {
    "store": "Steam",
-   "id": 5308110,
-   "name": "Farm Story Life",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308110/8ff17d0dc20d18cae2c06944fb126565fe6e5c78/header.jpg?t=1793083670",
+   "id": 5322620,
+   "name": "Follow Suit",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5322620/ae51c32e930c84f367170f68924b72af10ec836a/header.jpg?t=1793159424",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5308110"
+   "url": "https://store.steampowered.com/app/5322620"
   },
   {
    "store": "Steam",
-   "id": 5112180,
-   "name": "神谕之窗.exe",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112180/393827e17065c52e0d60b124005c810321bc58ee/header.jpg?t=1793075418",
+   "id": 5040660,
+   "name": "策马三国志",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040660/290d95a5853409570a8cddbe4d381b63daa65d12/header.jpg?t=1793156696",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5112180"
+   "url": "https://store.steampowered.com/app/5040660"
   },
   {
    "store": "Steam",
-   "id": 4824070,
-   "name": "Idle Slots: Casino HQ: Nature Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824070/ab8c840d31c474c637215da9692592a31befc232/header.jpg?t=1781433897",
+   "id": 4873510,
+   "name": "Blocia",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873510/714d3faec092cae28bcbc6856d624c817d51f901/header.jpg?t=1793156270",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4824070"
+   "url": "https://store.steampowered.com/app/4873510"
   },
   {
    "store": "Steam",
-   "id": 4824080,
-   "name": "Idle Slots: Casino HQ: Artistic Styles Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824080/ab8c840d31c474c637215da9692592a31befc232/header.jpg?t=1781433815",
+   "id": 3818450,
+   "name": "Everlast: Undying Tale",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818450/2f283a0917a86e331fbce0a891bc3a0788e3c939/header.jpg?t=1792805642",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4824080"
+   "url": "https://store.steampowered.com/app/3818450"
   },
   {
    "store": "Steam",
-   "id": 4651700,
-   "name": "Off Course",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651700/903ca2a95455b576794b572eee447412aea441b1/header.jpg?t=1786994549",
+   "id": 5179670,
+   "name": "Synapse Grid",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5179670/d85ce36a826b9fbf49052291d97e3e5016564dd4/header.jpg?t=1792888125",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4651700"
+   "url": "https://store.steampowered.com/app/5179670"
   },
   {
    "store": "Steam",
-   "id": 5247240,
-   "name": "MEGA TAG PANIC",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247240/e015a2dfdb86f42ea1eea64066ba6af2ca6752c1/header.jpg?t=1792660221",
+   "id": 3705900,
+   "name": "President Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3705900/901e69507fd99cefdc032a099aedf17743325da3/header.jpg?t=1792573310",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5247240"
+   "url": "https://store.steampowered.com/app/3705900"
   },
   {
    "store": "Steam",
-   "id": 4878090,
-   "name": "Hentai Senpai: Things That go HUMP in the Night",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878090/01c3fbe46aba8f743418ccd9710d9f7f204d0bdb/header.jpg?t=1792716084",
+   "id": 4801540,
+   "name": "迷失小镇",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801540/5d59ce896946c195dc1f58b1e7d0249fff7cc606/header.jpg?t=1793179766",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4878090"
+   "url": "https://store.steampowered.com/app/4801540"
   },
   {
    "store": "Steam",
-   "id": 4822330,
-   "name": "Idle Slots: Casino HQ",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822330/31c5dd5748a8d29fd5f259430c6de7b5bea4aaee/header.jpg?t=1792594264",
+   "id": 4135120,
+   "name": "Speed Rivals - Model Trains",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135120/9b513a12397349e30fcb72af5b0fe2380b1e20ae/header.jpg?t=1793112193",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4822330"
+   "url": "https://store.steampowered.com/app/4135120"
+  },
+  {
+   "store": "Steam",
+   "id": 5385090,
+   "name": "Mines & Meows: Cozy Minesweeper",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385090/f4868bd5886f9dbc793f97204f020aaf8fd7ff53/header.jpg?t=1792895287",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5385090"
+  },
+  {
+   "store": "Steam",
+   "id": 4955980,
+   "name": "Dairy Empire: Production Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955980/32b5e01e33fc7305726aad8cc7daf457dd70a985/header.jpg?t=1792423032",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4955980"
+  },
+  {
+   "store": "Steam",
+   "id": 4660210,
+   "name": "Poolrooms Museum",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660210/411cc3d711ca9ec59f70813e486f1707d3f55883/header.jpg?t=1792765900",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4660210"
+  },
+  {
+   "store": "Steam",
+   "id": 5372090,
+   "name": "Heretics Amulet",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372090/6336c29a875e7007f66548f54c7529349f895c6f/header.jpg?t=1793141619",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5372090"
+  },
+  {
+   "store": "Steam",
+   "id": 4882100,
+   "name": "The Library Assistant",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882100/af5e40c0675df397afe9312a363c49363e9ca4a1/header.jpg?t=1788186248",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4882100"
   }
  ]
 }
