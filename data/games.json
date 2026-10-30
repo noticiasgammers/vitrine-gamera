@@ -1,10 +1,8 @@
 {
- "updated": "2026-10-29T09:39:57.775Z",
- "today": "2026-10-29",
+ "updated": "2026-10-30T09:40:54.086Z",
+ "today": "2026-10-30",
  "sections": {
-  "hoje": [
-   1020128
-  ],
+  "hoje": [],
   "destaques": [
    975605,
    983213,
@@ -31,10 +29,7 @@
    1004664,
    1020544,
    1020587,
-   1020521,
-   975605,
-   1020487,
-   1018102
+   1020521
   ],
   "proximos": [
    972995,
@@ -210,7 +205,7 @@
    "name": "Titan Quest 2",
    "released": "2027-01-19",
    "image": "https://media.rawg.io/media/games/233/233b58ed99520a1e0b19109f7263f011.jpg",
-   "rating": 2.33,
+   "rating": 2.14,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -357,7 +352,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.83,
+   "rating": 3.85,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -571,7 +566,7 @@
    "name": "Valor Mortis",
    "released": "2026-10-13",
    "image": "https://media.rawg.io/media/games/61d/61d1431d20f9f6e19b27cb89aa4a4402.jpg",
-   "rating": 3.71,
+   "rating": 3.86,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -1077,29 +1072,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Order%20of%20the%20Sinking%20Star%20trailer"
   },
-  "1020487": {
-   "id": 1020487,
-   "name": "Tales of Eternia Remastered",
-   "released": "2026-10-15",
-   "image": "https://media.rawg.io/media/screenshots/b1a/b1a44ef452b7f2ddd8081dfc002a43d0.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3470960/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Tales%20of%20Eternia%20Remastered%20trailer"
-  },
   "1020521": {
    "id": 1020521,
    "name": "Maldhalla",
@@ -1218,28 +1190,6 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 750920,
-   "name": "Shadow of the Tomb Raider: Definitive Edition",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
-   "discount": 90,
-   "original": 16649,
-   "final": 1664,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/750920"
-  },
-  {
-   "store": "Steam",
-   "id": 391220,
-   "name": "Rise of the Tomb Raider™",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
-   "discount": 90,
-   "original": 12499,
-   "final": 1249,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/391220"
-  },
-  {
-   "store": "Steam",
    "id": 2050650,
    "name": "Resident Evil 4",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -1273,6 +1223,17 @@
   },
   {
    "store": "Steam",
+   "id": 275850,
+   "name": "No Man's Sky",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+   "discount": 60,
+   "original": 16200,
+   "final": 6480,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/275850"
+  },
+  {
+   "store": "Steam",
    "id": 3240220,
    "name": "Grand Theft Auto V Enhanced",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -1281,6 +1242,28 @@
    "final": 7495,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3240220"
+  },
+  {
+   "store": "Steam",
+   "id": 3241660,
+   "name": "R.E.P.O.",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
+   "discount": 35,
+   "original": 2999,
+   "final": 1949,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3241660"
+  },
+  {
+   "store": "Steam",
+   "id": 3884860,
+   "name": "The Wolf Among Us Remastered",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
+   "discount": 20,
+   "original": 8399,
+   "final": 6719,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3884860"
   },
   {
    "store": "Steam",
@@ -1295,14 +1278,14 @@
   },
   {
    "store": "Steam",
-   "id": 4954910,
-   "name": "Scam With Your Friends",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
+   "id": 4005870,
+   "name": "FreshWomen - Season 3",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793297818",
    "discount": 10,
-   "original": 3749,
-   "final": 3374,
+   "original": 6799,
+   "final": 6119,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4954910"
+   "url": "https://store.steampowered.com/app/4005870"
   },
   {
    "store": "Steam",
@@ -1314,139 +1297,88 @@
    "final": 4049,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/4348910"
-  },
-  {
-   "store": "Steam",
-   "id": 1203620,
-   "name": "Enshrouded",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-   "discount": 10,
-   "original": 11999,
-   "final": 10799,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1203620"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4481760,
-   "name": "Stones",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481760/2e95a88dd530d1fdf3de2aa1ac56145c825ae8c9/header.jpg?t=1793263318",
+   "id": 5234060,
+   "name": "ConvoyCore",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234060/66fb77907adef064fd6a1371b5f8eb717f97faec/header.jpg?t=1793347621",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4481760"
+   "url": "https://store.steampowered.com/app/5234060"
   },
   {
    "store": "Steam",
-   "id": 4356280,
-   "name": "SimsalaGrimm™ – Der Chaoskristall",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356280/14e2d5c8eb6b20837304925955bdae663c553b59/header.jpg?t=1793260652",
+   "id": 5026920,
+   "name": "TOWERMOUTH",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026920/885eec66ca54e0783ea4f9564e50386676d66eb1/header.jpg?t=1793085413",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4356280"
+   "url": "https://store.steampowered.com/app/5026920"
   },
   {
    "store": "Steam",
-   "id": 5019180,
-   "name": "Epic Seven",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019180/6dabc3f404b51e08ab22763d3df4808081baa5e0/header.jpg?t=1793256460",
+   "id": 5009380,
+   "name": "Butterfly Project",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009380/f49935fe6e947233a15c866c9739d60a66391c72/header.jpg?t=1793251483",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5019180"
+   "url": "https://store.steampowered.com/app/5009380"
   },
   {
    "store": "Steam",
-   "id": 5259270,
-   "name": "Agastache Rugosa",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259270/a87b52b4056d5892a37b55b98837deea764f7f70/header.jpg?t=1793254426",
+   "id": 5440340,
+   "name": "Battle Nap Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440340/d8f1a0e5fa1d76d004dc3ae3dd9ff695cd2ea5e1/header.jpg?t=1792518214",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5259270"
+   "url": "https://store.steampowered.com/app/5440340"
   },
   {
    "store": "Steam",
-   "id": 2082600,
-   "name": "ECO's Journey",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082600/73f13fa0b7de94e6dc047e1a21ad497de7447134/header.jpg?t=1792756655",
+   "id": 5396400,
+   "name": "The Doll Shop Soundtrack & Artbook",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5396400/df2a4e00df88a417d0dafef312cf6de07e2c20ca/header.jpg?t=1793276289",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2082600"
+   "url": "https://store.steampowered.com/app/5396400"
   },
   {
    "store": "Steam",
-   "id": 5170830,
-   "name": "PODYEZD 8",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170830/9d1aa89df8c3d477de3a939ecb7a9ce26a03cbdc/header.jpg?t=1793115310",
+   "id": 5317840,
+   "name": "DECIBLOW",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5317840/4c576922733207975a18ad08a49596b276ca8c25/header.jpg?t=1791751570",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5170830"
+   "url": "https://store.steampowered.com/app/5317840"
   },
   {
    "store": "Steam",
-   "id": 5246020,
-   "name": "Sex Shop Chaos",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246020/00a2ad487d7a15e6fcf78fb2c74e64f2a07a3138/header.jpg?t=1792669596",
+   "id": 5196900,
+   "name": "Baby Puncher",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196900/a90eb6d81ab942cd122cfbc48c31ca430146a4e6/header.jpg?t=1793145405",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5246020"
+   "url": "https://store.steampowered.com/app/5196900"
   },
   {
    "store": "Steam",
-   "id": 2685440,
-   "name": "Laura's secret diary",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685440/88773bd3dc24d26eebd65df6489d13d433671117/header.jpg?t=1793242345",
+   "id": 3169670,
+   "name": "The Golden Caravan",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3169670/e9074a73e96ed7a7d55a7b7a050450414dcd8eaf/header.jpg?t=1793096780",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2685440"
-  },
-  {
-   "store": "Steam",
-   "id": 972450,
-   "name": "The Zibbo Show",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972450/726f492e05a53f7a6d98f9496b4881fc63f241f6/header.jpg?t=1793085108",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/972450"
-  },
-  {
-   "store": "Steam",
-   "id": 4620440,
-   "name": "Re:Re:Re:Respawn",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620440/cc38e98b95eb9698a8830cf2b84ec485ea2fd128/header.jpg?t=1792472180",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4620440"
-  },
-  {
-   "store": "Steam",
-   "id": 5298470,
-   "name": "LAST SHELTER",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5298470/53b95733d06794c8bf85077433ab20203e5a4935/header.jpg?t=1793023202",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5298470"
-  },
-  {
-   "store": "Steam",
-   "id": 4891550,
-   "name": "Fat Chance",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891550/468bf69fd8d106dce51613e7641df9e31bee0dfc/header.jpg?t=1792225508",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4891550"
+   "url": "https://store.steampowered.com/app/3169670"
   }
  ]
 }
