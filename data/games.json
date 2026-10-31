@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T09:40:54.086Z",
- "today": "2026-10-30",
+ "updated": "2026-10-31T09:29:19.678Z",
+ "today": "2026-10-31",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -13,10 +13,10 @@
    1015425,
    1017395,
    991568,
-   802010,
    1004664,
    1016708,
-   1020452
+   1020452,
+   1020418
   ],
   "lancamentos": [
    1020128,
@@ -25,11 +25,10 @@
    1016708,
    962016,
    1020588,
+   1020619,
    1020545,
    1004664,
-   1020544,
-   1020587,
-   1020521
+   1020544
   ],
   "proximos": [
    972995,
@@ -230,7 +229,7 @@
    "name": "Fable",
    "released": "2027-02-23",
    "image": "https://media.rawg.io/media/games/e06/e06a04ece5555c8c15a7c68e22649f0c.jpg",
-   "rating": 3.69,
+   "rating": 3.53,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -277,29 +276,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Prince%20of%20Persia%3A%20The%20Sands%20of%20Time%20Remake%20trailer"
-  },
-  "802010": {
-   "id": 802010,
-   "name": "Nivalis",
-   "released": "2026-09-30",
-   "image": "https://media.rawg.io/media/screenshots/696/696638dca1d39d65168401c821f28519.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1488490/Nivalis/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Nivalis%20trailer"
   },
   "802450": {
    "id": 802450,
@@ -375,7 +351,7 @@
    "name": "Enshrouded",
    "released": "2026-10-15",
    "image": "https://media.rawg.io/media/games/cb0/cb0e1afa3f0e8ffe853f33dd137ca7aa.jpg",
-   "rating": 3.71,
+   "rating": 3.64,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -1042,6 +1018,28 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
   },
+  "1020418": {
+   "id": 1020418,
+   "name": "Simple Squares",
+   "released": "2026-10-01",
+   "image": "https://media.rawg.io/media/screenshots/ea7/ea7ca99e75b9838cafc355896707ac39.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4611290/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Simple%20Squares%20trailer"
+  },
   "1020452": {
    "id": 1020452,
    "name": "Order of the Sinking Star",
@@ -1071,28 +1069,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Order%20of%20the%20Sinking%20Star%20trailer"
-  },
-  "1020521": {
-   "id": 1020521,
-   "name": "Maldhalla",
-   "released": "2026-10-16",
-   "image": "https://media.rawg.io/media/screenshots/dd0/dd070442d05be993f673162e079f90b2.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4385780/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Maldhalla%20trailer"
   },
   "1020544": {
    "id": 1020544,
@@ -1140,29 +1116,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
   },
-  "1020587": {
-   "id": 1020587,
-   "name": "Through the Void: Echoes",
-   "released": "2026-10-16",
-   "image": "https://media.rawg.io/media/screenshots/601/601d66311495891ed1e937908aca0051.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5267420/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Through%20the%20Void%3A%20Echoes%20trailer"
-  },
   "1020588": {
    "id": 1020588,
    "name": "FUTA GIRLS",
@@ -1185,6 +1138,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=FUTA%20GIRLS%20trailer"
+  },
+  "1020619": {
+   "id": 1020619,
+   "name": "Companion Baduk",
+   "released": "2026-10-23",
+   "image": "https://media.rawg.io/media/screenshots/d04/d04ff2a1c0caf5cd9a8c82d96e9d2efc.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4698830/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Companion%20Baduk%20trailer"
   }
  },
  "deals": [
@@ -1212,6 +1188,17 @@
   },
   {
    "store": "Steam",
+   "id": 1304930,
+   "name": "The Outlast Trials",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+   "discount": 70,
+   "original": 10799,
+   "final": 3239,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1304930"
+  },
+  {
+   "store": "Steam",
    "id": 381210,
    "name": "Dead by Daylight",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
@@ -1220,17 +1207,6 @@
    "final": 2799,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/381210"
-  },
-  {
-   "store": "Steam",
-   "id": 275850,
-   "name": "No Man's Sky",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-   "discount": 60,
-   "original": 16200,
-   "final": 6480,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/275850"
   },
   {
    "store": "Steam",
@@ -1256,42 +1232,42 @@
   },
   {
    "store": "Steam",
-   "id": 3884860,
-   "name": "The Wolf Among Us Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
-   "discount": 20,
-   "original": 8399,
-   "final": 6719,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3884860"
-  },
-  {
-   "store": "Steam",
-   "id": 5335510,
-   "name": "Moon Sweepers",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
-   "discount": 15,
-   "original": 3399,
-   "final": 2889,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5335510"
-  },
-  {
-   "store": "Steam",
-   "id": 4005870,
-   "name": "FreshWomen - Season 3",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793297818",
-   "discount": 10,
+   "id": 648800,
+   "name": "Raft",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+   "discount": 33,
    "original": 6799,
-   "final": 6119,
+   "final": 4555,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4005870"
+   "url": "https://store.steampowered.com/app/648800"
+  },
+  {
+   "store": "Steam",
+   "id": 3764200,
+   "name": "Resident Evil Requiem",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+   "discount": 30,
+   "original": 29900,
+   "final": 20930,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3764200"
+  },
+  {
+   "store": "Steam",
+   "id": 1799840,
+   "name": "Queen's Domain",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
+   "discount": 15,
+   "original": 6399,
+   "final": 5439,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1799840"
   },
   {
    "store": "Steam",
    "id": 4348910,
    "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
    "discount": 10,
    "original": 4499,
    "final": 4049,
@@ -1302,83 +1278,193 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5234060,
-   "name": "ConvoyCore",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234060/66fb77907adef064fd6a1371b5f8eb717f97faec/header.jpg?t=1793347621",
+   "id": 5288230,
+   "name": "MiniRacingOnline",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288230/0ba6b0d399dd576b9372c1f631cf4243bf8451ef/header.jpg?t=1793430933",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5234060"
+   "url": "https://store.steampowered.com/app/5288230"
   },
   {
    "store": "Steam",
-   "id": 5026920,
-   "name": "TOWERMOUTH",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026920/885eec66ca54e0783ea4f9564e50386676d66eb1/header.jpg?t=1793085413",
+   "id": 4374510,
+   "name": "WithoutEyes Chapter1",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374510/15b4ecf08840358ee877e8670668d50d1f1393e7/header.jpg?t=1793430442",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5026920"
+   "url": "https://store.steampowered.com/app/4374510"
   },
   {
    "store": "Steam",
-   "id": 5009380,
-   "name": "Butterfly Project",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009380/f49935fe6e947233a15c866c9739d60a66391c72/header.jpg?t=1793251483",
+   "id": 5357500,
+   "name": "Reactance",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5357500/d953602568e2f5c0e431356b78abb4c6a6998110/header.jpg?t=1793352059",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5009380"
+   "url": "https://store.steampowered.com/app/5357500"
   },
   {
    "store": "Steam",
-   "id": 5440340,
-   "name": "Battle Nap Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5440340/d8f1a0e5fa1d76d004dc3ae3dd9ff695cd2ea5e1/header.jpg?t=1792518214",
+   "id": 5456270,
+   "name": "Kur - Endless Descent - Ashipu (Class)",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5456270/d524c2cd57eb76b0b2918a7728552cece4e45ed6/header.jpg?t=1793394221",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5440340"
+   "url": "https://store.steampowered.com/app/5456270"
   },
   {
    "store": "Steam",
-   "id": 5396400,
-   "name": "The Doll Shop Soundtrack & Artbook",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5396400/df2a4e00df88a417d0dafef312cf6de07e2c20ca/header.jpg?t=1793276289",
+   "id": 5196280,
+   "name": "JOYSTICK JAMMERS: One Prawn",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196280/45bb7d1fdff9d8c522e4b359e6cd3b6c55f9efac/header.jpg?t=1793427271",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5396400"
+   "url": "https://store.steampowered.com/app/5196280"
   },
   {
    "store": "Steam",
-   "id": 5317840,
-   "name": "DECIBLOW",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5317840/4c576922733207975a18ad08a49596b276ca8c25/header.jpg?t=1791751570",
+   "id": 5351540,
+   "name": "The Pasture",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5351540/9cf8b7177f5559597e559d9fe2a5db76cbe2816c/header.jpg?t=1793422877",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5317840"
+   "url": "https://store.steampowered.com/app/5351540"
   },
   {
    "store": "Steam",
-   "id": 5196900,
-   "name": "Baby Puncher",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196900/a90eb6d81ab942cd122cfbc48c31ca430146a4e6/header.jpg?t=1793145405",
+   "id": 5287260,
+   "name": "Pactmage - Chess Roster",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5287260/f792016cf408ffb21db13a0c2550151628af4ae9/header.jpg?t=1793417365",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5196900"
+   "url": "https://store.steampowered.com/app/5287260"
   },
   {
    "store": "Steam",
-   "id": 3169670,
-   "name": "The Golden Caravan",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3169670/e9074a73e96ed7a7d55a7b7a050450414dcd8eaf/header.jpg?t=1793096780",
+   "id": 4394570,
+   "name": "Apothecary Grounds",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394570/60a0516f74d18ba87c559ba5678f3bf56b74fc0d/header.jpg?t=1793408556",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3169670"
+   "url": "https://store.steampowered.com/app/4394570"
+  },
+  {
+   "store": "Steam",
+   "id": 3851950,
+   "name": "REDSHIFT",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3851950/a0693e84404405a00181d397ce60630d00a8d740/header.jpg?t=1793406027",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3851950"
+  },
+  {
+   "store": "Steam",
+   "id": 3235390,
+   "name": "Ballerspiel",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3235390/14529dd75694d740be29b6c8b3485e680e8a0d90/header.jpg?t=1793182020",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3235390"
+  },
+  {
+   "store": "Steam",
+   "id": 2294890,
+   "name": "Dark Tonic's Blunderbusted: Guns Out, Bluns Out",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2294890/d8b48de1daf81dd2634578091b2371dbaa475dfa/header.jpg?t=1793387089",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2294890"
+  },
+  {
+   "store": "Steam",
+   "id": 1651240,
+   "name": "똥겜이라 부르지 말아줘 스트리머씨: 해피 나나루",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1651240/91685fb235ba8583f6c13fac3ede37f5fbadafd6/header.jpg?t=1793256048",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1651240"
+  },
+  {
+   "store": "Steam",
+   "id": 4618460,
+   "name": "Shadows of Gloaming",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618460/e95ff8fd12913c4cd006cc403733c6589dc292a5/header.jpg?t=1792342070",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4618460"
+  },
+  {
+   "store": "Steam",
+   "id": 3814510,
+   "name": "白线",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3814510/5133db4a1307c0506faf20f4c6387cbfa52586bd/header.jpg?t=1792603507",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3814510"
+  },
+  {
+   "store": "Steam",
+   "id": 3412590,
+   "name": "Mystic 6",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412590/5a73caf67918ec4c56ed4102b0cacb286555e65a/header.jpg?t=1792433457",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3412590"
+  },
+  {
+   "store": "Steam",
+   "id": 5382580,
+   "name": "Rakuworld",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5382580/c24761460a33357d79d618cba4854606829ac034/header.jpg?t=1793397962",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5382580"
+  },
+  {
+   "store": "Steam",
+   "id": 3819330,
+   "name": "Den: A Short Horror Story",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819330/38721895544257b67d7232a178dbd3f38a353e23/header.jpg?t=1793393502",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3819330"
+  },
+  {
+   "store": "Steam",
+   "id": 4969270,
+   "name": "Jarkeeper",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4969270/9e0bd0e872f87c65d77e1ba673a151db6afea18c/header.jpg?t=1793326190",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4969270"
+  },
+  {
+   "store": "Steam",
+   "id": 4618670,
+   "name": "Cultivation Legend",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618670/fcb22f2162213392751e1773646d39bac3418610/header_portuguese.jpg?t=1793387225",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4618670"
   }
  ]
 }
