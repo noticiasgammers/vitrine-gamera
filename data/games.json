@@ -1,1133 +1,25 @@
 {
- "updated": "2026-11-02T09:51:48.851Z",
- "today": "2026-11-02",
+ "updated": "2026-11-03T09:48:44.780Z",
+ "today": "2026-11-03",
  "sections": {
   "hoje": [],
-  "destaques": [
-   975605,
-   983213,
-   1008986,
-   962016,
-   1018102,
-   1017395,
-   991568,
-   1004664,
-   1020452,
-   1016708,
-   1020339,
-   1020460,
-   1020461
-  ],
-  "lancamentos": [
-   1020128,
-   991568,
-   802450,
-   1016708,
-   962016,
-   1020588,
-   1020619,
-   1020545,
-   1004664,
-   1020544
-  ],
-  "proximos": [
-   972995,
-   998661,
-   391403,
-   1012187,
-   490430,
-   994083,
-   469645,
-   1017176,
-   1011366,
-   471026
-  ],
-  "android": [
-   1009246,
-   1004657,
-   1015854,
-   1015390,
-   1016080,
-   1016313,
-   1011216,
-   1016362,
-   1016077,
-   1015318,
-   1015317,
-   1017860,
-   224668,
-   231102,
-   221629,
-   227366
-  ]
+  "destaques": [],
+  "lancamentos": [],
+  "proximos": [],
+  "android": []
  },
- "games": {
-  "221629": {
-   "id": 221629,
-   "name": "BlackJack Trainer",
-   "released": "2026-01-07",
-   "image": "https://media.rawg.io/media/screenshots/d4f/d4f3aa553e0ae59c6a5bc0764e4724c1.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Card",
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3974240/"
-    },
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=com.hornetapps.blackjacktrainer.lite&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=BlackJack%20Trainer%20trailer"
-  },
-  "224668": {
-   "id": 224668,
-   "name": "Bleentoro",
-   "released": "2025-12-07",
-   "image": "https://media.rawg.io/media/screenshots/839/839009647749cf53debb7d7d2c111f10.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3891970/"
-    },
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=yio.tro.bleentoro&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Bleentoro%20trailer"
-  },
-  "227366": {
-   "id": 227366,
-   "name": "Balance It!",
-   "released": "2026-06-26",
-   "image": "https://media.rawg.io/media/screenshots/986/9868968a62b865d4f1243c50e85e47a2.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Indie",
-    "Arcade"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4794930/"
-    },
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=com.teremokgames.balanceit&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Balance%20It!%20trailer"
-  },
-  "231102": {
-   "id": 231102,
-   "name": "Bouncy Ball",
-   "released": "2026-06-23",
-   "image": "https://media.rawg.io/media/screenshots/f60/f60cdd438d491016665282e6f357aed3.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4667570/"
-    },
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=com.raongames.bouneball&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Bouncy%20Ball%20trailer"
-  },
-  "391403": {
-   "id": 391403,
-   "name": "Path of Exile 2",
-   "released": "2026-12-11",
-   "image": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
-   "rating": 3.54,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Massively Multiplayer",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2694490/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Path%20of%20Exile%202%20trailer"
-  },
-  "469645": {
-   "id": 469645,
-   "name": "Titan Quest 2",
-   "released": "2027-01-19",
-   "image": "https://media.rawg.io/media/games/233/233b58ed99520a1e0b19109f7263f011.jpg",
-   "rating": 2.14,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1154030/Titan_Quest_II/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Titan%20Quest%202%20trailer"
-  },
-  "471026": {
-   "id": 471026,
-   "name": "Fable",
-   "released": "2027-02-23",
-   "image": "https://media.rawg.io/media/games/e06/e06a04ece5555c8c15a7c68e22649f0c.jpg",
-   "rating": 3.53,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2769570/Fable/?curator_clanid=4777282"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Fable%20trailer"
-  },
-  "490430": {
-   "id": 490430,
-   "name": "Prince of Persia: The Sands of Time Remake",
-   "released": "2026-12-31",
-   "image": "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
-   "rating": 3.84,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Xbox",
-     "url": "https://www.microsoft.com/en-us/p/prince-of-persia-the-sands-of-time-remake/9pdzj7zmwmf3?activetab=pivot:overviewtab"
-    },
-    {
-     "name": "PlayStation",
-     "url": "https://store.playstation.com/en-us/product/UP0001-CUSA18521_00-POPSOTREMAKE2020"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Prince%20of%20Persia%3A%20The%20Sands%20of%20Time%20Remake%20trailer"
-  },
-  "802450": {
-   "id": 802450,
-   "name": "COP BASTARD",
-   "released": "2026-10-28",
-   "image": "https://media.rawg.io/media/screenshots/985/98584b5b6dbd388a148612d54e5ceb5b.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1742440/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
-  },
-  "962016": {
-   "id": 962016,
-   "name": "REKA",
-   "released": "2026-10-26",
-   "image": "https://media.rawg.io/media/screenshots/7a7/7a7652c7423fedce4c2d4090858dbb01.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1737870/REKA/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=REKA%20trailer"
-  },
-  "972995": {
-   "id": 972995,
-   "name": "Grand Theft Auto VI",
-   "released": "2026-11-19",
-   "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.85,
-   "metacritic": null,
-   "platforms": [
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "PlayStation",
-     "url": "https://store.playstation.com/en-ca/product/EP1004-PPSA01547_00-GTAVIULTIMATE001"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Grand%20Theft%20Auto%20VI%20trailer"
-  },
-  "975605": {
-   "id": 975605,
-   "name": "Enshrouded",
-   "released": "2026-10-15",
-   "image": "https://media.rawg.io/media/games/cb0/cb0e1afa3f0e8ffe853f33dd137ca7aa.jpg",
-   "rating": 3.64,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1203620/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Enshrouded%20trailer"
-  },
-  "983213": {
-   "id": 983213,
-   "name": "Gears of War: E-Day",
-   "released": "2026-10-06",
-   "image": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
-   "rating": 3.88,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "xbox"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3010850/Gears_of_War_EDay/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Gears%20of%20War%3A%20E-Day%20trailer"
-  },
-  "991568": {
-   "id": 991568,
-   "name": "Sulfur",
-   "released": "2026-10-28",
-   "image": "https://media.rawg.io/media/games/c99/c9983fcec946b01924050b683d66cd7a.jpg",
-   "rating": 3.17,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2124120/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Sulfur%20trailer"
-  },
-  "994083": {
-   "id": 994083,
-   "name": "ananta",
-   "released": "2027-01-15",
-   "image": "https://media.rawg.io/media/screenshots/21f/21ffdb58671720697c5e7382b021755b.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "android"
-   ],
-   "genres": [
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4814120/ANANTA/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=ananta%20trailer"
-  },
-  "998661": {
-   "id": 998661,
-   "name": "Beautiful Light",
-   "released": "2026-12-01",
-   "image": "https://media.rawg.io/media/screenshots/3c5/3c511506ba31902bbdcbf963219ef77c.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Shooter"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1313230/Beautiful_Light/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Beautiful%20Light%20trailer"
-  },
-  "1004657": {
-   "id": 1004657,
-   "name": "Aniimo",
-   "released": "2026-09-16",
-   "image": "https://media.rawg.io/media/screenshots/21b/21b53e57144d6fc9b7c07d51b56e5da7.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox",
-    "android"
-   ],
-   "genres": [
-    "Massively Multiplayer",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4126040/Aniimo/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Aniimo%20trailer"
-  },
-  "1004664": {
-   "id": 1004664,
-   "name": "Mycopunk",
-   "released": "2026-10-20",
-   "image": "https://media.rawg.io/media/games/cbf/cbf5b06692e82e312a5dc9db32ed5b4c.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Shooter",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3247750/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Mycopunk%20trailer"
-  },
-  "1008986": {
-   "id": 1008986,
-   "name": "Valor Mortis",
-   "released": "2026-10-13",
-   "image": "https://media.rawg.io/media/games/61d/61d1431d20f9f6e19b27cb89aa4a4402.jpg",
-   "rating": 3.86,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2828710/Valor_Mortis/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Valor%20Mortis%20trailer"
-  },
-  "1009246": {
-   "id": 1009246,
-   "name": "Arknights: Endfield",
-   "released": "2026-01-22",
-   "image": "https://media.rawg.io/media/screenshots/6da/6da7a407b0d98c5346a544c00061f754.jpg",
-   "rating": 3.5,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "android"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Arknights%3A%20Endfield%20trailer"
-  },
-  "1011216": {
-   "id": 1011216,
-   "name": "FodFru",
-   "released": "2026-01-10",
-   "image": "https://media.rawg.io/media/screenshots/fc9/fc9c22106e6999c941b834ad967f26d0.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Platformer",
-    "Adventure"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FodFru%20trailer"
-  },
-  "1011366": {
-   "id": 1011366,
-   "name": "Outward 2",
-   "released": "2027-02-07",
-   "image": "https://media.rawg.io/media/screenshots/4f5/4f5af616d4835a604ec324a25d78095d.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2849490/Outward_2"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Outward%202%20trailer"
-  },
-  "1012187": {
-   "id": 1012187,
-   "name": "They Come in Fives",
-   "released": "2026-12-16",
-   "image": "https://media.rawg.io/media/games/69f/69f16f2f13fdb39e5efba2fc5528d026.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Card",
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4025380/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=They%20Come%20in%20Fives%20trailer"
-  },
-  "1015317": {
-   "id": 1015317,
-   "name": "Resident Evil: Survival Unit",
-   "released": "2025-11-17",
-   "image": "https://media.rawg.io/media/screenshots/1f2/1f2c63bea837ab723eee4e9a2734e888.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "android"
-   ],
-   "genres": [
-    "Casual"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Survival%20Unit%20trailer"
-  },
-  "1015318": {
-   "id": 1015318,
-   "name": "FLESHBREAK",
-   "released": "2025-11-28",
-   "image": "https://media.rawg.io/media/screenshots/d30/d30050f75570a9c10ddee7fd7c4dd4e3.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Adventure"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FLESHBREAK%20trailer"
-  },
-  "1015390": {
-   "id": 1015390,
-   "name": "Humanity Echo: Cyberpunk Tactical RPG",
-   "released": "2026-03-19",
-   "image": "https://media.rawg.io/media/screenshots/b7c/b7cf253341570017e510727be72f3834.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3865080/Humanity_Echo_Cyberpunk_Tactical_RPG/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Humanity%20Echo%3A%20Cyberpunk%20Tactical%20RPG%20trailer"
-  },
-  "1015854": {
-   "id": 1015854,
-   "name": "Reigns: The Witcher",
-   "released": "2026-02-25",
-   "image": "https://media.rawg.io/media/screenshots/a6c/a6c0aa297c5268292d814a58721dba42.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1651600/Reigns_The_Witcher/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Reigns%3A%20The%20Witcher%20trailer"
-  },
-  "1016077": {
-   "id": 1016077,
-   "name": "FUTANARI PRINCESS",
-   "released": "2026-02-22",
-   "image": "https://media.rawg.io/media/screenshots/655/655b87230e586b6b7d1db2222df84a54.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Simulation"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4168220/Futanari_Princess_Royal_Desires/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FUTANARI%20PRINCESS%20trailer"
-  },
-  "1016080": {
-   "id": 1016080,
-   "name": "Subway Surfers City",
-   "released": "2026-02-26",
-   "image": "https://media.rawg.io/media/screenshots/2dc/2dc47ffc43b3cf5f3a844f8bd828454c.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "android"
-   ],
-   "genres": [
-    "Casual",
-    "Arcade"
-   ],
-   "stores": [
-    {
-     "name": "Google Play",
-     "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=us"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Subway%20Surfers%20City%20trailer"
-  },
-  "1016313": {
-   "id": 1016313,
-   "name": "ASTRID'S ADVENTURE",
-   "released": "2026-03-09",
-   "image": "https://media.rawg.io/media/screenshots/e1b/e1b0485e38bbebdb8847d4b5bc5efd0a.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Adventure"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=ASTRID'S%20ADVENTURE%20trailer"
-  },
-  "1016362": {
-   "id": 1016362,
-   "name": "FEMBOY GHOST",
-   "released": "2026-03-14",
-   "image": "https://media.rawg.io/media/screenshots/cd6/cd60f38dded83af87e384a82869c555b.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Simulation"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FEMBOY%20GHOST%20trailer"
-  },
-  "1016708": {
-   "id": 1016708,
-   "name": "EmberVille",
-   "released": "2026-10-26",
-   "image": "https://media.rawg.io/media/screenshots/a65/a65915e30efd086919dafcb7f79a6b79.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2295170/Emberville/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=EmberVille%20trailer"
-  },
-  "1017176": {
-   "id": 1017176,
-   "name": "Metro 2039",
-   "released": "2027-02-04",
-   "image": "https://media.rawg.io/media/games/4a5/4a5865eca8376e08a8e31ce278b5248f.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Shooter"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2590240/METRO_2039/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Metro%202039%20trailer"
-  },
-  "1017395": {
-   "id": 1017395,
-   "name": "Star Wars: Galactic Racer",
-   "released": "2026-10-06",
-   "image": "https://media.rawg.io/media/games/553/5536c25da9711a39a5c4d752361de551.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox"
-   ],
-   "genres": [
-    "Racing"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4078430/STAR_WARS_Galactic_Racer/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Star%20Wars%3A%20Galactic%20Racer%20trailer"
-  },
-  "1017860": {
-   "id": 1017860,
-   "name": "Five Nights at Frickbear's 3",
-   "released": "2026-03-14",
-   "image": "https://media.rawg.io/media/screenshots/3b1/3b142e37dea2dfd922e9fe5bb92210b2.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "android"
-   ],
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Five%20Nights%20at%20Frickbear's%203%20trailer"
-  },
-  "1018102": {
-   "id": 1018102,
-   "name": "Castlevania: Belmont's Curse",
-   "released": "2026-10-15",
-   "image": "https://media.rawg.io/media/games/a9d/a9dd2c0a3be088161e7272b979d82722.jpg",
-   "rating": 3.67,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "playstation",
-    "xbox",
-    "nintendo"
-   ],
-   "genres": [
-    "Action",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont's%20Curse%20trailer"
-  },
-  "1020128": {
-   "id": 1020128,
-   "name": "Tavern Farkle GB",
-   "released": "2026-10-29",
-   "image": "https://media.rawg.io/media/screenshots/a70/a70fe6db270dae52f5169b826c81c3ec.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc",
-    "nintendo"
-   ],
-   "genres": [
-    "Casual",
-    "Board Games"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4191210/Tavern_Farkle_GB/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Tavern%20Farkle%20GB%20trailer"
-  },
-  "1020339": {
-   "id": 1020339,
-   "name": "Demonator",
-   "released": "2026-10-07",
-   "image": "https://media.rawg.io/media/screenshots/752/7523a71e2777cd819034c7a1c2308d65.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5293950/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Demonator%20trailer"
-  },
-  "1020452": {
-   "id": 1020452,
-   "name": "Order of the Sinking Star",
-   "released": "2026-10-08",
-   "image": "https://media.rawg.io/media/screenshots/6c5/6c520f630be3a4381bdcc4f68b18a1fe.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Puzzle"
-   ],
-   "stores": [
-    {
-     "name": "Nintendo eShop",
-     "url": "https://www.nintendo.com/us/store/products/order-of-the-sinking-star-switch-2/?srsltid=AU7gw4VpRjEkIwW9PwpWcRO-AEbZAmAGmzm9A1lygeddNSYwKkgsfEK9"
-    },
-    {
-     "name": "PlayStation",
-     "url": "https://store.playstation.com/en-us/concept/10017166"
-    },
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Order%20of%20the%20Sinking%20Star%20trailer"
-  },
-  "1020460": {
-   "id": 1020460,
-   "name": "蒼海 -AOMI",
-   "released": "2026-10-04",
-   "image": "https://media.rawg.io/media/screenshots/e83/e8376d40623d15fc3627313967d47d40.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5231010/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%E8%92%BC%E6%B5%B7%20-AOMI%20trailer"
-  },
-  "1020461": {
-   "id": 1020461,
-   "name": "Fatal Haven",
-   "released": "2026-10-08",
-   "image": "https://media.rawg.io/media/screenshots/06f/06f5386a8008358c785f372aa9cd9577.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5104830/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Fatal%20Haven%20trailer"
-  },
-  "1020544": {
-   "id": 1020544,
-   "name": "The Sprit Forest",
-   "released": "2026-10-19",
-   "image": "https://media.rawg.io/media/screenshots/bd8/bd878be0e241f67dbe98b3111d640990.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Simulation"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5287930/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=The%20Sprit%20Forest%20trailer"
-  },
-  "1020545": {
-   "id": 1020545,
-   "name": "Sakura Hime 7",
-   "released": "2026-10-22",
-   "image": "https://media.rawg.io/media/screenshots/8a2/8a200b4386e958f37911b0a66dcc887a.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3596870/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
-  },
-  "1020588": {
-   "id": 1020588,
-   "name": "FUTA GIRLS",
-   "released": "2026-10-23",
-   "image": "https://media.rawg.io/media/screenshots/7e9/7e98499e57e639acf44c4fbaeb8bd060.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5333520/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FUTA%20GIRLS%20trailer"
-  },
-  "1020619": {
-   "id": 1020619,
-   "name": "Companion Baduk",
-   "released": "2026-10-23",
-   "image": "https://media.rawg.io/media/screenshots/d04/d04ff2a1c0caf5cd9a8c82d96e9d2efc.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4698830/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Companion%20Baduk%20trailer"
-  }
- },
+ "games": {},
  "deals": [
   {
    "store": "Steam",
-   "id": 242760,
-   "name": "The Forest",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-   "discount": 80,
-   "original": 3799,
-   "final": 759,
+   "id": 391220,
+   "name": "Rise of the Tomb Raider™",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+   "discount": 90,
+   "original": 12499,
+   "final": 1249,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/242760"
+   "url": "https://store.steampowered.com/app/391220"
   },
   {
    "store": "Steam",
@@ -1142,36 +34,25 @@
   },
   {
    "store": "Steam",
-   "id": 1326470,
-   "name": "Sons Of The Forest",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-   "discount": 72,
-   "original": 8899,
-   "final": 2491,
+   "id": 2050650,
+   "name": "Resident Evil 4",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+   "discount": 75,
+   "original": 16900,
+   "final": 4225,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1326470"
+   "url": "https://store.steampowered.com/app/2050650"
   },
   {
    "store": "Steam",
-   "id": 1304930,
-   "name": "The Outlast Trials",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-   "discount": 70,
-   "original": 10799,
-   "final": 3239,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1304930"
-  },
-  {
-   "store": "Steam",
-   "id": 381210,
-   "name": "Dead by Daylight",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
+   "id": 275850,
+   "name": "No Man's Sky",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
    "discount": 60,
-   "original": 6999,
-   "final": 2799,
+   "original": 16200,
+   "final": 6480,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/381210"
+   "url": "https://store.steampowered.com/app/275850"
   },
   {
    "store": "Steam",
@@ -1208,187 +89,187 @@
   },
   {
    "store": "Steam",
-   "id": 3764200,
-   "name": "Resident Evil Requiem",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-   "discount": 30,
-   "original": 29900,
-   "final": 20930,
+   "id": 1799840,
+   "name": "Queen's Domain",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
+   "discount": 15,
+   "original": 6399,
+   "final": 5439,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3764200"
+   "url": "https://store.steampowered.com/app/1799840"
   },
   {
    "store": "Steam",
-   "id": 3751950,
-   "name": "Assassin's Creed Black Flag Resynced",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-   "discount": 25,
-   "original": 29999,
-   "final": 22499,
+   "id": 4348910,
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793630310",
+   "discount": 10,
+   "original": 4499,
+   "final": 4049,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3751950"
+   "url": "https://store.steampowered.com/app/4348910"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5006800,
-   "name": "Freewill - Sci-Fi Music Platformer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006800/fb80d46082528453427d439a6ba249640691e75c/header.jpg?t=1793610229",
+   "id": 4813930,
+   "name": "MOBA Manager",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813930/6dff1590e2d561836832c2caf8310990bc3e9d00/header.jpg?t=1793694382",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5006800"
+   "url": "https://store.steampowered.com/app/4813930"
   },
   {
    "store": "Steam",
-   "id": 3800240,
-   "name": "Lockdown Dom",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800240/917b6b973a91ef55b713f1fcf52084d6eae198c2/header.jpg?t=1793598332",
+   "id": 5301870,
+   "name": "deep rabbit hole",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5301870/23ce78801f5f51535b09d0a7a7400a47d9d78a14/header.jpg?t=1793693737",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3800240"
+   "url": "https://store.steampowered.com/app/5301870"
   },
   {
    "store": "Steam",
-   "id": 5341010,
-   "name": "Corner Pocket: World Billiards",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341010/1dafde9d20c03c75fa41e582c8dd1da8e81ee6ea/header.jpg?t=1793597682",
+   "id": 5439390,
+   "name": "Angel Legion-DLC Starlit Veil Dance (White)",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439390/61e3ea86a3d494e46ff7a94803d6108fada899c5/header.jpg?t=1793688699",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5341010"
+   "url": "https://store.steampowered.com/app/5439390"
   },
   {
    "store": "Steam",
-   "id": 4776360,
-   "name": "Fission Mirror Grid",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776360/f7d90d3e9a448c30726c6b4001ba8c717aac17f9/header.jpg?t=1793595621",
+   "id": 4452480,
+   "name": "Caldra",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4452480/bdca74e6b06843603170c2187a4afdb273c83bab/header.jpg?t=1793680700",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4776360"
+   "url": "https://store.steampowered.com/app/4452480"
   },
   {
    "store": "Steam",
-   "id": 5391790,
-   "name": "A SHEEP GAME",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5391790/00a260fa369d7d6e56ee063baf68103f7725dc47/header.jpg?t=1793588456",
+   "id": 3484110,
+   "name": "Gourmet Zombie",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3484110/0dbb4c5a3f312985ea5d4a3f4ea0491c2e458913/header.jpg?t=1793677564",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5391790"
+   "url": "https://store.steampowered.com/app/3484110"
   },
   {
    "store": "Steam",
-   "id": 5213710,
-   "name": "回到风吹过的地方",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5213710/b8c1cb45e52129eee5f6fca4d6c39177287bbbbd/header.jpg?t=1793587834",
+   "id": 5074450,
+   "name": "万象回廊：元素 Wanxiang Corridor: Elements",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074450/4e9138471d65f3e695b68602f037ade1cefcdbad/header.jpg?t=1793667987",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5213710"
+   "url": "https://store.steampowered.com/app/5074450"
   },
   {
    "store": "Steam",
-   "id": 5045680,
-   "name": "Agora Não, Alienígenas!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045680/793979476ca0444c0f5e3c5d36ad36e5df757efd/header.jpg?t=1792672435",
+   "id": 5049210,
+   "name": "Spark of Tales",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049210/0b68f71de640dc8d04699925f2b1ca475bf9c4eb/header.jpg?t=1793442426",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5045680"
+   "url": "https://store.steampowered.com/app/5049210"
   },
   {
    "store": "Steam",
-   "id": 4718360,
-   "name": "Strike Wings",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718360/3823b9c9f210d835d39fac8af5a164852e9c5ec4/header.jpg?t=1793570080",
+   "id": 3640270,
+   "name": "Hunter's Hand",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640270/7b71e58ff7e9169a3012bf14128aeef2f24bd1bc/header.jpg?t=1792848189",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4718360"
+   "url": "https://store.steampowered.com/app/3640270"
   },
   {
    "store": "Steam",
-   "id": 5344010,
-   "name": "Abyssal Moonlight-Chapter1 Digital Art Book",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5344010/4275ba2602be64ed30692d80fca77cdf5cebae84/header.jpg?t=1793610001",
+   "id": 4990680,
+   "name": "Terminidle",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990680/8bbb97656170b35b44832b8b2cd7ad1ef7fcfe1c/header.jpg?t=1793692486",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5344010"
+   "url": "https://store.steampowered.com/app/4990680"
   },
   {
    "store": "Steam",
-   "id": 5389850,
-   "name": "Deskrot",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389850/624b94840f0797b5ec70b5f4cb60593fb2deface/header.jpg?t=1792570521",
+   "id": 4616300,
+   "name": "Celestial Routes",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4616300/e9c55bf8a75f1aa6eeebb9213970d71c0a241b53/header.jpg?t=1793635815",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5389850"
+   "url": "https://store.steampowered.com/app/4616300"
   },
   {
    "store": "Steam",
-   "id": 4941280,
-   "name": "House Of Echoes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941280/b1821ebe0cb28678d9dc70fe437a851a6ab3d5ed/header.jpg?t=1793367815",
+   "id": 5138960,
+   "name": "Desktop Pet Aquarium - Blue Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138960/605492707bef50ea7880ba1b92006fad212f6966/header.jpg?t=1792574569",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4941280"
+   "url": "https://store.steampowered.com/app/5138960"
   },
   {
    "store": "Steam",
-   "id": 5456960,
-   "name": "Cleanup Gone Wrong",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5456960/3ed3d0f2c79ce1eddfd31d0a575507cd5ed96e84/header.jpg?t=1793228005",
+   "id": 5138970,
+   "name": "Desktop Pet Aquarium - Flower Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138970/453d03241c9ec2de4e7374bbdf2895edece442b5/header.jpg?t=1792574551",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5456960"
+   "url": "https://store.steampowered.com/app/5138970"
   },
   {
    "store": "Steam",
-   "id": 5433840,
-   "name": "Phantom Solace",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5433840/67e59f8963e78c4f89649e193f5d214c112e8047/header.jpg?t=1792575820",
+   "id": 5139000,
+   "name": "Desktop Pet Aquarium - Jewel Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139000/a84ea87a5b3437239e53539974dfad24b920ff7f/header.jpg?t=1792574505",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5433840"
+   "url": "https://store.steampowered.com/app/5139000"
   },
   {
    "store": "Steam",
-   "id": 5031190,
-   "name": "Cat Over Here!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031190/9975c6fe012ecabb7fea257fc73fcc644476fe77/header.jpg?t=1792492519",
+   "id": 5139010,
+   "name": "Desktop Pet Aquarium - Fruit Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139010/9d8dfac1ce0b87d3d0e4506eda6b249b9d99b50a/header.jpg?t=1792574481",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5031190"
+   "url": "https://store.steampowered.com/app/5139010"
   },
   {
    "store": "Steam",
-   "id": 3683940,
-   "name": "Replay Value: Second Hand Games",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683940/202af77664679e1f12cb81ab4dd1b087235bef1b/header.jpg?t=1793612445",
+   "id": 5139030,
+   "name": "Desktop Pet Aquarium - Soda Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139030/7458244f9303be8ebbb2c572076d055d16a3ebd0/header.jpg?t=1792574430",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3683940"
+   "url": "https://store.steampowered.com/app/5139030"
   },
   {
    "store": "Steam",
-   "id": 323880,
-   "name": "Seedling",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323880/c8f840bc6080264931f5d6a68a7864e45b27dca1/header.jpg?t=1792941233",
+   "id": 5139040,
+   "name": "Desktop Pet Aquarium - Night Aquarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139040/a67895b1615e37db4bc531d21eb76f2e11fbd305/header.jpg?t=1792574396",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/323880"
+   "url": "https://store.steampowered.com/app/5139040"
   }
  ]
 }
