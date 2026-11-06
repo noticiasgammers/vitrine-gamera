@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T09:52:18.858Z",
- "today": "2026-11-05",
+ "updated": "2026-11-06T16:36:26.138Z",
+ "today": "2026-11-06",
  "sections": {
   "hoje": [],
   "destaques": [],
@@ -12,86 +12,86 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 1449690,
-   "name": "The Walking Dead: The Telltale Definitive Series",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
+   "id": 391220,
+   "name": "Rise of the Tomb Raider™",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
    "discount": 90,
-   "original": 13499,
-   "final": 1349,
+   "original": 12499,
+   "final": 1249,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1449690"
+   "url": "https://store.steampowered.com/app/391220"
   },
   {
    "store": "Steam",
-   "id": 3240220,
-   "name": "Grand Theft Auto V Enhanced",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+   "id": 750920,
+   "name": "Shadow of the Tomb Raider: Definitive Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
+   "discount": 90,
+   "original": 16649,
+   "final": 1664,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/750920"
+  },
+  {
+   "store": "Steam",
+   "id": 12210,
+   "name": "Grand Theft Auto IV: The Complete Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+   "discount": 70,
+   "original": 7900,
+   "final": 2370,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/12210"
+  },
+  {
+   "store": "Steam",
+   "id": 275850,
+   "name": "No Man's Sky",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+   "discount": 60,
+   "original": 16200,
+   "final": 6480,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/275850"
+  },
+  {
+   "store": "Steam",
+   "id": 2448570,
+   "name": "Road Rash™: Edição de 30.º Aniversário",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793980066",
    "discount": 50,
-   "original": 14990,
-   "final": 7495,
+   "original": 4900,
+   "final": 2450,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3240220"
+   "url": "https://store.steampowered.com/app/2448570"
   },
   {
    "store": "Steam",
-   "id": 3527290,
-   "name": "PEAK",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-   "discount": 38,
-   "original": 2399,
-   "final": 1487,
+   "id": 3768760,
+   "name": "007 First Light",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
+   "discount": 40,
+   "original": 33990,
+   "final": 20394,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3527290"
+   "url": "https://store.steampowered.com/app/3768760"
   },
   {
    "store": "Steam",
-   "id": 3241660,
-   "name": "R.E.P.O.",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-   "discount": 35,
-   "original": 2999,
-   "final": 1949,
+   "id": 1790600,
+   "name": "DRAGON BALL: Sparking! ZERO",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
+   "discount": 40,
+   "original": 20650,
+   "final": 12390,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3241660"
-  },
-  {
-   "store": "Steam",
-   "id": 3751950,
-   "name": "Assassin's Creed Black Flag Resynced",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-   "discount": 25,
-   "original": 29999,
-   "final": 22499,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3751950"
-  },
-  {
-   "store": "Steam",
-   "id": 3669870,
-   "name": "CONTROL Resonant",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-   "discount": 20,
-   "original": 22999,
-   "final": 18399,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-   "store": "Steam",
-   "id": 2320980,
-   "name": "Loftia",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
-   "discount": 17,
-   "original": 8899,
-   "final": 7386,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2320980"
+   "url": "https://store.steampowered.com/app/1790600"
   },
   {
    "store": "Steam",
    "id": 1799840,
    "name": "Queen's Domain",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793982850",
    "discount": 15,
    "original": 6399,
    "final": 5439,
@@ -102,7 +102,7 @@
    "store": "Steam",
    "id": 4348910,
    "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793801444",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
    "discount": 10,
    "original": 4499,
    "final": 4049,
@@ -113,143 +113,123 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 3543960,
-   "name": "问题偶像的养成计划",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3543960/header.jpg?t=1793869278",
+   "id": 4435640,
+   "name": "Uninitialized",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435640/capsule_184x69.jpg?t=0",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3543960"
+   "url": "https://store.steampowered.com/app/4435640"
   },
   {
    "store": "Steam",
-   "id": 5465230,
-   "name": "Townlet",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465230/bf8dec063b3f2cab77c637839fbb10bedd84d437/header.jpg?t=1793866853",
+   "id": 5318970,
+   "name": "Bomba cerebral - Prólogo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318970/091e7eb6e25a2d09b423712302d4521c0c9995e6/header.jpg?t=1793978632",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5465230"
+   "url": "https://store.steampowered.com/app/5318970"
   },
   {
    "store": "Steam",
-   "id": 3301840,
-   "name": "凡修",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3301840/dc648bf23fe2b2b1af4a197bb93cb99909d2f7e0/header.jpg?t=1793864914",
+   "id": 5486940,
+   "name": "GraviSmack Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5486940/f260ed7d428713d02b526bcbf04bbfc6aaa3265f/header.jpg?t=1793486769",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3301840"
+   "url": "https://store.steampowered.com/app/5486940"
   },
   {
    "store": "Steam",
-   "id": 5052450,
-   "name": "Desktop Wallet Heroes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/7776c64488a2687f5638c308f50bda5b026d6ba2/header.jpg?t=1793859268",
+   "id": 4880410,
+   "name": "Tenebrarium",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880410/dc3c21c98a996b698ab4d133e6711ea9b9e44c8e/header.jpg?t=1793136829",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5052450"
+   "url": "https://store.steampowered.com/app/4880410"
   },
   {
    "store": "Steam",
-   "id": 5294200,
-   "name": "The Usual Table: Texas Hold’em",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294200/02b0b28c9f3dd0509b757eef21f366b8f2984cd9/header.jpg?t=1793860850",
+   "id": 4612650,
+   "name": "Metro Anomaly",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612650/a2ef62c66b55c6c36eb2e26810cbfdf7b690b3d6/header.jpg?t=1793972569",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5294200"
+   "url": "https://store.steampowered.com/app/4612650"
   },
   {
    "store": "Steam",
-   "id": 5045430,
-   "name": "宿の掟 / Rules of the Inn",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045430/29709389ced7cb364ba8f9d395e153dfe7e602a4/header.jpg?t=1793408847",
+   "id": 4979220,
+   "name": "Voltswarm",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979220/16b22995230945ad85a843a5bbada928e6de7010/header.jpg?t=1793853118",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5045430"
+   "url": "https://store.steampowered.com/app/4979220"
   },
   {
    "store": "Steam",
-   "id": 5096020,
-   "name": "LYSSA: Goddess of Rage",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096020/fd6c8fb8e3d1b4028d43ca4d71db1a907109ddaa/header.jpg?t=1792676222",
+   "id": 4751190,
+   "name": "DEGENERATE STAR",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751190/82cc934a0e16078247899ced997a103b180c58f5/header.jpg?t=1793360768",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5096020"
+   "url": "https://store.steampowered.com/app/4751190"
   },
   {
    "store": "Steam",
-   "id": 4420660,
-   "name": "ZONE L.O.S.T.",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420660/85cfecfcfa358904c5febdb25fc762ae264b3ba1/header.jpg?t=1791748375",
+   "id": 4751370,
+   "name": "DEGENERATE STAR Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751370/37b98623e51c718aed264007293d9f1a389cfead/header.jpg?t=1789501671",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4420660"
+   "url": "https://store.steampowered.com/app/4751370"
   },
   {
    "store": "Steam",
-   "id": 5051540,
-   "name": "Continuum",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051540/e6e4a29bc48a30c497f9886d2644cf340ca5fe72/header.jpg?t=1792452291",
+   "id": 3969740,
+   "name": "Gem Beasts",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3969740/22bfbbf1b34155a8933654de7913611f82079698/header.jpg?t=1793889593",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5051540"
+   "url": "https://store.steampowered.com/app/3969740"
   },
   {
    "store": "Steam",
-   "id": 5227800,
-   "name": "RealMandelRender - Fractal Visualizer",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5227800/4412e67d5a1cc3390d77fd9e353ae79ec805d23f/header.jpg?t=1791549697",
+   "id": 5062040,
+   "name": "RuneEra Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062040/ba7b6e11081ba0136ca2b237b4933783cf2cc787/header.jpg?t=1793824351",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5227800"
+   "url": "https://store.steampowered.com/app/5062040"
   },
   {
    "store": "Steam",
-   "id": 5365410,
-   "name": "ASTERIS",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365410/23359377bdf937e6fc8c33989531f5cd4e932707/header.jpg?t=1793801516",
+   "id": 5061150,
+   "name": "DEGENERATE STAR - Bonus Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061150/28b66402e1581d243596100f77df979cc05db32d/header.jpg?t=1789501712",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5365410"
+   "url": "https://store.steampowered.com/app/5061150"
   },
   {
    "store": "Steam",
-   "id": 4865360,
-   "name": "Novalex Project Zero",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865360/2c739790177af2249273b3cd425b9b84c9eac8e6/header.jpg?t=1793397513",
+   "id": 5414770,
+   "name": "No One Runs Alone - Support Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5414770/ccb8eee6fa7cbbcba9d8d49f5e53dbb67224a814/header.jpg?t=1792176404",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4865360"
-  },
-  {
-   "store": "Steam",
-   "id": 4633120,
-   "name": "Voxotron",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633120/ddac3656d68a257db94b27cf282aa8f48ff0f347/header.jpg?t=1793806377",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4633120"
-  },
-  {
-   "store": "Steam",
-   "id": 4932800,
-   "name": "Love n Life: Happy Student - Winter Embrace",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932800/9abb3ffbfc7f9470d655fd1f36aca7cd70668e7e/header.jpg?t=1793271817",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4932800"
+   "url": "https://store.steampowered.com/app/5414770"
   }
  ]
 }
