@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T15:25:53.585Z",
- "today": "2026-11-07",
+ "updated": "2026-11-08T15:46:38.625Z",
+ "today": "2026-11-08",
  "sections": {
   "hoje": [],
   "destaques": [],
@@ -86,96 +86,44 @@
    "final": 1949,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3241660"
-  },
-  {
-   "store": "Steam",
-   "id": 3669870,
-   "name": "CONTROL Resonant",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-   "discount": 20,
-   "original": 22999,
-   "final": 18399,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-   "store": "Steam",
-   "id": 4348910,
-   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793942460",
-   "discount": 10,
-   "original": 4499,
-   "final": 4049,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4348910"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4435640,
-   "name": "Uninitialized",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435640/capsule_184x69.jpg?t=0",
+   "id": 5455560,
+   "name": "Command Base Assault",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455560/2875c7d923de5155f7287938c209131c735d9206/header.jpg?t=1794137306",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4435640"
+   "url": "https://store.steampowered.com/app/5455560"
   },
   {
    "store": "Steam",
-   "id": 5435190,
-   "name": "GomokuZero",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435190/1d76ec4b9005fddc9fe8d74902031513230e641a/header.jpg?t=1794061610",
+   "id": 5490870,
+   "name": "Horochi's Challenge",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490870/ebaf027eaf8089aca38e27260a502c72bb64dcfd/header.jpg?t=1794107272",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5435190"
+   "url": "https://store.steampowered.com/app/5490870"
   },
   {
    "store": "Steam",
-   "id": 5325220,
-   "name": "DeskHugs: Desktop Friends",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325220/6d3a4d370c7519894124f2d81e46d74745a4a22f/header.jpg?t=1794061963",
+   "id": 5289190,
+   "name": "VALHALLA ARCHIVE: CCG",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289190/8ef7f14aab6c9001a258512e9e8a59f2a67e0117/header.jpg?t=1794096418",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5325220"
-  },
-  {
-   "store": "Steam",
-   "id": 2967590,
-   "name": "Vanakatu",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2967590/header.jpg?t=1794055524",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2967590"
-  },
-  {
-   "store": "Steam",
-   "id": 4976270,
-   "name": "A Warm Story 一个温暖的故事",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976270/35c29a8e6f694375bda80552411d9143f73c7d21/header.jpg?t=1794048132",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4976270"
-  },
-  {
-   "store": "Steam",
-   "id": 5259730,
-   "name": "Dub Party",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259730/135be578d9f2405f8b982ea62284f20ce16ccb83/header.jpg?t=1794061098",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5259730"
+   "url": "https://store.steampowered.com/app/5289190"
   },
   {
    "store": "Steam",
    "id": 3681220,
    "name": "The Light Switch",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681220/22a8cd92eac4c12825b5d5e76c8d975ea2fefe31/header.jpg?t=1793306837",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681220/22a8cd92eac4c12825b5d5e76c8d975ea2fefe31/header.jpg?t=1794090407",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
@@ -183,33 +131,13 @@
   },
   {
    "store": "Steam",
-   "id": 3997770,
-   "name": "Battle Runes of Metalaria",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997770/3e9e86f3d5b4a22a12371442071650118dee0362/header.jpg?t=1788998835",
+   "id": 5494940,
+   "name": "Yokai Night Bazaar",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494940/59d3ee934e0b8cc9c4646484aa4937a269535d71/header.jpg?t=1794138021",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3997770"
-  },
-  {
-   "store": "Steam",
-   "id": 5471970,
-   "name": "Rubber Stamp Legend",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471970/d996f82b882d34539ba5a0011700a0ceeccf54d4/header.jpg?t=1793759268",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5471970"
-  },
-  {
-   "store": "Steam",
-   "id": 5096660,
-   "name": "怪談寺",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096660/b0764fb44ff097889bc26a763e0c05498e9e4f41/header.jpg?t=1794060350",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5096660"
+   "url": "https://store.steampowered.com/app/5494940"
   },
   {
    "store": "Steam",
@@ -225,7 +153,7 @@
    "store": "Steam",
    "id": 5206500,
    "name": "DOPA-MATCH3: Cosmic Journey",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206500/683ca9ff53c73b47958b6826966115f7e24bd7ba/header.jpg?t=1789980411",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206500/683ca9ff53c73b47958b6826966115f7e24bd7ba/header.jpg?t=1794095121",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
@@ -260,6 +188,46 @@
    "original": 0,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/4492500"
+  },
+  {
+   "store": "Steam",
+   "id": 5463460,
+   "name": "Veltarum",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463460/0f9a8373a41651d2812a17ad2fce4593302ad235/header.jpg?t=1792890567",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5463460"
+  },
+  {
+   "store": "Steam",
+   "id": 4646360,
+   "name": "The 9th Haunted Corridor",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646360/fd0df44b020fa3d4bbd789dc52362a7aba634ed3/header.jpg?t=1792457145",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4646360"
+  },
+  {
+   "store": "Steam",
+   "id": 4774370,
+   "name": "GymPup",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774370/a144d1cac640eae98aac6b6cf83cd170dc4bd8d2/header.jpg?t=1792546545",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4774370"
+  },
+  {
+   "store": "Steam",
+   "id": 4901540,
+   "name": "Brick Buddies",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901540/45650fc36212b56784e565f5891b12670fca8bd7/header.jpg?t=1793014435",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4901540"
   }
  ]
 }
