@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T15:46:38.625Z",
- "today": "2026-11-08",
+ "updated": "2026-11-09T19:29:18.040Z",
+ "today": "2026-11-09",
  "sections": {
   "hoje": [],
   "destaques": [],
@@ -12,17 +12,6 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 2492040,
-   "name": "FATAL FURY: City of the Wolves",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-   "discount": 75,
-   "original": 5999,
-   "final": 1499,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2492040"
-  },
-  {
-   "store": "Steam",
    "id": 12210,
    "name": "Grand Theft Auto IV: The Complete Edition",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
@@ -31,17 +20,6 @@
    "final": 2370,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/12210"
-  },
-  {
-   "store": "Steam",
-   "id": 275850,
-   "name": "No Man's Sky",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-   "discount": 60,
-   "original": 16200,
-   "final": 6480,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/275850"
   },
   {
    "store": "Steam",
@@ -56,17 +34,6 @@
   },
   {
    "store": "Steam",
-   "id": 3768760,
-   "name": "007 First Light",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-   "discount": 40,
-   "original": 33990,
-   "final": 20394,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3768760"
-  },
-  {
-   "store": "Steam",
    "id": 3527290,
    "name": "PEAK",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
@@ -78,156 +45,181 @@
   },
   {
    "store": "Steam",
-   "id": 3241660,
-   "name": "R.E.P.O.",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-   "discount": 35,
-   "original": 2999,
-   "final": 1949,
+   "id": 4715160,
+   "name": "Finals Week ✍🏻",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+   "discount": 38,
+   "original": 2749,
+   "final": 1704,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3241660"
+   "url": "https://store.steampowered.com/app/4715160"
+  },
+  {
+   "store": "Steam",
+   "id": 2584270,
+   "name": "Mortal Shell II",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+   "discount": 25,
+   "original": 15900,
+   "final": 11925,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2584270"
+  },
+  {
+   "store": "Steam",
+   "id": 3669870,
+   "name": "CONTROL Resonant",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
+   "discount": 20,
+   "original": 22999,
+   "final": 18399,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3669870"
+  },
+  {
+   "store": "Steam",
+   "id": 4576490,
+   "name": "Casualties: Unknown",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
+   "discount": 15,
+   "original": 6999,
+   "final": 5949,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4576490"
+  },
+  {
+   "store": "Steam",
+   "id": 5064170,
+   "name": "Go Next!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064170/fd2ef71b9537f3fff25f47e9ec5ea92ae290b7b8/header.jpg?t=1794242414",
+   "discount": 15,
+   "original": 4849,
+   "final": 4121,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5064170"
+  },
+  {
+   "store": "Steam",
+   "id": 3629430,
+   "name": "DREADMOOR",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
+   "discount": 10,
+   "original": 6799,
+   "final": 6119,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3629430"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5455560,
-   "name": "Command Base Assault",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5455560/2875c7d923de5155f7287938c209131c735d9206/header.jpg?t=1794137306",
+   "id": 5089680,
+   "name": "Magua: Twenty Sorrows",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5089680/6d70b490c2d2ee790f416fbd220c5a1db57e2b25/header.jpg?t=1794248018",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5455560"
+   "url": "https://store.steampowered.com/app/5089680"
   },
   {
    "store": "Steam",
-   "id": 5490870,
-   "name": "Horochi's Challenge",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490870/ebaf027eaf8089aca38e27260a502c72bb64dcfd/header.jpg?t=1794107272",
+   "id": 5352470,
+   "name": "Corgi Race Live",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352470/e5efeaf29ff7c68f6d79309aca91d028b8bd0aee/header.jpg?t=1794244976",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5490870"
+   "url": "https://store.steampowered.com/app/5352470"
   },
   {
    "store": "Steam",
-   "id": 5289190,
-   "name": "VALHALLA ARCHIVE: CCG",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5289190/8ef7f14aab6c9001a258512e9e8a59f2a67e0117/header.jpg?t=1794096418",
+   "id": 5254730,
+   "name": "FrameDrift: Desktop Photo Widgets",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5254730/d727422f75ae30e9e085cdeea7d95a86bc13f913/header.jpg?t=1790692349",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5289190"
+   "url": "https://store.steampowered.com/app/5254730"
   },
   {
    "store": "Steam",
-   "id": 3681220,
-   "name": "The Light Switch",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681220/22a8cd92eac4c12825b5d5e76c8d975ea2fefe31/header.jpg?t=1794090407",
+   "id": 5424890,
+   "name": "Backrooms: 1977",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424890/c4e9a7a9c415586d875cc9647bd754cb92aae39b/header.jpg?t=1793867063",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3681220"
+   "url": "https://store.steampowered.com/app/5424890"
   },
   {
    "store": "Steam",
-   "id": 5494940,
-   "name": "Yokai Night Bazaar",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494940/59d3ee934e0b8cc9c4646484aa4937a269535d71/header.jpg?t=1794138021",
+   "id": 4955600,
+   "name": "Capy of Gods",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955600/e1899508aa51cf9fd8bc021080fe0793fcd9dbfe/header.jpg?t=1793055606",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5494940"
+   "url": "https://store.steampowered.com/app/4955600"
   },
   {
    "store": "Steam",
-   "id": 3722820,
-   "name": "Onlympic Up!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722820/8258eac084d015c67b83239d6ce4ee94b94ac426/header.jpg?t=1793209433",
+   "id": 4459590,
+   "name": "Slotbound",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1793804349",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3722820"
+   "url": "https://store.steampowered.com/app/4459590"
   },
   {
    "store": "Steam",
-   "id": 5206500,
-   "name": "DOPA-MATCH3: Cosmic Journey",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206500/683ca9ff53c73b47958b6826966115f7e24bd7ba/header.jpg?t=1794095121",
+   "id": 4984400,
+   "name": "Towers of Babble",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984400/9f2019f0d1bd42e9e5a17e93b3a5ec119f874f87/header.jpg?t=1793999524",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5206500"
+   "url": "https://store.steampowered.com/app/4984400"
   },
   {
    "store": "Steam",
-   "id": 4886710,
-   "name": "Mushroom Must Go Up!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886710/53acdd1c4602038a5376dc929e508f65294a6f0f/header.jpg?t=1793246345",
+   "id": 4217650,
+   "name": "Tome of Talis: A Dice Conquest Game",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4217650/54c3a728aac73de02a42afead1b87298519f3937/header.jpg?t=1791317350",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4886710"
+   "url": "https://store.steampowered.com/app/4217650"
   },
   {
    "store": "Steam",
-   "id": 4475970,
-   "name": "Prerolled",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4475970/a5d6955125613ed19dc4b6762597b79ef46fe4f6/header.jpg?t=1794031810",
+   "id": 5460060,
+   "name": "Debriefed : Frontline Command",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5460060/38eb08dd2850bd7e90de25aa29915ef37f8aab39/header.jpg?t=1794251024",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4475970"
+   "url": "https://store.steampowered.com/app/5460060"
   },
   {
    "store": "Steam",
-   "id": 4492500,
-   "name": "The Cinder Throne",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4492500/39c32db8a3d108b4bce552953b5b4b74f2e7ec4c/header.jpg?t=1793377885",
+   "id": 5001770,
+   "name": "Farmstead Market Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001770/21a50e8c165147231cfdbe380c37d73746126481/header.jpg?t=1794058948",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4492500"
+   "url": "https://store.steampowered.com/app/5001770"
   },
   {
    "store": "Steam",
-   "id": 5463460,
-   "name": "Veltarum",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463460/0f9a8373a41651d2812a17ad2fce4593302ad235/header.jpg?t=1792890567",
+   "id": 5036510,
+   "name": "Kreabordis",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036510/92c840be057001785cfee4cbf300c4e7c19abd9d/header.jpg?t=1793435563",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5463460"
-  },
-  {
-   "store": "Steam",
-   "id": 4646360,
-   "name": "The 9th Haunted Corridor",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646360/fd0df44b020fa3d4bbd789dc52362a7aba634ed3/header.jpg?t=1792457145",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4646360"
-  },
-  {
-   "store": "Steam",
-   "id": 4774370,
-   "name": "GymPup",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774370/a144d1cac640eae98aac6b6cf83cd170dc4bd8d2/header.jpg?t=1792546545",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4774370"
-  },
-  {
-   "store": "Steam",
-   "id": 4901540,
-   "name": "Brick Buddies",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901540/45650fc36212b56784e565f5891b12670fca8bd7/header.jpg?t=1793014435",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4901540"
+   "url": "https://store.steampowered.com/app/5036510"
   }
  ]
 }
