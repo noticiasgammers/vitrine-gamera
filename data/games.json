@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T16:48:00.428Z",
- "today": "2026-11-10",
+ "updated": "2026-11-11T16:53:38.690Z",
+ "today": "2026-11-11",
  "sections": {
   "hoje": [],
   "destaques": [],
@@ -12,14 +12,25 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 1372110,
-   "name": "JoJo's Bizarre Adventure: All-Star Battle R",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372110/header.jpg?t=1720409046",
-   "discount": 80,
-   "original": 20250,
-   "final": 4050,
+   "id": 1029690,
+   "name": "Sniper Elite 5",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
+   "discount": 90,
+   "original": 9399,
+   "final": 939,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1372110"
+   "url": "https://store.steampowered.com/app/1029690"
+  },
+  {
+   "store": "Steam",
+   "id": 227300,
+   "name": "Euro Truck Simulator 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+   "discount": 75,
+   "original": 6699,
+   "final": 1674,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/227300"
   },
   {
    "store": "Steam",
@@ -34,17 +45,6 @@
   },
   {
    "store": "Steam",
-   "id": 1790600,
-   "name": "DRAGON BALL: Sparking! ZERO",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
-   "discount": 40,
-   "original": 20650,
-   "final": 12390,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1790600"
-  },
-  {
-   "store": "Steam",
    "id": 3527290,
    "name": "PEAK",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
@@ -53,17 +53,6 @@
    "final": 1487,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3527290"
-  },
-  {
-   "store": "Steam",
-   "id": 4618570,
-   "name": "Booster Pack Heroes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
-   "discount": 30,
-   "original": 3399,
-   "final": 2379,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4618570"
   },
   {
    "store": "Steam",
@@ -78,17 +67,6 @@
   },
   {
    "store": "Steam",
-   "id": 3669870,
-   "name": "CONTROL Resonant",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-   "discount": 20,
-   "original": 22999,
-   "final": 18399,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3669870"
-  },
-  {
-   "store": "Steam",
    "id": 4576490,
    "name": "Casualties: Unknown",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
@@ -100,6 +78,17 @@
   },
   {
    "store": "Steam",
+   "id": 4348910,
+   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1794162078",
+   "discount": 10,
+   "original": 4499,
+   "final": 4049,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4348910"
+  },
+  {
+   "store": "Steam",
    "id": 3629430,
    "name": "DREADMOOR",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
@@ -108,118 +97,129 @@
    "final": 6119,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3629430"
+  },
+  {
+   "store": "Steam",
+   "id": 3669620,
+   "name": "Warhammer Survivors",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794409627",
+   "discount": 10,
+   "original": 2999,
+   "final": 2699,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/3669620"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5067010,
-   "name": "Piggy Monte",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067010/db3226c712b0b26d5cac304af891393191d1a3bf/header.jpg?t=1794325106",
+   "id": 5437060,
+   "name": "Game Master",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437060/109831bda1a1736047512d4de53da0a371593f97/header.jpg?t=1794412084",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5067010"
+   "url": "https://store.steampowered.com/app/5437060"
   },
   {
    "store": "Steam",
-   "id": 4914650,
-   "name": "Crownfront",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914650/c8d2a7b59ae87fa08e4f42ef740394c4531dfdfd/header.jpg?t=1794323152",
+   "id": 4956460,
+   "name": "AMERICAN LIFE SIMULATOR",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956460/c943dff244a6a0f6b9635cffe8503b8111d2bcea/header.jpg?t=1794329079",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4914650"
+   "url": "https://store.steampowered.com/app/4956460"
   },
   {
    "store": "Steam",
-   "id": 5478680,
-   "name": "Pixel Pause: Color by Number",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5478680/b2f0967f5174776100f6c9fc47b154487097c2bc/header.jpg?t=1794322992",
+   "id": 3769420,
+   "name": "Hill-Z",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769420/af3bcdbe7f4c1c4aa30a919e879fc640d153c525/header.jpg?t=1792428578",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5478680"
+   "url": "https://store.steampowered.com/app/3769420"
   },
   {
    "store": "Steam",
-   "id": 4819620,
-   "name": "Path Defenders: RPG Siege Defense",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819620/b660f4ad5e4c947e823b97db936ee10b36abe932/header_portuguese.jpg?t=1794324492",
+   "id": 4852840,
+   "name": "Boltz",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852840/b72b90ece5e679536052d4542fb118910c2bf721/header.jpg?t=1792596636",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4819620"
+   "url": "https://store.steampowered.com/app/4852840"
   },
   {
    "store": "Steam",
-   "id": 4017090,
-   "name": "Total Incremental Battle Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4017090/74eaafd3403ab7be3053e98d5ff7ae5492f5a5f9/header.jpg?t=1791394182",
+   "id": 4357680,
+   "name": "Lilifel",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357680/54b856c42c67cd2696a2f7fe94b484afad84abb6/header.jpg?t=1794313681",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4017090"
+   "url": "https://store.steampowered.com/app/4357680"
   },
   {
    "store": "Steam",
-   "id": 5053630,
-   "name": "Crystalase",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053630/6dfa43963978ea4a02d136f1c987cde6e60d4400/header.jpg?t=1788853475",
+   "id": 4411170,
+   "name": "Rapid Escalation",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4411170/66ff85f073b9da1bbe69546f82542653c1078f96/header.jpg?t=1794415488",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5053630"
+   "url": "https://store.steampowered.com/app/4411170"
   },
   {
    "store": "Steam",
-   "id": 4662190,
-   "name": "Stress Buddy",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662190/f97df53af6f7022fec708c30379d5f3c4dcae832/header.jpg?t=1792857744",
+   "id": 5068940,
+   "name": "Swirl Together",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068940/ce39aa1883e620c755f8ceb5790850872e6e2cbf/header.jpg?t=1793817111",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4662190"
+   "url": "https://store.steampowered.com/app/5068940"
   },
   {
    "store": "Steam",
-   "id": 5424910,
-   "name": "The Silence the Woods Keep",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424910/61272d2e74656ff94a770547cd7df758055584ff/header.jpg?t=1794091924",
+   "id": 5072610,
+   "name": "Futa Paradise Resort Supporter Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072610/36552a8f41e646ea86df4a8c2f9290f3f74e9a0a/header.jpg?t=1788983867",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5424910"
+   "url": "https://store.steampowered.com/app/5072610"
   },
   {
    "store": "Steam",
-   "id": 4139770,
-   "name": "Last Chance: Birth",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139770/d00dcf9d6427adeb0ed039fbe1b3e3cc11c624ad/header.jpg?t=1794314997",
+   "id": 5072620,
+   "name": "Futa Paradise Resort Wallpaper Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072620/208df54a15db512af83d0d986b867fa37a79b0bd/header.jpg?t=1788983868",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4139770"
+   "url": "https://store.steampowered.com/app/5072620"
   },
   {
    "store": "Steam",
-   "id": 5387160,
-   "name": "Sumverse",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5387160/4708a2b18c0c80b638e902fd88b042db5d50e815/header.jpg?t=1793895015",
+   "id": 5072630,
+   "name": "Futa Paradise Resort Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072630/420391b7afe61e7f5c93ae153d9f16769afc1ccc/header.jpg?t=1788983864",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5387160"
+   "url": "https://store.steampowered.com/app/5072630"
   },
   {
    "store": "Steam",
-   "id": 5445640,
-   "name": "Out A Space Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5445640/74a61f0d3b651ec7045bf6784ce9af9e9c22acae/header.jpg?t=1793905824",
+   "id": 4971410,
+   "name": "Tankii",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971410/c83da1f151dc95632d874fbbc53beb868beb520c/header.jpg?t=1793369570",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5445640"
+   "url": "https://store.steampowered.com/app/4971410"
   }
  ]
 }
