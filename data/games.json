@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T16:53:38.690Z",
- "today": "2026-11-11",
+ "updated": "2026-11-12T17:20:34.409Z",
+ "today": "2026-11-12",
  "sections": {
   "hoje": [],
   "destaques": [],
@@ -23,9 +23,20 @@
   },
   {
    "store": "Steam",
+   "id": 489830,
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+   "discount": 80,
+   "original": 14900,
+   "final": 2980,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/489830"
+  },
+  {
+   "store": "Steam",
    "id": 227300,
    "name": "Euro Truck Simulator 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
    "discount": 75,
    "original": 6699,
    "final": 1674,
@@ -56,6 +67,17 @@
   },
   {
    "store": "Steam",
+   "id": 2536520,
+   "name": "Diablo II: Resurrected – Edição Infernal",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+   "discount": 35,
+   "original": 17490,
+   "final": 11368,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2536520"
+  },
+  {
+   "store": "Steam",
    "id": 2584270,
    "name": "Mortal Shell II",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
@@ -78,17 +100,6 @@
   },
   {
    "store": "Steam",
-   "id": 4348910,
-   "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1794162078",
-   "discount": 10,
-   "original": 4499,
-   "final": 4049,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4348910"
-  },
-  {
-   "store": "Steam",
    "id": 3629430,
    "name": "DREADMOOR",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
@@ -97,129 +108,148 @@
    "final": 6119,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3629430"
-  },
-  {
-   "store": "Steam",
-   "id": 3669620,
-   "name": "Warhammer Survivors",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794409627",
-   "discount": 10,
-   "original": 2999,
-   "final": 2699,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3669620"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5437060,
-   "name": "Game Master",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437060/109831bda1a1736047512d4de53da0a371593f97/header.jpg?t=1794412084",
+   "id": 5479850,
+   "name": "MORPHOKLASM",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5479850/39def244a1a48bf4cecae3af40e0902d790917a0/header.jpg?t=1794502841",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5437060"
+   "url": "https://store.steampowered.com/app/5479850"
   },
   {
    "store": "Steam",
-   "id": 4956460,
-   "name": "AMERICAN LIFE SIMULATOR",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956460/c943dff244a6a0f6b9635cffe8503b8111d2bcea/header.jpg?t=1794329079",
+   "id": 5220530,
+   "name": "There's a Cat in My PC",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220530/770615b536d42fde11afef07272feed8c6ce2b61/header.jpg?t=1794501685",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4956460"
+   "url": "https://store.steampowered.com/app/5220530"
   },
   {
    "store": "Steam",
-   "id": 3769420,
-   "name": "Hill-Z",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769420/af3bcdbe7f4c1c4aa30a919e879fc640d153c525/header.jpg?t=1792428578",
+   "id": 4763980,
+   "name": "Your Sweet Little Kitty",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763980/b5197a0d016d1f383cdfe3a61f8d7b48f556b52a/header.jpg?t=1794500097",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3769420"
+   "url": "https://store.steampowered.com/app/4763980"
   },
   {
    "store": "Steam",
-   "id": 4852840,
-   "name": "Boltz",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852840/b72b90ece5e679536052d4542fb118910c2bf721/header.jpg?t=1792596636",
+   "id": 5283320,
+   "name": "Quarantine Zombies - Prologue 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283320/ae9f371d7ab616c69a4acbd3253044a68ff60f49/header.jpg?t=1794496605",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4852840"
+   "url": "https://store.steampowered.com/app/5283320"
   },
   {
    "store": "Steam",
-   "id": 4357680,
-   "name": "Lilifel",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4357680/54b856c42c67cd2696a2f7fe94b484afad84abb6/header.jpg?t=1794313681",
+   "id": 5385160,
+   "name": "Lanternborn",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385160/a68f4c4eaa0e79d321bb37f3b9b36fbf7e7e7424/header.jpg?t=1793874001",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4357680"
+   "url": "https://store.steampowered.com/app/5385160"
   },
   {
    "store": "Steam",
-   "id": 4411170,
-   "name": "Rapid Escalation",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4411170/66ff85f073b9da1bbe69546f82542653c1078f96/header.jpg?t=1794415488",
+   "id": 4931640,
+   "name": "Idle of the Dead — Scavenger's Backpack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931640/cab43b45b8e3fed118d1de06af1b0578e47dce37/header.jpg?t=1794331395",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4411170"
+   "url": "https://store.steampowered.com/app/4931640"
   },
   {
    "store": "Steam",
-   "id": 5068940,
-   "name": "Swirl Together",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5068940/ce39aa1883e620c755f8ceb5790850872e6e2cbf/header.jpg?t=1793817111",
+   "id": 5355450,
+   "name": "FLOWFALL Inertia",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5355450/ee614afe4bf47ba9db964e448c88faab8b7ce3dc/header.jpg?t=1791237644",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5068940"
+   "url": "https://store.steampowered.com/app/5355450"
   },
   {
    "store": "Steam",
-   "id": 5072610,
-   "name": "Futa Paradise Resort Supporter Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072610/36552a8f41e646ea86df4a8c2f9290f3f74e9a0a/header.jpg?t=1788983867",
+   "id": 4866170,
+   "name": "Disaster Scenario",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866170/c965d60155014869a9190d491de1f6eef8945321/header.jpg?t=1791496277",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5072610"
+   "url": "https://store.steampowered.com/app/4866170"
   },
   {
    "store": "Steam",
-   "id": 5072620,
-   "name": "Futa Paradise Resort Wallpaper Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072620/208df54a15db512af83d0d986b867fa37a79b0bd/header.jpg?t=1788983868",
+   "id": 5109550,
+   "name": "ALL EYES ON ME",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109550/0e49626606ef9b53feb1486f437f2beb83032fb5/header.jpg?t=1794458310",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5072620"
+   "url": "https://store.steampowered.com/app/5109550"
   },
   {
    "store": "Steam",
-   "id": 5072630,
-   "name": "Futa Paradise Resort Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072630/420391b7afe61e7f5c93ae153d9f16769afc1ccc/header.jpg?t=1788983864",
+   "id": 5169470,
+   "name": "Below The Blades",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169470/6c13bf97888bf9566bbe764d227df73460171352/header.jpg?t=1793724834",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5072630"
+   "url": "https://store.steampowered.com/app/5169470"
   },
   {
    "store": "Steam",
-   "id": 4971410,
-   "name": "Tankii",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971410/c83da1f151dc95632d874fbbc53beb868beb520c/header.jpg?t=1793369570",
+   "id": 5170670,
+   "name": "SoulForge Legends - Regalia",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170670/5d3165061b3c40c5c19807681d6750251655c274/header.jpg?t=1787950248",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4971410"
+   "url": "https://store.steampowered.com/app/5170670"
+  },
+  {
+   "store": "Steam",
+   "id": 4973650,
+   "name": "SoulForge Legends",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973650/51f7f00c1c0844e979a8499ce0cc125a8e5bb661/header.jpg?t=1786991923",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4973650"
+  },
+  {
+   "store": "Steam",
+   "id": 5372100,
+   "name": "FLOWFALL Inertia Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372100/bdd86bdc5ab5c4c528e9c6358332440febb60298/header.jpg?t=1791500412",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5372100"
+  },
+  {
+   "store": "Steam",
+   "id": 5490190,
+   "name": "Grazed - Supporter Pack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5490190/cb45902831b2e35057b1ed2653be299384a2d6cf/header.jpg?t=1793749131",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5490190"
   }
  ]
 }
