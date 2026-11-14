@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T16:57:30.388Z",
- "today": "2026-11-13",
+ "updated": "2026-11-14T15:30:59.786Z",
+ "today": "2026-11-14",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -16,10 +16,12 @@
    1020665,
    1020666,
    1020670,
+   1020751,
    1020588,
    1020667
   ],
   "lancamentos": [
+   1020750,
    1020728,
    1020727,
    1020655,
@@ -39,10 +41,7 @@
    1020666,
    1020725,
    1020724,
-   1020723,
-   1020665,
-   1020663,
-   1020664
+   1020723
   ],
   "proximos": [
    972995,
@@ -194,7 +193,7 @@
    "name": "Path of Exile 2",
    "released": "2026-12-11",
    "image": "https://media.rawg.io/media/games/401/4010e56adceb7db58ba42d1189796d5e.jpg",
-   "rating": 3.54,
+   "rating": 3.55,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -318,7 +317,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.85,
+   "rating": 3.86,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -799,7 +798,7 @@
    "name": "Castlevania: Belmont's Curse",
    "released": "2026-10-15",
    "image": "https://media.rawg.io/media/games/a9d/a9dd2c0a3be088161e7272b979d82722.jpg",
-   "rating": 3.67,
+   "rating": 3.8,
    "metacritic": null,
    "platforms": [
     "pc",
@@ -959,52 +958,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E5%9B%9B%E5%AD%A3%E7%99%BE%E6%99%AF%20trailer"
-  },
-  "1020663": {
-   "id": 1020663,
-   "name": "Only Luck",
-   "released": "2026-10-30",
-   "image": "https://media.rawg.io/media/screenshots/586/586cfa8532e5feace1b97d0cffdd4ca8.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5355280/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Only%20Luck%20trailer"
-  },
-  "1020664": {
-   "id": 1020664,
-   "name": "Night Life: Club Sessions",
-   "released": "2026-10-30",
-   "image": "https://media.rawg.io/media/screenshots/54b/54b68b09bcdf9bf89cb7a59438471411.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3375800/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Night%20Life%3A%20Club%20Sessions%20trailer"
   },
   "1020665": {
    "id": 1020665,
@@ -1441,6 +1394,52 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Flirt%20Simulator%20trailer"
+  },
+  "1020750": {
+   "id": 1020750,
+   "name": "The unwinnable fight of Debuffs against Succubi",
+   "released": "2026-11-12",
+   "image": "https://media.rawg.io/media/screenshots/71e/71e369d747dec2e71cf7cf4ed65a93e6.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3896020/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=The%20unwinnable%20fight%20of%20Debuffs%20against%20Succubi%20trailer"
+  },
+  "1020751": {
+   "id": 1020751,
+   "name": "Datum",
+   "released": "2026-10-27",
+   "image": "https://media.rawg.io/media/screenshots/5ce/5ce0b4200560e3e8671a84b8b8fcbad2.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4955590/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Datum%20trailer"
   }
  },
  "deals": [
@@ -1481,7 +1480,7 @@
    "store": "Steam",
    "id": 2784470,
    "name": "9 Kings",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794518469",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794598226",
    "discount": 50,
    "original": 3999,
    "final": 1999,
@@ -1523,177 +1522,177 @@
   },
   {
    "store": "Steam",
-   "id": 4045480,
-   "name": "Drawquarium",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/84e76865a2649679dfb1687354ba0e5a05f44b0b/header.jpg?t=1794578546",
+   "id": 2406770,
+   "name": "Bodycam",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794590337",
    "discount": 20,
-   "original": 3899,
-   "final": 3119,
+   "original": 10199,
+   "final": 8159,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4045480"
+   "url": "https://store.steampowered.com/app/2406770"
   },
   {
    "store": "Steam",
-   "id": 4459590,
-   "name": "Slotbound",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794535601",
-   "discount": 10,
-   "original": 3399,
-   "final": 3059,
+   "id": 4576490,
+   "name": "Casualties: Unknown",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
+   "discount": 15,
+   "original": 6999,
+   "final": 5949,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4459590"
+   "url": "https://store.steampowered.com/app/4576490"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5434650,
-   "name": "Rhythm of the Backwaters",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434650/87a399e5422335ad4333e8d6110a1f5ae0890558/header.jpg?t=1794585785",
+   "id": 5393800,
+   "name": "Grandparadox",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5393800/f159d9be8d10f272b1686c87868570dffb60293f/header.jpg?t=1794666141",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5434650"
+   "url": "https://store.steampowered.com/app/5393800"
   },
   {
    "store": "Steam",
-   "id": 4126400,
-   "name": "Rise Of Baihu",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126400/fad6b70f0c55e24b81fe0d06e2809a9ba5de8759/header.jpg?t=1794584223",
+   "id": 5421960,
+   "name": "The Friendly Monster",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421960/b8bf29af561774b8cc5aaf25b60da7fd6c818a1d/header.jpg?t=1794657136",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4126400"
+   "url": "https://store.steampowered.com/app/5421960"
   },
   {
    "store": "Steam",
-   "id": 5011370,
-   "name": "Lowbar Legends",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5011370/101958b959ed141ad7898c9cc8401bc8d9ab0c61/header.jpg?t=1794582010",
+   "id": 4802670,
+   "name": "The Fly's Fantastic Adventure",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802670/a948be293c65c56a32662bca8cf28757b894f7a4/header.jpg?t=1794649330",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5011370"
+   "url": "https://store.steampowered.com/app/4802670"
   },
   {
    "store": "Steam",
-   "id": 5294230,
-   "name": "Onidot: Game of Tag",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294230/b3dd9c8a635321aeeb33235b3df9de89aeb53881/header.jpg?t=1794580880",
+   "id": 4989970,
+   "name": "Pot O' Gnomes",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989970/a225876f0fe91d3b836dd4b5dc3fc52ff3387a57/header.jpg?t=1794642548",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5294230"
+   "url": "https://store.steampowered.com/app/4989970"
   },
   {
    "store": "Steam",
-   "id": 5463830,
-   "name": "StarsPartyNext",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463830/05d11eed09cbfafe91aa807039dbcf5c14f94f2e/header.jpg?t=1794580304",
+   "id": 5403440,
+   "name": "奥术棋域",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403440/44f5e8194f8f78c9159abad31df466f0c6f41c1d/header.jpg?t=1794641905",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5463830"
+   "url": "https://store.steampowered.com/app/5403440"
   },
   {
    "store": "Steam",
-   "id": 5459600,
-   "name": "Sort The Plushie Store Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5459600/de58127732ebfb840ad5ad08bdad3f2241e75b57/header.jpg?t=1794587436",
+   "id": 5300300,
+   "name": "Elementys",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300300/2b529bcbcd27f2e44ede2cd1642c036eae54266f/header.jpg?t=1794603174",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5459600"
+   "url": "https://store.steampowered.com/app/5300300"
   },
   {
    "store": "Steam",
-   "id": 5470740,
-   "name": "The Eggsortist Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5470740/3ecf534c2cf85a84887d07d98a99124be8205e70/header.jpg?t=1794587250",
+   "id": 5082170,
+   "name": "Jogo das Frutas Kombat",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082170/0ea42d51c5bf098ce8881939199dbb149c18ca28/header.jpg?t=1793782794",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5470740"
+   "url": "https://store.steampowered.com/app/5082170"
   },
   {
    "store": "Steam",
-   "id": 2966960,
-   "name": "Wild Americas: Land Rush",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966960/dcc0cfc5117759d8ea673ba17cb7d3a960138636/header.jpg?t=1794358120",
+   "id": 4995460,
+   "name": "Tiny Chef",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995460/976e580fdf0b1b3d5cbd3087a5e88a0fb27c6b57/header.jpg?t=1793581895",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2966960"
+   "url": "https://store.steampowered.com/app/4995460"
   },
   {
    "store": "Steam",
-   "id": 5302700,
-   "name": "Sort and Stack!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302700/802680fc38374fbc7be97a5ed643a24ad3024a50/header.jpg?t=1794585066",
+   "id": 5547370,
+   "name": "文明融合",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5547370/9c6313dd52312effa38f13ba960e39b36fd139a4/header.jpg?t=1794359195",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5302700"
+   "url": "https://store.steampowered.com/app/5547370"
   },
   {
    "store": "Steam",
-   "id": 4937900,
-   "name": "NODE ZERO",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937900/6a524cf95dae0ad1edab281a08511e121f6d5bcd/header.jpg?t=1793985118",
+   "id": 5450860,
+   "name": "How Many Tickets Does It Take To Win The Lottery?",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450860/bfc07a296f60a316de8c4669f8eb023d0ea7d80d/header.jpg?t=1793648514",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4937900"
+   "url": "https://store.steampowered.com/app/5450860"
   },
   {
    "store": "Steam",
-   "id": 4643840,
-   "name": "Hacker Cats",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643840/42a7ce38379a5ba337e95a99d8fb5ff33c714cbe/header.jpg?t=1792927613",
+   "id": 2384980,
+   "name": "Cafe Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384980/fa177aeb18e86f458b6076aca04b6df2a103e464/header.jpg?t=1794242865",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4643840"
+   "url": "https://store.steampowered.com/app/2384980"
   },
   {
    "store": "Steam",
-   "id": 4224090,
-   "name": "Powerfuel",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224090/32fc7134ba568ed7a6a4c6015b2f99d3a9943314/header.jpg?t=1793747196",
+   "id": 5285190,
+   "name": "That's My Life",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285190/89e8b8ef47574a9abd32762227dd02a990893b50/header.jpg?t=1794356920",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4224090"
+   "url": "https://store.steampowered.com/app/5285190"
   },
   {
    "store": "Steam",
-   "id": 5273080,
-   "name": "Ball Pit Cleanup",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5273080/5fd5852054aad63c814144755ef1317fc7086bbb/header.jpg?t=1793005279",
+   "id": 3175580,
+   "name": "Water Maid",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175580/header.jpg?t=1794544663",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5273080"
+   "url": "https://store.steampowered.com/app/3175580"
   },
   {
    "store": "Steam",
-   "id": 5367460,
-   "name": "Real-Time Screen Translator",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367460/2e5d42ba2c30812990cbbfd749d955faf611e313/header_portuguese.jpg?t=1793788119",
+   "id": 5043330,
+   "name": "Snake Echos",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5043330/8ec8506e77a26978acb10572cdcd4f49688e16fe/header.jpg?t=1790232706",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5367460"
+   "url": "https://store.steampowered.com/app/5043330"
   },
   {
    "store": "Steam",
-   "id": 5369070,
-   "name": "Lost Luggage",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5369070/4b03d46dafbc766961da42b64ac89059fddfc6f4/header.jpg?t=1793189893",
+   "id": 5492180,
+   "name": "Grand Space Game",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492180/f376ff739c49ae088b50b204e52dce8857ee5d3a/header.jpg?t=1794500922",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5369070"
+   "url": "https://store.steampowered.com/app/5492180"
   }
  ]
 }
