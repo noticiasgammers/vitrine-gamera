@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:13:49.413Z",
- "today": "2026-11-16",
+ "updated": "2026-11-17T18:07:03.480Z",
+ "today": "2026-11-17",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -9,6 +9,7 @@
    1004664,
    1020655,
    1016708,
+   802450,
    1020673,
    1020545,
    1020665,
@@ -17,10 +18,13 @@
    1020751,
    1020588,
    1020667,
-   1020674,
-   1020677
+   1020674
   ],
   "lancamentos": [
+   1020818,
+   1020817,
+   1020816,
+   1020815,
    1020750,
    1020728,
    1020727,
@@ -37,9 +41,7 @@
    1020726,
    1020673,
    1020676,
-   1020669,
-   1020666,
-   1020725
+   1020669
   ],
   "proximos": [
    972995,
@@ -286,6 +288,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Prince%20of%20Persia%3A%20The%20Sands%20of%20Time%20Remake%20trailer"
+  },
+  "802450": {
+   "id": 802450,
+   "name": "COP BASTARD",
+   "released": "2026-10-28",
+   "image": "https://media.rawg.io/media/screenshots/985/98584b5b6dbd388a148612d54e5ceb5b.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/1742440/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
   },
   "962016": {
    "id": 962016,
@@ -1183,29 +1208,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=DriveGear%20trailer"
   },
-  "1020725": {
-   "id": 1020725,
-   "name": "Click to Obsolete",
-   "released": "2026-11-02",
-   "image": "https://media.rawg.io/media/screenshots/5e2/5e230a535fc01a003451501c3b85dd9d.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4972790/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Click%20to%20Obsolete%20trailer"
-  },
   "1020726": {
    "id": 1020726,
    "name": "Player Life: The Seven Islands",
@@ -1320,6 +1322,97 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Datum%20trailer"
+  },
+  "1020815": {
+   "id": 1020815,
+   "name": "仙途有约",
+   "released": "2026-11-12",
+   "image": "https://media.rawg.io/media/screenshots/09e/09e2cc74bb68935619ab3192e35055f4.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4833750/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=%E4%BB%99%E9%80%94%E6%9C%89%E7%BA%A6%20trailer"
+  },
+  "1020816": {
+   "id": 1020816,
+   "name": "Backrooms: The Undying",
+   "released": "2026-11-13",
+   "image": "https://media.rawg.io/media/screenshots/4e4/4e4890a17ee2d80c0dcc5b3264002200.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual",
+    "Indie"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5361070/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Backrooms%3A%20The%20Undying%20trailer"
+  },
+  "1020817": {
+   "id": 1020817,
+   "name": "Gooning for Gold",
+   "released": "2026-11-13",
+   "image": "https://media.rawg.io/media/screenshots/f68/f68b4ba8a2ba39c98445b93830ddaf65.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Casual"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4614660/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Gooning%20for%20Gold%20trailer"
+  },
+  "1020818": {
+   "id": 1020818,
+   "name": "Aetherlob",
+   "released": "2026-11-14",
+   "image": "https://media.rawg.io/media/screenshots/6d2/6d2dd8d7b0bbccb18bf5841ae6a2f73f.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Strategy"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5106080/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Aetherlob%20trailer"
   }
  },
  "deals": [
@@ -1358,14 +1451,25 @@
   },
   {
    "store": "Steam",
-   "id": 2680010,
-   "name": "The First Berserker: Khazan",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1776936760",
-   "discount": 40,
-   "original": 22950,
-   "final": 13770,
+   "id": 1687950,
+   "name": "Persona 5 Royal",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+   "discount": 70,
+   "original": 24990,
+   "final": 7497,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2680010"
+   "url": "https://store.steampowered.com/app/1687950"
+  },
+  {
+   "store": "Steam",
+   "id": 1771300,
+   "name": "Kingdom Come: Deliverance II",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+   "discount": 67,
+   "original": 29900,
+   "final": 9867,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1771300"
   },
   {
    "store": "Steam",
@@ -1402,107 +1506,76 @@
   },
   {
    "store": "Steam",
-   "id": 2321960,
-   "name": "Spirit Crossing",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/ef5229ee7c51162c7233296443ef0520408387cd/header.jpg?t=1794844916",
+   "id": 3218350,
+   "name": "Melvor Idle 2: A RuneScape Adventure",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794927857",
    "discount": 10,
-   "original": 7999,
-   "final": 7199,
+   "original": 4849,
+   "final": 4364,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2321960"
-  },
-  {
-   "store": "Steam",
-   "id": 5200620,
-   "name": "Dungeonbound",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794837625",
-   "discount": 10,
-   "original": 3999,
-   "final": 3599,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5200620"
+   "url": "https://store.steampowered.com/app/3218350"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5476870,
-   "name": "Boardroom Wars: Fight for Kashistan - Wallpaper Pack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5476870/e7cdd75c3aede4381d704230b6d8b6b2e6214529/header.jpg?t=1792696758",
+   "id": 3046540,
+   "name": "10 Second Mixtape",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046540/627068ae2aa3a7df5c1312d3d20c72acc4f44cb2/header.jpg?t=1794927689",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5476870"
+   "url": "https://store.steampowered.com/app/3046540"
   },
   {
    "store": "Steam",
-   "id": 5333360,
-   "name": "Boardroom Wars: Fight for Kashistan Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5333360/28f50b0f6ed538cb2ab8e976d0ee632357fb4903/header.jpg?t=1792871453",
+   "id": 4724840,
+   "name": "Legacy of Legend",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724840/3d69891ba70d37c05094e96f7a28965d0376dfa7/header.jpg?t=1793696893",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5333360"
+   "url": "https://store.steampowered.com/app/4724840"
   },
   {
    "store": "Steam",
-   "id": 5264830,
-   "name": "Boardroom Wars: Fight for Kashistan",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5264830/96cc193cace510fd8085ae59fd71078be17cfd1d/header.jpg?t=1794037001",
+   "id": 4737240,
+   "name": "Stevedore",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737240/45ac96388797bd96b8b013c4bf33135ff5ccaa23/header.jpg?t=1794677734",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5264830"
+   "url": "https://store.steampowered.com/app/4737240"
   },
   {
    "store": "Steam",
-   "id": 5568010,
-   "name": "Velthos Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568010/2914625629028601084d7c9c1258a6d7c9bae05e/header.jpg?t=1794648056",
+   "id": 4764040,
+   "name": "Hive Fall",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764040/162f67b0d39e1b2ebe997e0cf649093e010e9790/header.jpg?t=1794619636",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5568010"
+   "url": "https://store.steampowered.com/app/4764040"
   },
   {
    "store": "Steam",
-   "id": 3916430,
-   "name": "771: Smile and work",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3916430/8b960132db71c1efbefe192556b4be861d365923/header.jpg?t=1794853496",
+   "id": 5340870,
+   "name": "Underbloom",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5340870/fa63a0fdbf38c83c6482fc148073c806df6507e6/header.jpg?t=1793672657",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3916430"
+   "url": "https://store.steampowered.com/app/5340870"
   },
   {
    "store": "Steam",
-   "id": 5515990,
-   "name": "DNOWHERE Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515990/8b35bc871cd103904fbf44cd2551de8ebe72a503/header.jpg?t=1794449736",
+   "id": 5507480,
+   "name": "Maglev Driver",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507480/0ea6357715ecaab8dff6f2d4ed81f6a93f062bbb/header.jpg?t=1794938356",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5515990"
-  },
-  {
-   "store": "Steam",
-   "id": 5045330,
-   "name": "DOTARIX",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045330/bdc3593a8c30e25b43eb815d835e3ad8875275ff/header.jpg?t=1794600259",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5045330"
-  },
-  {
-   "store": "Steam",
-   "id": 5417180,
-   "name": "The Legendary Sortsmith",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5417180/8668dffc5c6b28d202896048f0447f6648b136da/header.jpg?t=1794525016",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5417180"
+   "url": "https://store.steampowered.com/app/5507480"
   }
  ]
 }
