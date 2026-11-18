@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-17T18:07:03.480Z",
- "today": "2026-11-17",
+ "updated": "2026-11-18T17:46:09.144Z",
+ "today": "2026-11-18",
  "sections": {
   "hoje": [],
   "destaques": [
    962016,
    991568,
+   1019942,
    1004664,
    1020655,
    1016708,
    802450,
+   1020612,
    1020673,
    1020545,
    1020665,
    1020666,
    1020670,
    1020751,
-   1020588,
-   1020667,
-   1020674
+   1020588
   ],
   "lancamentos": [
    1020818,
@@ -41,7 +41,8 @@
    1020726,
    1020673,
    1020676,
-   1020669
+   1020669,
+   1019942
   ],
   "proximos": [
    972995,
@@ -67,7 +68,6 @@
    1016362,
    1016077,
    1015318,
-   1015317,
    1017860,
    224668,
    231102,
@@ -317,7 +317,7 @@
    "name": "REKA",
    "released": "2026-10-26",
    "image": "https://media.rawg.io/media/screenshots/7a7/7a7652c7423fedce4c2d4090858dbb01.jpg",
-   "rating": null,
+   "rating": 3,
    "metacritic": null,
    "platforms": [
     "pc"
@@ -562,23 +562,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=They%20Come%20in%20Fives%20trailer"
   },
-  "1015317": {
-   "id": 1015317,
-   "name": "Resident Evil: Survival Unit",
-   "released": "2025-11-17",
-   "image": "https://media.rawg.io/media/screenshots/1f2/1f2c63bea837ab723eee4e9a2734e888.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "android"
-   ],
-   "genres": [
-    "Casual"
-   ],
-   "stores": [],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Resident%20Evil%3A%20Survival%20Unit%20trailer"
-  },
   "1015318": {
    "id": 1015318,
    "name": "FLESHBREAK",
@@ -818,6 +801,29 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Trine%206%3A%20Together%20in%20Time%20trailer"
   },
+  "1019942": {
+   "id": 1019942,
+   "name": "The Legend of Zelda: Ocarina of Time",
+   "released": "2026-11-05",
+   "image": "https://media.rawg.io/media/games/c3b/c3bc70310175785b0c9d7bfc93624d5f.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "nintendo"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Nintendo eShop",
+     "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/The-Legend-of-Zelda-Ocarina-of-Time-3115664.html"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time%20trailer"
+  },
   "1020545": {
    "id": 1020545,
    "name": "Sakura Hime 7",
@@ -863,6 +869,27 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=FUTA%20GIRLS%20trailer"
+  },
+  "1020612": {
+   "id": 1020612,
+   "name": "Virtue and a Sledgehammer",
+   "released": "2026-10-27",
+   "image": "https://media.rawg.io/media/screenshots/eca/ecab8c49e490d7b0e549cdba14ac342a.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3743260/Virtue_and_a_Sledgehammer/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Virtue%20and%20a%20Sledgehammer%20trailer"
   },
   "1020655": {
    "id": 1020655,
@@ -1429,14 +1456,25 @@
   },
   {
    "store": "Steam",
-   "id": 227300,
-   "name": "Euro Truck Simulator 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
+   "id": 311210,
+   "name": "Call of Duty®: Black Ops III",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
    "discount": 75,
-   "original": 6699,
-   "final": 1674,
+   "original": 32990,
+   "final": 8247,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/227300"
+   "url": "https://store.steampowered.com/app/311210"
+  },
+  {
+   "store": "Steam",
+   "id": 476600,
+   "name": "Call of Duty®: WWII",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1780963893",
+   "discount": 75,
+   "original": 32990,
+   "final": 8247,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/476600"
   },
   {
    "store": "Steam",
@@ -1448,17 +1486,6 @@
    "final": 2370,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/12210"
-  },
-  {
-   "store": "Steam",
-   "id": 1687950,
-   "name": "Persona 5 Royal",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-   "discount": 70,
-   "original": 24990,
-   "final": 7497,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1687950"
   },
   {
    "store": "Steam",
@@ -1484,9 +1511,20 @@
   },
   {
    "store": "Steam",
+   "id": 2536520,
+   "name": "Diablo II: Resurrected – Edição Infernal",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+   "discount": 35,
+   "original": 17490,
+   "final": 11368,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2536520"
+  },
+  {
+   "store": "Steam",
    "id": 2406770,
    "name": "Bodycam",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
    "discount": 20,
    "original": 10199,
    "final": 8159,
@@ -1503,79 +1541,148 @@
    "final": 27999,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3321460"
-  },
-  {
-   "store": "Steam",
-   "id": 3218350,
-   "name": "Melvor Idle 2: A RuneScape Adventure",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794927857",
-   "discount": 10,
-   "original": 4849,
-   "final": 4364,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3218350"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 3046540,
-   "name": "10 Second Mixtape",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046540/627068ae2aa3a7df5c1312d3d20c72acc4f44cb2/header.jpg?t=1794927689",
+   "id": 5485410,
+   "name": "Cosmic Crumbs: Bakery Simulator - First Bite",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485410/908a2958bb4209ba2398a53d73335c4d19ce8d7f/header.jpg?t=1795010955",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3046540"
+   "url": "https://store.steampowered.com/app/5485410"
   },
   {
    "store": "Steam",
-   "id": 4724840,
-   "name": "Legacy of Legend",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724840/3d69891ba70d37c05094e96f7a28965d0376dfa7/header.jpg?t=1793696893",
+   "id": 5449680,
+   "name": "Mini Legends Idle",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5449680/31e84970cf7a1ed5463072bb3bb1167044541f56/header.jpg?t=1795010426",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4724840"
+   "url": "https://store.steampowered.com/app/5449680"
   },
   {
    "store": "Steam",
-   "id": 4737240,
-   "name": "Stevedore",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737240/45ac96388797bd96b8b013c4bf33135ff5ccaa23/header.jpg?t=1794677734",
+   "id": 4078690,
+   "name": "Biztopia: Prologue",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078690/0754945ba8fda53877b1009c999bc137971f31e3/header.jpg?t=1795009894",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4737240"
+   "url": "https://store.steampowered.com/app/4078690"
   },
   {
    "store": "Steam",
-   "id": 4764040,
-   "name": "Hive Fall",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764040/162f67b0d39e1b2ebe997e0cf649093e010e9790/header.jpg?t=1794619636",
+   "id": 5280780,
+   "name": "System Checks",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280780/d41c96f4564d9187c2d6cf77e38d73502e1c9400/header.jpg?t=1795005272",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4764040"
+   "url": "https://store.steampowered.com/app/5280780"
   },
   {
    "store": "Steam",
-   "id": 5340870,
-   "name": "Underbloom",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5340870/fa63a0fdbf38c83c6482fc148073c806df6507e6/header.jpg?t=1793672657",
+   "id": 3810590,
+   "name": "Celestial Decks",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810590/628bd60f827d74e6ecbfeb6d53f9d67042fb24fc/header.jpg?t=1795022490",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5340870"
+   "url": "https://store.steampowered.com/app/3810590"
   },
   {
    "store": "Steam",
-   "id": 5507480,
-   "name": "Maglev Driver",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507480/0ea6357715ecaab8dff6f2d4ed81f6a93f062bbb/header.jpg?t=1794938356",
+   "id": 5386130,
+   "name": "The Retired Mage's Apprentice: Tidy Up the Magic Tower Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386130/bdfa971a4f3ae49f7c4bf3850bf43f1e0bdc15a4/header.jpg?t=1791389516",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5507480"
+   "url": "https://store.steampowered.com/app/5386130"
+  },
+  {
+   "store": "Steam",
+   "id": 5374140,
+   "name": "Bullet Factory",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5374140/7c7b8a99fba21b4338c2f7b65671e589bbae61ea/header.jpg?t=1793222645",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5374140"
+  },
+  {
+   "store": "Steam",
+   "id": 5425540,
+   "name": "Railtown Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425540/e79928790d8afa6574b5a10345451aefd25c9265/header.jpg?t=1794826036",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5425540"
+  },
+  {
+   "store": "Steam",
+   "id": 5557700,
+   "name": "JOHN GLEEP Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557700/a8885397242648cb58db95dbfe8969225e6e9000/header.jpg?t=1795015842",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5557700"
+  },
+  {
+   "store": "Steam",
+   "id": 4948940,
+   "name": "Swarmbreaker",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948940/9ca398a9595a2161d1178c2a34e235b86ecca845/header.jpg?t=1794913776",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4948940"
+  },
+  {
+   "store": "Steam",
+   "id": 4334650,
+   "name": "AlcheMice Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334650/ad25df8479b274bf3b824b48b419a9ff6ffc56f8/header.jpg?t=1794463961",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4334650"
+  },
+  {
+   "store": "Steam",
+   "id": 4654120,
+   "name": "Graveyard Orbit",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654120/d63bcd6cc9a25cdc5fdbacaeb72647a76be7a574/header.jpg?t=1794828860",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4654120"
+  },
+  {
+   "store": "Steam",
+   "id": 5036870,
+   "name": "PLEASE CONFIRM THE DECEASED",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036870/47c13c7f5a2381fcef1e313d21f9070d032e9959/header.jpg?t=1794906314",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5036870"
+  },
+  {
+   "store": "Steam",
+   "id": 5094400,
+   "name": "Warchaic",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094400/9be1d1c385f15013f788eb3c9232e500476f9483/header.jpg?t=1793201695",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5094400"
   }
  ]
 }
