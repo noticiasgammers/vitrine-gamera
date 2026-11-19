@@ -1,12 +1,15 @@
 {
- "updated": "2026-11-18T17:46:09.144Z",
- "today": "2026-11-18",
+ "updated": "2026-11-19T17:57:17.941Z",
+ "today": "2026-11-19",
  "sections": {
-  "hoje": [],
+  "hoje": [
+   972995
+  ],
   "destaques": [
+   972995,
    962016,
-   991568,
    1019942,
+   991568,
    1004664,
    1020655,
    1016708,
@@ -17,10 +20,10 @@
    1020665,
    1020666,
    1020670,
-   1020751,
-   1020588
+   1020751
   ],
   "lancamentos": [
+   972995,
    1020818,
    1020817,
    1020816,
@@ -45,7 +48,6 @@
    1019942
   ],
   "proximos": [
-   972995,
    998661,
    391403,
    1012187,
@@ -340,7 +342,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.86,
+   "rating": 3.87,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -806,7 +808,7 @@
    "name": "The Legend of Zelda: Ocarina of Time",
    "released": "2026-11-05",
    "image": "https://media.rawg.io/media/games/c3b/c3bc70310175785b0c9d7bfc93624d5f.jpg",
-   "rating": null,
+   "rating": 5,
    "metacritic": null,
    "platforms": [
     "nintendo"
@@ -846,29 +848,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
-  },
-  "1020588": {
-   "id": 1020588,
-   "name": "FUTA GIRLS",
-   "released": "2026-10-23",
-   "image": "https://media.rawg.io/media/screenshots/7e9/7e98499e57e639acf44c4fbaeb8bd060.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5333520/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=FUTA%20GIRLS%20trailer"
   },
   "1020612": {
    "id": 1020612,
@@ -1445,14 +1424,25 @@
  "deals": [
   {
    "store": "Steam",
-   "id": 489830,
-   "name": "The Elder Scrolls V: Skyrim Special Edition",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
-   "discount": 80,
-   "original": 14900,
-   "final": 2980,
+   "id": 2909400,
+   "name": "FINAL FANTASY VII REBIRTH",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+   "discount": 85,
+   "original": 21990,
+   "final": 3298,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/489830"
+   "url": "https://store.steampowered.com/app/2909400"
+  },
+  {
+   "store": "Steam",
+   "id": 1462040,
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+   "discount": 82,
+   "original": 17490,
+   "final": 3148,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1462040"
   },
   {
    "store": "Steam",
@@ -1467,14 +1457,14 @@
   },
   {
    "store": "Steam",
-   "id": 476600,
-   "name": "Call of Duty®: WWII",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1780963893",
+   "id": 227300,
+   "name": "Euro Truck Simulator 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
    "discount": 75,
-   "original": 32990,
-   "final": 8247,
+   "original": 6699,
+   "final": 1674,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/476600"
+   "url": "https://store.steampowered.com/app/227300"
   },
   {
    "store": "Steam",
@@ -1511,17 +1501,6 @@
   },
   {
    "store": "Steam",
-   "id": 2536520,
-   "name": "Diablo II: Resurrected – Edição Infernal",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
-   "discount": 35,
-   "original": 17490,
-   "final": 11368,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2536520"
-  },
-  {
-   "store": "Steam",
    "id": 2406770,
    "name": "Bodycam",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
@@ -1546,143 +1525,113 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5485410,
-   "name": "Cosmic Crumbs: Bakery Simulator - First Bite",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5485410/908a2958bb4209ba2398a53d73335c4d19ce8d7f/header.jpg?t=1795010955",
+   "id": 5505310,
+   "name": "Drift Wreck: Online Racing",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5505310/db34594803906b296af169f0645205102a8f1426/header.jpg?t=1795103758",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5485410"
+   "url": "https://store.steampowered.com/app/5505310"
   },
   {
    "store": "Steam",
-   "id": 5449680,
-   "name": "Mini Legends Idle",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5449680/31e84970cf7a1ed5463072bb3bb1167044541f56/header.jpg?t=1795010426",
+   "id": 5472990,
+   "name": "猫猫放置",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472990/183a45d976d0c28bf01bba0a6962dd901e664583/header.jpg?t=1795101519",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5449680"
+   "url": "https://store.steampowered.com/app/5472990"
   },
   {
    "store": "Steam",
-   "id": 4078690,
-   "name": "Biztopia: Prologue",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078690/0754945ba8fda53877b1009c999bc137971f31e3/header.jpg?t=1795009894",
+   "id": 4727800,
+   "name": "Dyna-Brix",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727800/3f105fb57034e7eecb6a210b422f394aff76c5af/header.jpg?t=1794052794",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4078690"
+   "url": "https://store.steampowered.com/app/4727800"
   },
   {
    "store": "Steam",
-   "id": 5280780,
-   "name": "System Checks",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280780/d41c96f4564d9187c2d6cf77e38d73502e1c9400/header.jpg?t=1795005272",
+   "id": 5337960,
+   "name": "Pawnage Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5337960/0b080fdaa3c504c62a2bb11bbe4fc1470c069874/header.jpg?t=1795085284",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5280780"
+   "url": "https://store.steampowered.com/app/5337960"
   },
   {
    "store": "Steam",
-   "id": 3810590,
-   "name": "Celestial Decks",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810590/628bd60f827d74e6ecbfeb6d53f9d67042fb24fc/header.jpg?t=1795022490",
+   "id": 5439650,
+   "name": "Mythawake",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439650/95855806d457382d13c68cb7d2d5cd19aa3a3366/header.jpg?t=1794927062",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3810590"
+   "url": "https://store.steampowered.com/app/5439650"
   },
   {
    "store": "Steam",
-   "id": 5386130,
-   "name": "The Retired Mage's Apprentice: Tidy Up the Magic Tower Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5386130/bdfa971a4f3ae49f7c4bf3850bf43f1e0bdc15a4/header.jpg?t=1791389516",
+   "id": 5360650,
+   "name": "Spellraid",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360650/d57639b5ea3eff84ffa5277eaaae25c08d3b921a/header.jpg?t=1794966283",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5386130"
+   "url": "https://store.steampowered.com/app/5360650"
   },
   {
    "store": "Steam",
-   "id": 5374140,
-   "name": "Bullet Factory",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5374140/7c7b8a99fba21b4338c2f7b65671e589bbae61ea/header.jpg?t=1793222645",
+   "id": 5390220,
+   "name": "Vaatar",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390220/e10b6b57f16ea5cdc4ea6f431ef927dae87eea9f/header.jpg?t=1794942410",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5374140"
+   "url": "https://store.steampowered.com/app/5390220"
   },
   {
    "store": "Steam",
-   "id": 5425540,
-   "name": "Railtown Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5425540/e79928790d8afa6574b5a10345451aefd25c9265/header.jpg?t=1794826036",
+   "id": 5399320,
+   "name": "Bamboo Ronin: The Last Cut",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399320/61ef3311a82e0f171c5d281f1e368701fd0dfda4/header.jpg?t=1795098132",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5425540"
+   "url": "https://store.steampowered.com/app/5399320"
   },
   {
    "store": "Steam",
-   "id": 5557700,
-   "name": "JOHN GLEEP Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5557700/a8885397242648cb58db95dbfe8969225e6e9000/header.jpg?t=1795015842",
+   "id": 5418970,
+   "name": "Lucremachine",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5418970/f191336290c58f47f958a8cfd4b1f1bcd511b1c6/header.jpg?t=1794365289",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5557700"
+   "url": "https://store.steampowered.com/app/5418970"
   },
   {
    "store": "Steam",
-   "id": 4948940,
-   "name": "Swarmbreaker",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948940/9ca398a9595a2161d1178c2a34e235b86ecca845/header.jpg?t=1794913776",
+   "id": 4178540,
+   "name": "END US",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178540/96ca01e3889e524bb28c4b278636d052a85f0729/header.jpg?t=1794031100",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4948940"
+   "url": "https://store.steampowered.com/app/4178540"
   },
   {
    "store": "Steam",
-   "id": 4334650,
-   "name": "AlcheMice Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334650/ad25df8479b274bf3b824b48b419a9ff6ffc56f8/header.jpg?t=1794463961",
+   "id": 4928450,
+   "name": "Grand Theft Timeline",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928450/9856eb60fb023ea4c10ed38270e8fbd0159522ed/header.jpg?t=1795107946",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4334650"
-  },
-  {
-   "store": "Steam",
-   "id": 4654120,
-   "name": "Graveyard Orbit",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4654120/d63bcd6cc9a25cdc5fdbacaeb72647a76be7a574/header.jpg?t=1794828860",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4654120"
-  },
-  {
-   "store": "Steam",
-   "id": 5036870,
-   "name": "PLEASE CONFIRM THE DECEASED",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036870/47c13c7f5a2381fcef1e313d21f9070d032e9959/header.jpg?t=1794906314",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5036870"
-  },
-  {
-   "store": "Steam",
-   "id": 5094400,
-   "name": "Warchaic",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094400/9be1d1c385f15013f788eb3c9232e500476f9483/header.jpg?t=1793201695",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5094400"
+   "url": "https://store.steampowered.com/app/4928450"
   }
  ]
 }
