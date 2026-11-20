@@ -1,16 +1,13 @@
 {
- "updated": "2026-11-19T17:57:17.941Z",
- "today": "2026-11-19",
+ "updated": "2026-11-20T17:30:27.851Z",
+ "today": "2026-11-20",
  "sections": {
-  "hoje": [
-   972995
-  ],
+  "hoje": [],
   "destaques": [
    972995,
    962016,
    1019942,
    991568,
-   1004664,
    1020655,
    1016708,
    802450,
@@ -20,7 +17,8 @@
    1020665,
    1020666,
    1020670,
-   1020751
+   1020751,
+   1020588
   ],
   "lancamentos": [
    972995,
@@ -30,22 +28,7 @@
    1020815,
    1020750,
    1020728,
-   1020727,
-   1020670,
-   1020655,
-   1020667,
-   1020674,
-   1020677,
-   1020668,
-   1020672,
-   1020656,
-   1020675,
-   1020671,
-   1020726,
-   1020673,
-   1020676,
-   1020669,
-   1019942
+   1020727
   ],
   "proximos": [
    998661,
@@ -456,29 +439,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Aniimo%20trailer"
   },
-  "1004664": {
-   "id": 1004664,
-   "name": "Mycopunk",
-   "released": "2026-10-20",
-   "image": "https://media.rawg.io/media/games/cbf/cbf5b06692e82e312a5dc9db32ed5b4c.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Shooter",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3247750/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Mycopunk%20trailer"
-  },
   "1009246": {
    "id": 1009246,
    "name": "Arknights: Endfield",
@@ -849,6 +809,29 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
   },
+  "1020588": {
+   "id": 1020588,
+   "name": "FUTA GIRLS",
+   "released": "2026-10-23",
+   "image": "https://media.rawg.io/media/screenshots/7e9/7e98499e57e639acf44c4fbaeb8bd060.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5333520/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=FUTA%20GIRLS%20trailer"
+  },
   "1020612": {
    "id": 1020612,
    "name": "Virtue and a Sledgehammer",
@@ -892,29 +875,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20Underworld%20II%20trailer"
-  },
-  "1020656": {
-   "id": 1020656,
-   "name": "日本四季百景",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/ade/ade7890c59e00707c862c211d55e77ac.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5126810/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%E6%97%A5%E6%9C%AC%E5%9B%9B%E5%AD%A3%E7%99%BE%E6%99%AF%20trailer"
   },
   "1020665": {
    "id": 1020665,
@@ -962,75 +922,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=alda%20trailer"
   },
-  "1020667": {
-   "id": 1020667,
-   "name": "Ultima VI: The False Prophet (2026)",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/2e8/2e82d3014a02e3d72587856519bb9780.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067530/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20VI%3A%20The%20False%20Prophet%20(2026)%20trailer"
-  },
-  "1020668": {
-   "id": 1020668,
-   "name": "Ultima V: Warriors of Destiny (2026)",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/200/200c107a3a20b68feb69b2d277aa34a4.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067520/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20V%3A%20Warriors%20of%20Destiny%20(2026)%20trailer"
-  },
-  "1020669": {
-   "id": 1020669,
-   "name": "Ultima IV: Quest of the Avatar (2026)",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/f13/f13fcf27b43d7a7204f8d15df28730a3.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067510/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20IV%3A%20Quest%20of%20the%20Avatar%20(2026)%20trailer"
-  },
   "1020670": {
    "id": 1020670,
    "name": "Ultima III: Exodus (2026)",
@@ -1054,52 +945,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20III%3A%20Exodus%20(2026)%20trailer"
   },
-  "1020671": {
-   "id": 1020671,
-   "name": "Ultima VII: The Complete Edition",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/018/018044801bf7dd0434c3656b13212d21.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067540/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20VII%3A%20The%20Complete%20Edition%20trailer"
-  },
-  "1020672": {
-   "id": 1020672,
-   "name": "Ultima I: The First Age of Darkness (2026)",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/138/138b2435fed69acd3fb8d087dd83b5cc.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067480/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20I%3A%20The%20First%20Age%20of%20Darkness%20(2026)%20trailer"
-  },
   "1020673": {
    "id": 1020673,
    "name": "Ultima VIII Gold Edition",
@@ -1121,121 +966,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20VIII%20Gold%20Edition%20trailer"
-  },
-  "1020674": {
-   "id": 1020674,
-   "name": "Ultima II: The Revenge of the Enchantress (2026)",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/daa/daaf2aab273438331e32ef0b5b74c22d.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067490/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20II%3A%20The%20Revenge%20of%20the%20Enchantress%20(2026)%20trailer"
-  },
-  "1020675": {
-   "id": 1020675,
-   "name": "Ultima Underworld 1",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/a59/a59e9be295d06b16350108784c369530.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "RPG"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3067580/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20Underworld%201%20trailer"
-  },
-  "1020676": {
-   "id": 1020676,
-   "name": "Absorber Hero RPG",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/419/4195d058849ec640784bcf6c1d1c0bba.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5390840/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Absorber%20Hero%20RPG%20trailer"
-  },
-  "1020677": {
-   "id": 1020677,
-   "name": "DriveGear",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/a26/a26dddd37911a9915b61cf41d605e962.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Adventure",
-    "Action"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5043660/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=DriveGear%20trailer"
-  },
-  "1020726": {
-   "id": 1020726,
-   "name": "Player Life: The Seven Islands",
-   "released": "2026-11-05",
-   "image": "https://media.rawg.io/media/screenshots/6b7/6b72f9f8ac4441ff94e318f46f514a62.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5031030/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Player%20Life%3A%20The%20Seven%20Islands%20trailer"
   },
   "1020727": {
    "id": 1020727,
@@ -1446,192 +1176,213 @@
   },
   {
    "store": "Steam",
-   "id": 311210,
-   "name": "Call of Duty®: Black Ops III",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-   "discount": 75,
-   "original": 32990,
-   "final": 8247,
+   "id": 1426210,
+   "name": "It Takes Two",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+   "discount": 80,
+   "original": 19900,
+   "final": 3980,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/311210"
+   "url": "https://store.steampowered.com/app/1426210"
   },
   {
    "store": "Steam",
-   "id": 227300,
-   "name": "Euro Truck Simulator 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-   "discount": 75,
-   "original": 6699,
-   "final": 1674,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/227300"
-  },
-  {
-   "store": "Steam",
-   "id": 12210,
-   "name": "Grand Theft Auto IV: The Complete Edition",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-   "discount": 70,
-   "original": 7900,
-   "final": 2370,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/12210"
-  },
-  {
-   "store": "Steam",
-   "id": 1771300,
-   "name": "Kingdom Come: Deliverance II",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+   "id": 1259420,
+   "name": "Days Gone",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
    "discount": 67,
-   "original": 29900,
-   "final": 9867,
+   "original": 19950,
+   "final": 6583,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1771300"
+   "url": "https://store.steampowered.com/app/1259420"
   },
   {
    "store": "Steam",
-   "id": 5037200,
-   "name": "just volleyball",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-   "discount": 38,
-   "original": 2749,
-   "final": 1704,
+   "id": 1593500,
+   "name": "God of War",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+   "discount": 60,
+   "original": 19990,
+   "final": 7996,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5037200"
+   "url": "https://store.steampowered.com/app/1593500"
   },
   {
    "store": "Steam",
-   "id": 2406770,
-   "name": "Bodycam",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
-   "discount": 20,
-   "original": 10199,
-   "final": 8159,
+   "id": 1817070,
+   "name": "Marvel’s Spider-Man Remastered",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "discount": 60,
+   "original": 24990,
+   "final": 9996,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2406770"
+   "url": "https://store.steampowered.com/app/1817070"
   },
   {
    "store": "Steam",
-   "id": 3321460,
-   "name": "Crimson Desert Enhanced",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/236f3814be7a97d86831800691b6096d449222a8/header.jpg?t=1794478066",
-   "discount": 20,
-   "original": 34999,
-   "final": 27999,
+   "id": 2215430,
+   "name": "Ghost of Tsushima DIRECTOR'S CUT",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+   "discount": 50,
+   "original": 24990,
+   "final": 12495,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3321460"
+   "url": "https://store.steampowered.com/app/2215430"
+  },
+  {
+   "store": "Steam",
+   "id": 2531310,
+   "name": "The Last of Us™ Parte II Remastered",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+   "discount": 33,
+   "original": 19990,
+   "final": 13393,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2531310"
+  },
+  {
+   "store": "Steam",
+   "id": 2322010,
+   "name": "God of War Ragnarök",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+   "discount": 33,
+   "original": 24990,
+   "final": 16743,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2322010"
+  },
+  {
+   "store": "Steam",
+   "id": 2651280,
+   "name": "Marvel's Spider-Man 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+   "discount": 33,
+   "original": 24990,
+   "final": 16743,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/2651280"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5505310,
-   "name": "Drift Wreck: Online Racing",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5505310/db34594803906b296af169f0645205102a8f1426/header.jpg?t=1795103758",
+   "id": 5373670,
+   "name": "Shards of Veyara",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373670/84da5ce660a50bea3951c56ea0dfbde63899ee37/header.jpg?t=1795186472",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5505310"
+   "url": "https://store.steampowered.com/app/5373670"
   },
   {
    "store": "Steam",
-   "id": 5472990,
-   "name": "猫猫放置",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472990/183a45d976d0c28bf01bba0a6962dd901e664583/header.jpg?t=1795101519",
+   "id": 5125210,
+   "name": "THUD: Dicey Reload",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125210/a77d825f5ddbd3b8ac65b4dcfc9cb66390efb3ce/header.jpg?t=1795184982",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5472990"
+   "url": "https://store.steampowered.com/app/5125210"
   },
   {
    "store": "Steam",
-   "id": 4727800,
-   "name": "Dyna-Brix",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727800/3f105fb57034e7eecb6a210b422f394aff76c5af/header.jpg?t=1794052794",
+   "id": 5032890,
+   "name": "Medieval Adventure",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032890/9a6d3168e3c5b9929c7c0c8a8e7c38ba7d7396d8/header.jpg?t=1795156982",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4727800"
+   "url": "https://store.steampowered.com/app/5032890"
   },
   {
    "store": "Steam",
-   "id": 5337960,
-   "name": "Pawnage Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5337960/0b080fdaa3c504c62a2bb11bbe4fc1470c069874/header.jpg?t=1795085284",
+   "id": 5244700,
+   "name": "Wyrmhold",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5244700/bdd66b137979a15b460eba46cbe30392d7315470/header.jpg?t=1794938976",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5337960"
+   "url": "https://store.steampowered.com/app/5244700"
   },
   {
    "store": "Steam",
-   "id": 5439650,
-   "name": "Mythawake",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439650/95855806d457382d13c68cb7d2d5cd19aa3a3366/header.jpg?t=1794927062",
+   "id": 5539830,
+   "name": "Clash of Crests - The Purple and the Fire",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5539830/f468e87e4fce9080d312534d2d7a11688184d159/header.jpg?t=1794988182",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5439650"
+   "url": "https://store.steampowered.com/app/5539830"
   },
   {
    "store": "Steam",
-   "id": 5360650,
-   "name": "Spellraid",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360650/d57639b5ea3eff84ffa5277eaaae25c08d3b921a/header.jpg?t=1794966283",
+   "id": 5309380,
+   "name": "Hidden Front",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5309380/d83d51b174da6865f87858f4c65cad6a02e9a9c4/header.jpg?t=1792723324",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5360650"
+   "url": "https://store.steampowered.com/app/5309380"
   },
   {
    "store": "Steam",
-   "id": 5390220,
-   "name": "Vaatar",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390220/e10b6b57f16ea5cdc4ea6f431ef927dae87eea9f/header.jpg?t=1794942410",
+   "id": 4924900,
+   "name": "TURBOCARDS",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924900/b8107a2246d965fbde467a27ec02922dc6d25cf7/header.jpg?t=1793885450",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5390220"
+   "url": "https://store.steampowered.com/app/4924900"
   },
   {
    "store": "Steam",
-   "id": 5399320,
-   "name": "Bamboo Ronin: The Last Cut",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399320/61ef3311a82e0f171c5d281f1e368701fd0dfda4/header.jpg?t=1795098132",
+   "id": 5531790,
+   "name": "Desert Cleaner",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531790/af9e456d45a9d6080e52bc791d6f95ed6fb088a5/header.jpg?t=1795134049",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5399320"
+   "url": "https://store.steampowered.com/app/5531790"
   },
   {
    "store": "Steam",
-   "id": 5418970,
-   "name": "Lucremachine",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5418970/f191336290c58f47f958a8cfd4b1f1bcd511b1c6/header.jpg?t=1794365289",
+   "id": 5561740,
+   "name": "Do You Know Me? Demo",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5561740/441d57b2e80d7c090eecb889719efb993c0f2ffe/header.jpg?t=1794250712",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5418970"
+   "url": "https://store.steampowered.com/app/5561740"
   },
   {
    "store": "Steam",
-   "id": 4178540,
-   "name": "END US",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178540/96ca01e3889e524bb28c4b278636d052a85f0729/header.jpg?t=1794031100",
+   "id": 5439180,
+   "name": "Stable Champs",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5439180/05095788bd6ad47a67a798777f935d995ebc4c93/header.jpg?t=1794169448",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4178540"
+   "url": "https://store.steampowered.com/app/5439180"
   },
   {
    "store": "Steam",
-   "id": 4928450,
-   "name": "Grand Theft Timeline",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928450/9856eb60fb023ea4c10ed38270e8fbd0159522ed/header.jpg?t=1795107946",
+   "id": 5130880,
+   "name": "Digbound",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5130880/14120ac91494875ee987482124c432dd2d9c4e19/header.jpg?t=1794410062",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4928450"
+   "url": "https://store.steampowered.com/app/5130880"
+  },
+  {
+   "store": "Steam",
+   "id": 4811080,
+   "name": "No Visitors Allowed",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811080/ab006dbf06247bc3e6701e9ef3b7d912826eee37/header.jpg?t=1794324871",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4811080"
   }
  ]
 }
