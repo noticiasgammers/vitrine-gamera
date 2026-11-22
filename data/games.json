@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:35:18.874Z",
- "today": "2026-11-21",
+ "updated": "2026-11-22T16:52:33.844Z",
+ "today": "2026-11-22",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -12,8 +12,8 @@
    1016708,
    802450,
    1020612,
+   1020989,
    1020673,
-   1020545,
    1020665,
    1020666,
    1020670,
@@ -33,10 +33,9 @@
    1020815,
    1020750,
    1020880,
+   1020989,
    1020959,
-   1020958,
-   1020957,
-   1020728
+   1020958
   ],
   "proximos": [
    998661,
@@ -333,7 +332,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.85,
+   "rating": 3.83,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -794,29 +793,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time%20trailer"
   },
-  "1020545": {
-   "id": 1020545,
-   "name": "Sakura Hime 7",
-   "released": "2026-10-22",
-   "image": "https://media.rawg.io/media/screenshots/8a2/8a200b4386e958f37911b0a66dcc887a.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3596870/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Sakura%20Hime%207%20trailer"
-  },
   "1020612": {
    "id": 1020612,
    "name": "Virtue and a Sledgehammer",
@@ -951,29 +927,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20VIII%20Gold%20Edition%20trailer"
-  },
-  "1020728": {
-   "id": 1020728,
-   "name": "Flirt Simulator",
-   "released": "2026-11-07",
-   "image": "https://media.rawg.io/media/screenshots/540/5406bbbe3abdead558e111bb059d7786.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "RPG",
-    "Simulation"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/4541310/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Flirt%20Simulator%20trailer"
   },
   "1020750": {
    "id": 1020750,
@@ -1157,28 +1110,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Dispatch%20Control%20trailer"
   },
-  "1020957": {
-   "id": 1020957,
-   "name": "百鬼盤",
-   "released": "2026-11-07",
-   "image": "https://media.rawg.io/media/screenshots/2cc/2ccbd853d4536f499eb9bc8a12341773.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5138130/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=%E7%99%BE%E9%AC%BC%E7%9B%A4%20trailer"
-  },
   "1020958": {
    "id": 1020958,
    "name": "Grim Deck",
@@ -1335,6 +1266,28 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Pocket%20Furry%20trailer"
+  },
+  "1020989": {
+   "id": 1020989,
+   "name": "Takeover 2",
+   "released": "2026-11-10",
+   "image": "https://media.rawg.io/media/screenshots/231/23116a1c9345b98b4205b046e075967a.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Action"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4423270/Takeover_2/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Takeover%202%20trailer"
   }
  },
  "deals": [
@@ -1348,6 +1301,17 @@
    "final": 3298,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/2909400"
+  },
+  {
+   "store": "Steam",
+   "id": 1462040,
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+   "discount": 82,
+   "original": 17490,
+   "final": 3148,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1462040"
   },
   {
    "store": "Steam",
@@ -1428,17 +1392,6 @@
   },
   {
    "store": "Steam",
-   "id": 2322010,
-   "name": "God of War Ragnarök",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
-   "discount": 33,
-   "original": 24990,
-   "final": 16743,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2322010"
-  },
-  {
-   "store": "Steam",
    "id": 2483190,
    "name": "Forza Horizon 6",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
@@ -1452,109 +1405,49 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 4612690,
-   "name": "Slutopia",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612690/b6fe360d2ab62288acc7dfbd4122e507ea7807f0/header_alt_assets_3.jpg?t=1795273591",
+   "id": 5111020,
+   "name": "Lost Gateways",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111020/d720dae7125bf21c86095dd17be54f6418e5c7e1/header.jpg?t=1795308056",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4612690"
+   "url": "https://store.steampowered.com/app/5111020"
   },
   {
    "store": "Steam",
-   "id": 4968090,
-   "name": "Lovely Cafe: Lusty Latte",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968090/5c4ddab6b8dfefc884ee55199bf2e102a6bf7513/header_alt_assets_0.jpg?t=1795271729",
+   "id": 4947000,
+   "name": "Idle Minertia",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947000/1756fc3ecf52c29171a4fc0903b23cd5065a8aab/header.jpg?t=1795306121",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4968090"
+   "url": "https://store.steampowered.com/app/4947000"
   },
   {
    "store": "Steam",
-   "id": 5251630,
-   "name": "Rule 34 Place",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5251630/e6a7b244af7e15d7662d84fab7dfabb22f852dda/header.jpg?t=1795268943",
+   "id": 3990350,
+   "name": "Arithmetic Arena",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990350/9d96f233c491637aeb1013413511a246bc9beba8/header.jpg?t=1795351279",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5251630"
+   "url": "https://store.steampowered.com/app/3990350"
   },
   {
    "store": "Steam",
-   "id": 5256600,
-   "name": "King's : The Eight Tribes",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256600/3097ff152429dfcf3f188fa62d12a3e0ce4ae0ea/header.jpg?t=1795258200",
+   "id": 4986680,
+   "name": "Mana Ledger",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986680/0b96cafa8f7c89ce800f90879eb9f5ba7cee4be8/header.jpg?t=1795290415",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5256600"
-  },
-  {
-   "store": "Steam",
-   "id": 5087470,
-   "name": "Party Link",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087470/0f79355d4d3876114ccab5f77f91505a8e363fbf/header.jpg?t=1795246621",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5087470"
-  },
-  {
-   "store": "Steam",
-   "id": 4440750,
-   "name": "Aftertaste",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440750/0b2a9ee2acbf1386e32b91a5f9171277f4d867cf/header.jpg?t=1795240255",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4440750"
-  },
-  {
-   "store": "Steam",
-   "id": 5032040,
-   "name": "100个师兄爱上我",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032040/fb7a94938cdef87f61d74f6147311c0d8218c052/header.jpg?t=1795231163",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5032040"
-  },
-  {
-   "store": "Steam",
-   "id": 4859890,
-   "name": "Beyond the Masque of the Red Death",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/3b7b4d30caba4613b099c56bff648060239b94f3/header.jpg?t=1795214545",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4859890"
-  },
-  {
-   "store": "Steam",
-   "id": 5403220,
-   "name": "How to grow a man · 7-Character Epilogue DLC",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5403220/14f9c5625a3ac2f9f57625c3bf892f8b4fecf787/header.jpg?t=1795165126",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5403220"
-  },
-  {
-   "store": "Steam",
-   "id": 5158540,
-   "name": "Keep The Ammo Flowing",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158540/59eecf20079f65dce621eec2d75dd2de0f752ee8/header.jpg?t=1795017456",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5158540"
+   "url": "https://store.steampowered.com/app/4986680"
   },
   {
    "store": "Steam",
    "id": 5492690,
    "name": "Night Wash: GE-418-NK",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7ff5f225cc15d2738316baa1496d2d95ca78cc8c/header.jpg?t=1795106628",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7ff5f225cc15d2738316baa1496d2d95ca78cc8c/header.jpg?t=1795348321",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
@@ -1574,7 +1467,7 @@
    "store": "Steam",
    "id": 4845070,
    "name": "Ravenhill: Initiation",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845070/ca59ba32aa1aa5a41247e7bf48cf3d259fd0220f/header.jpg?t=1793906427",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845070/ca59ba32aa1aa5a41247e7bf48cf3d259fd0220f/header.jpg?t=1795356958",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
@@ -1612,13 +1505,43 @@
   },
   {
    "store": "Steam",
-   "id": 5544230,
-   "name": "Gorse Roll",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5544230/d7bd4ca9511606b3f67c9fd52ba2f0a96ed30ab8/header.jpg?t=1794857004",
+   "id": 4538150,
+   "name": "After Hue",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538150/946f95890a67c99eef4de6b9e24324f02af832fa/header.jpg?t=1793539256",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5544230"
+   "url": "https://store.steampowered.com/app/4538150"
+  },
+  {
+   "store": "Steam",
+   "id": 5325990,
+   "name": "OVERDRIVE PINBALL",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325990/d230d6e3c2885adcc45984e11433b7c4aa296e26/header.jpg?t=1795127100",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5325990"
+  },
+  {
+   "store": "Steam",
+   "id": 5014420,
+   "name": "にゃんこサバイバー",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014420/c105386c6f563cccb96dd6130ff9d187fce56716/header.jpg?t=1794906890",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5014420"
+  },
+  {
+   "store": "Steam",
+   "id": 5532230,
+   "name": "AMOS Studio",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532230/4c8b03cb1e938798a2eef593ca66f4e99db53c0c/header.jpg?t=1794366534",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5532230"
   }
  ]
 }
