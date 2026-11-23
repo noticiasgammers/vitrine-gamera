@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T16:52:33.844Z",
- "today": "2026-11-22",
+ "updated": "2026-11-23T20:50:47.696Z",
+ "today": "2026-11-23",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -1293,6 +1293,17 @@
  "deals": [
   {
    "store": "Steam",
+   "id": 1222140,
+   "name": "Detroit: Become Human",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+   "discount": 90,
+   "original": 19999,
+   "final": 1999,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1222140"
+  },
+  {
+   "store": "Steam",
    "id": 2909400,
    "name": "FINAL FANTASY VII REBIRTH",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
@@ -1301,17 +1312,6 @@
    "final": 3298,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/2909400"
-  },
-  {
-   "store": "Steam",
-   "id": 1462040,
-   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-   "discount": 82,
-   "original": 17490,
-   "final": 3148,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1462040"
   },
   {
    "store": "Steam",
@@ -1326,14 +1326,14 @@
   },
   {
    "store": "Steam",
-   "id": 1259420,
-   "name": "Days Gone",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-   "discount": 67,
-   "original": 19950,
-   "final": 6583,
+   "id": 1174180,
+   "name": "Red Dead Redemption 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+   "discount": 75,
+   "original": 29990,
+   "final": 7497,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1259420"
+   "url": "https://store.steampowered.com/app/1174180"
   },
   {
    "store": "Steam",
@@ -1348,25 +1348,14 @@
   },
   {
    "store": "Steam",
-   "id": 1817070,
-   "name": "Marvel’s Spider-Man Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-   "discount": 60,
-   "original": 24990,
-   "final": 9996,
+   "id": 3240220,
+   "name": "Grand Theft Auto V Enhanced",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+   "discount": 56,
+   "original": 22490,
+   "final": 9895,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1817070"
-  },
-  {
-   "store": "Steam",
-   "id": 1551360,
-   "name": "Forza Horizon 5",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
-   "discount": 60,
-   "original": 24900,
-   "final": 9960,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/1551360"
+   "url": "https://store.steampowered.com/app/3240220"
   },
   {
    "store": "Steam",
@@ -1381,167 +1370,208 @@
   },
   {
    "store": "Steam",
-   "id": 2531310,
-   "name": "The Last of Us™ Parte II Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-   "discount": 33,
-   "original": 19990,
-   "final": 13393,
+   "id": 3768760,
+   "name": "007 First Light",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
+   "discount": 50,
+   "original": 29900,
+   "final": 14950,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2531310"
+   "url": "https://store.steampowered.com/app/3768760"
   },
   {
    "store": "Steam",
-   "id": 2483190,
-   "name": "Forza Horizon 6",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-   "discount": 25,
-   "original": 29900,
-   "final": 22425,
+   "id": 5037200,
+   "name": "just volleyball",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+   "discount": 38,
+   "original": 2749,
+   "final": 1704,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2483190"
+   "url": "https://store.steampowered.com/app/5037200"
+  },
+  {
+   "store": "Steam",
+   "id": 1086940,
+   "name": "Baldur's Gate 3",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+   "discount": 30,
+   "original": 19999,
+   "final": 13999,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1086940"
   }
  ],
  "freeGames": [
   {
    "store": "Steam",
-   "id": 5111020,
-   "name": "Lost Gateways",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111020/d720dae7125bf21c86095dd17be54f6418e5c7e1/header.jpg?t=1795308056",
+   "id": 2928640,
+   "name": "Countryball: World 1930",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928640/12b870f6b411fa32ae31e689d2d386202a408dc5/header.jpg?t=1795461040",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5111020"
+   "url": "https://store.steampowered.com/app/2928640"
   },
   {
    "store": "Steam",
-   "id": 4947000,
-   "name": "Idle Minertia",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947000/1756fc3ecf52c29171a4fc0903b23cd5065a8aab/header.jpg?t=1795306121",
+   "id": 5517900,
+   "name": "Yeat",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5517900/c7c6071aea0eaaa50e5a23eecb0fe903a2941764/header.jpg?t=1795458966",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4947000"
+   "url": "https://store.steampowered.com/app/5517900"
   },
   {
    "store": "Steam",
-   "id": 3990350,
-   "name": "Arithmetic Arena",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990350/9d96f233c491637aeb1013413511a246bc9beba8/header.jpg?t=1795351279",
+   "id": 5123580,
+   "name": "Alienshire",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123580/96b31299c3dc594ef2bce73d6b2da6e3edea8c37/header.jpg?t=1795457150",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3990350"
+   "url": "https://store.steampowered.com/app/5123580"
   },
   {
    "store": "Steam",
-   "id": 4986680,
-   "name": "Mana Ledger",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986680/0b96cafa8f7c89ce800f90879eb9f5ba7cee4be8/header.jpg?t=1795290415",
+   "id": 4268170,
+   "name": "Pekka Kana 2",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268170/bf31e25349ab5826ee621b4df2f73ae16539696b/header.jpg?t=1795453335",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4986680"
+   "url": "https://store.steampowered.com/app/4268170"
   },
   {
    "store": "Steam",
-   "id": 5492690,
-   "name": "Night Wash: GE-418-NK",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492690/7ff5f225cc15d2738316baa1496d2d95ca78cc8c/header.jpg?t=1795348321",
+   "id": 3757940,
+   "name": "StarFront: Lancers",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757940/331d861345eca22fa0e0d7fe1c2f11bd0c7bf2dd/header.jpg?t=1795450931",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5492690"
+   "url": "https://store.steampowered.com/app/3757940"
   },
   {
    "store": "Steam",
-   "id": 5172070,
-   "name": "Incraiders",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5172070/22f2e119e91dee8e9b8df4d424d9b9fc29323f6e/header.jpg?t=1795263822",
+   "id": 4395610,
+   "name": "Deilist: And Nothing Remains",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395610/9bc0eca6ff4a568a84254b54f9f14822dc0c0430/header.jpg?t=1795450340",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5172070"
+   "url": "https://store.steampowered.com/app/4395610"
   },
   {
    "store": "Steam",
-   "id": 4845070,
-   "name": "Ravenhill: Initiation",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845070/ca59ba32aa1aa5a41247e7bf48cf3d259fd0220f/header.jpg?t=1795356958",
+   "id": 4855670,
+   "name": " idle koi!",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855670/ae73d6c2698c18c232d60884074cfdfbf42e0410/header.jpg?t=1795449894",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4845070"
+   "url": "https://store.steampowered.com/app/4855670"
   },
   {
    "store": "Steam",
-   "id": 4985310,
-   "name": "Sara The Sexy Thief Censored!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985310/2e55c0446f87029a25a214f4e2222fece0584ba4/header.jpg?t=1795069453",
+   "id": 5496040,
+   "name": "Catch the Button",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5496040/8241113d7082530de4d57110fd1120995345a6d6/header.jpg?t=1794681534",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4985310"
+   "url": "https://store.steampowered.com/app/5496040"
   },
   {
    "store": "Steam",
-   "id": 3006460,
-   "name": "Sukfaristo Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3006460/3a316a58c2bdfb1f8233ca83528a6105dcb25f23/header.jpg?t=1795235375",
+   "id": 4032410,
+   "name": "OnlySins",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032410/2e6645547d63f81974e558123d738c1717c7b590/header.jpg?t=1794423545",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3006460"
+   "url": "https://store.steampowered.com/app/4032410"
   },
   {
    "store": "Steam",
-   "id": 3953900,
-   "name": "Egg Souls",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3953900/877a659ab9fecbff0d4805b2e3adb7e7e18bd5d0/header.jpg?t=1794937337",
+   "id": 3471380,
+   "name": "Star Purr",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471380/e487d3bc0be43265fffe92f5f440fb863224c512/header.jpg?t=1793682246",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3953900"
+   "url": "https://store.steampowered.com/app/3471380"
   },
   {
    "store": "Steam",
-   "id": 4538150,
-   "name": "After Hue",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538150/946f95890a67c99eef4de6b9e24324f02af832fa/header.jpg?t=1793539256",
+   "id": 5584870,
+   "name": "Le Cœur de l'Hydre",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584870/0a640c808a96d56e277fd64d94518bc68c1ded28/header.jpg?t=1795189098",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4538150"
+   "url": "https://store.steampowered.com/app/5584870"
   },
   {
    "store": "Steam",
-   "id": 5325990,
-   "name": "OVERDRIVE PINBALL",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325990/d230d6e3c2885adcc45984e11433b7c4aa296e26/header.jpg?t=1795127100",
+   "id": 3010690,
+   "name": "Abyssal Station",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010690/2fa6d2300b01ae377ee6962d6133ac0f0b542144/header.jpg?t=1795136910",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5325990"
+   "url": "https://store.steampowered.com/app/3010690"
   },
   {
    "store": "Steam",
-   "id": 5014420,
-   "name": "にゃんこサバイバー",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014420/c105386c6f563cccb96dd6130ff9d187fce56716/header.jpg?t=1794906890",
+   "id": 5434020,
+   "name": "Terminus: Day Zero - Soundtrack",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434020/46d6e37b75ef06ad52266473ac303215ffce0805/header.jpg?t=1793857927",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5014420"
+   "url": "https://store.steampowered.com/app/5434020"
   },
   {
    "store": "Steam",
-   "id": 5532230,
-   "name": "AMOS Studio",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532230/4c8b03cb1e938798a2eef593ca66f4e99db53c0c/header.jpg?t=1794366534",
+   "id": 4416390,
+   "name": "Terminus: Day Zero",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416390/40e0a1dd657fd5c7d7c23bb365c92811a9bdc205/header.jpg?t=1795419451",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5532230"
+   "url": "https://store.steampowered.com/app/4416390"
+  },
+  {
+   "store": "Steam",
+   "id": 4906740,
+   "name": "KARAKARA3",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906740/09ede4073a0839d09724cf6da07677bf3b99f941/header.jpg?t=1794634931",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4906740"
+  },
+  {
+   "store": "Steam",
+   "id": 5033740,
+   "name": "PRINCESS VANGUARD",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033740/8b7455370b52f8d19d216486331f1e37189f122a/header.jpg?t=1795160820",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/5033740"
+  },
+  {
+   "store": "Steam",
+   "id": 4346860,
+   "name": "爱丽丝与花坊：Lo-Fi",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346860/5fdc35fda50877da06e18aabfa935ddbbca60098/header.jpg?t=1794841359",
+   "kind": "f2p",
+   "original": 0,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/4346860"
   }
  ]
 }
