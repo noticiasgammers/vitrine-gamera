@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:50:47.696Z",
- "today": "2026-11-23",
+ "updated": "2026-11-24T19:55:24.477Z",
+ "today": "2026-11-24",
  "sections": {
   "hoje": [],
   "destaques": [
@@ -18,9 +18,10 @@
    1020666,
    1020670,
    1020751,
-   1020953
+   1020962
   ],
   "lancamentos": [
+   1020993,
    972995,
    1020964,
    1020963,
@@ -34,8 +35,7 @@
    1020750,
    1020880,
    1020989,
-   1020959,
-   1020958
+   1020959
   ],
   "proximos": [
    998661,
@@ -332,7 +332,7 @@
    "name": "Grand Theft Auto VI",
    "released": "2026-11-19",
    "image": "https://media.rawg.io/media/games/734/7342a1cd82c8997ec620084ae4c2e7e4.jpg",
-   "rating": 3.83,
+   "rating": 3.84,
    "metacritic": null,
    "platforms": [
     "playstation",
@@ -1087,52 +1087,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Rude%20Supermarket%20Simulator%20trailer"
   },
-  "1020953": {
-   "id": 1020953,
-   "name": "Dispatch Control",
-   "released": "2026-10-24",
-   "image": "https://media.rawg.io/media/screenshots/812/8129a038b09f0f18101e6262184d2468.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy",
-    "Simulation"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/3752410/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Dispatch%20Control%20trailer"
-  },
-  "1020958": {
-   "id": 1020958,
-   "name": "Grim Deck",
-   "released": "2026-11-09",
-   "image": "https://media.rawg.io/media/screenshots/3e4/3e48aa032b949617e788bbf0e288c6c5.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Strategy",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/5486980/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=Grim%20Deck%20trailer"
-  },
   "1020959": {
    "id": 1020959,
    "name": "Thieves and Gold",
@@ -1288,6 +1242,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Takeover%202%20trailer"
+  },
+  "1020993": {
+   "id": 1020993,
+   "name": "Deluge: Raintime",
+   "released": "2026-11-20",
+   "image": "https://media.rawg.io/media/screenshots/00e/00e77639e3b8a2b81ec079f8a03b2564.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Indie",
+    "Adventure"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/4242850/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Deluge%3A%20Raintime%20trailer"
   }
  },
  "deals": [
@@ -1304,14 +1281,14 @@
   },
   {
    "store": "Steam",
-   "id": 2909400,
-   "name": "FINAL FANTASY VII REBIRTH",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-   "discount": 85,
-   "original": 21990,
-   "final": 3298,
+   "id": 990080,
+   "name": "Hogwarts Legacy",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+   "discount": 90,
+   "original": 24999,
+   "final": 2499,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2909400"
+   "url": "https://store.steampowered.com/app/990080"
   },
   {
    "store": "Steam",
@@ -1337,6 +1314,17 @@
   },
   {
    "store": "Steam",
+   "id": 1817070,
+   "name": "Marvel’s Spider-Man Remastered",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+   "discount": 60,
+   "original": 24990,
+   "final": 9996,
+   "currency": "BRL",
+   "url": "https://store.steampowered.com/app/1817070"
+  },
+  {
+   "store": "Steam",
    "id": 1593500,
    "name": "God of War",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
@@ -1359,17 +1347,6 @@
   },
   {
    "store": "Steam",
-   "id": 2215430,
-   "name": "Ghost of Tsushima DIRECTOR'S CUT",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-   "discount": 50,
-   "original": 24990,
-   "final": 12495,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2215430"
-  },
-  {
-   "store": "Steam",
    "id": 3768760,
    "name": "007 First Light",
    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
@@ -1381,14 +1358,14 @@
   },
   {
    "store": "Steam",
-   "id": 5037200,
-   "name": "just volleyball",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-   "discount": 38,
-   "original": 2749,
-   "final": 1704,
+   "id": 570940,
+   "name": "DARK SOULS™: REMASTERED",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
+   "discount": 50,
+   "original": 15490,
+   "final": 7745,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5037200"
+   "url": "https://store.steampowered.com/app/570940"
   },
   {
    "store": "Steam",
@@ -1405,173 +1382,123 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 2928640,
-   "name": "Countryball: World 1930",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928640/12b870f6b411fa32ae31e689d2d386202a408dc5/header.jpg?t=1795461040",
+   "id": 5567470,
+   "name": "Day of the Smudgies",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5567470/cea07a6bc24a7b32a0774ac147261e1933d969bc/header.jpg?t=1795543301",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2928640"
+   "url": "https://store.steampowered.com/app/5567470"
   },
   {
    "store": "Steam",
-   "id": 5517900,
-   "name": "Yeat",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5517900/c7c6071aea0eaaa50e5a23eecb0fe903a2941764/header.jpg?t=1795458966",
+   "id": 4188150,
+   "name": "Atomic Brain",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188150/cc2c4947359f2ca913b4df93f6a233cf99fb8e91/header.jpg?t=1795537800",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5517900"
+   "url": "https://store.steampowered.com/app/4188150"
   },
   {
    "store": "Steam",
-   "id": 5123580,
-   "name": "Alienshire",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123580/96b31299c3dc594ef2bce73d6b2da6e3edea8c37/header.jpg?t=1795457150",
+   "id": 5436360,
+   "name": "BitLoaf",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5436360/8d7d947ea0880826e867d1e653daa439339f8714/header.jpg?t=1795455980",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5123580"
+   "url": "https://store.steampowered.com/app/5436360"
   },
   {
    "store": "Steam",
-   "id": 4268170,
-   "name": "Pekka Kana 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268170/bf31e25349ab5826ee621b4df2f73ae16539696b/header.jpg?t=1795453335",
+   "id": 3576560,
+   "name": "The Shadow Cosmos",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576560/3353b1eeb1691948a0ad14b1d285c92c40131a88/header.jpg?t=1786207909",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4268170"
+   "url": "https://store.steampowered.com/app/3576560"
   },
   {
    "store": "Steam",
-   "id": 3757940,
-   "name": "StarFront: Lancers",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757940/331d861345eca22fa0e0d7fe1c2f11bd0c7bf2dd/header.jpg?t=1795450931",
+   "id": 4877420,
+   "name": "Rec Room: A New Semester",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877420/6d88436778cc8e50fd67596e2d97e1e2977e6a5a/header.jpg?t=1795548642",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3757940"
+   "url": "https://store.steampowered.com/app/4877420"
   },
   {
    "store": "Steam",
-   "id": 4395610,
-   "name": "Deilist: And Nothing Remains",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395610/9bc0eca6ff4a568a84254b54f9f14822dc0c0430/header.jpg?t=1795450340",
+   "id": 5457370,
+   "name": "The drawing of the Exodus",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5457370/9a8bb4f042b1b9de2c8220217213626beecccda5/header.jpg?t=1793131163",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4395610"
+   "url": "https://store.steampowered.com/app/5457370"
   },
   {
    "store": "Steam",
-   "id": 4855670,
-   "name": " idle koi!",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855670/ae73d6c2698c18c232d60884074cfdfbf42e0410/header.jpg?t=1795449894",
+   "id": 3992000,
+   "name": "FC Tycoon 2027",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992000/f07756eb9604c313c62106468ac7cbf2faf7a0e3/header.jpg?t=1795459467",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4855670"
+   "url": "https://store.steampowered.com/app/3992000"
   },
   {
    "store": "Steam",
-   "id": 5496040,
-   "name": "Catch the Button",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5496040/8241113d7082530de4d57110fd1120995345a6d6/header.jpg?t=1794681534",
+   "id": 5470000,
+   "name": "Starwinder",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5470000/fd9eeb12f9a9a98ce22faf200006b0c3b6630311/header.jpg?t=1792898342",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5496040"
+   "url": "https://store.steampowered.com/app/5470000"
   },
   {
    "store": "Steam",
-   "id": 4032410,
-   "name": "OnlySins",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032410/2e6645547d63f81974e558123d738c1717c7b590/header.jpg?t=1794423545",
+   "id": 5039070,
+   "name": "Jester's Dungeon",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039070/5d4022665860e899690085f4224105f4074fb5c6/header.jpg?t=1795404250",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4032410"
+   "url": "https://store.steampowered.com/app/5039070"
   },
   {
    "store": "Steam",
-   "id": 3471380,
-   "name": "Star Purr",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471380/e487d3bc0be43265fffe92f5f440fb863224c512/header.jpg?t=1793682246",
+   "id": 5424390,
+   "name": "Hypothesis Sudoku",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424390/792c38e95d9a9c4fcb378343658d3264039a5f5d/header.jpg?t=1795237454",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3471380"
+   "url": "https://store.steampowered.com/app/5424390"
   },
   {
    "store": "Steam",
-   "id": 5584870,
-   "name": "Le Cœur de l'Hydre",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5584870/0a640c808a96d56e277fd64d94518bc68c1ded28/header.jpg?t=1795189098",
+   "id": 5123930,
+   "name": "TCG Town",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123930/78de56a2b91179f689b53c76b50220ffd6e3cd61/header.jpg?t=1795403550",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5584870"
+   "url": "https://store.steampowered.com/app/5123930"
   },
   {
    "store": "Steam",
-   "id": 3010690,
-   "name": "Abyssal Station",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010690/2fa6d2300b01ae377ee6962d6133ac0f0b542144/header.jpg?t=1795136910",
+   "id": 5507950,
+   "name": "Chess Lords",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507950/ebd6db2e8395cf80f05fbd04fb63437f53ba4f77/header.jpg?t=1794402346",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3010690"
-  },
-  {
-   "store": "Steam",
-   "id": 5434020,
-   "name": "Terminus: Day Zero - Soundtrack",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434020/46d6e37b75ef06ad52266473ac303215ffce0805/header.jpg?t=1793857927",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5434020"
-  },
-  {
-   "store": "Steam",
-   "id": 4416390,
-   "name": "Terminus: Day Zero",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416390/40e0a1dd657fd5c7d7c23bb365c92811a9bdc205/header.jpg?t=1795419451",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4416390"
-  },
-  {
-   "store": "Steam",
-   "id": 4906740,
-   "name": "KARAKARA3",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906740/09ede4073a0839d09724cf6da07677bf3b99f941/header.jpg?t=1794634931",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4906740"
-  },
-  {
-   "store": "Steam",
-   "id": 5033740,
-   "name": "PRINCESS VANGUARD",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033740/8b7455370b52f8d19d216486331f1e37189f122a/header.jpg?t=1795160820",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5033740"
-  },
-  {
-   "store": "Steam",
-   "id": 4346860,
-   "name": "爱丽丝与花坊：Lo-Fi",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4346860/5fdc35fda50877da06e18aabfa935ddbbca60098/header.jpg?t=1794841359",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4346860"
+   "url": "https://store.steampowered.com/app/5507950"
   }
  ]
 }
