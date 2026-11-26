@@ -1,15 +1,13 @@
 {
- "updated": "2026-11-25T18:57:51.766Z",
- "today": "2026-11-25",
+ "updated": "2026-11-26T18:48:39.320Z",
+ "today": "2026-11-26",
  "sections": {
   "hoje": [],
   "destaques": [
    972995,
-   962016,
    1019942,
    991568,
    1020655,
-   1016708,
    802450,
    1020612,
    1020989,
@@ -18,7 +16,9 @@
    1020666,
    1020670,
    1020751,
-   1020962
+   1020962,
+   1020880,
+   1020667
   ],
   "lancamentos": [
    1020993,
@@ -300,29 +300,6 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=COP%20BASTARD%20trailer"
-  },
-  "962016": {
-   "id": 962016,
-   "name": "REKA",
-   "released": "2026-10-26",
-   "image": "https://media.rawg.io/media/screenshots/7a7/7a7652c7423fedce4c2d4090858dbb01.jpg",
-   "rating": 3,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Casual",
-    "Indie"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/1737870/REKA/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=REKA%20trailer"
   },
   "972995": {
    "id": 972995,
@@ -676,29 +653,6 @@
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=FEMBOY%20GHOST%20trailer"
   },
-  "1016708": {
-   "id": 1016708,
-   "name": "EmberVille",
-   "released": "2026-10-26",
-   "image": "https://media.rawg.io/media/screenshots/a65/a65915e30efd086919dafcb7f79a6b79.jpg",
-   "rating": null,
-   "metacritic": null,
-   "platforms": [
-    "pc"
-   ],
-   "genres": [
-    "Indie",
-    "Adventure"
-   ],
-   "stores": [
-    {
-     "name": "Steam",
-     "url": "https://store.steampowered.com/app/2295170/Emberville/"
-    }
-   ],
-   "trailer": null,
-   "trailerSearch": "https://www.youtube.com/results?search_query=EmberVille%20trailer"
-  },
   "1017176": {
    "id": 1017176,
    "name": "Metro 2039",
@@ -879,6 +833,29 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=alda%20trailer"
+  },
+  "1020667": {
+   "id": 1020667,
+   "name": "Ultima VI: The False Prophet (2026)",
+   "released": "2026-11-05",
+   "image": "https://media.rawg.io/media/screenshots/2e8/2e82d3014a02e3d72587856519bb9780.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Adventure",
+    "RPG"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/3067530/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Ultima%20VI%3A%20The%20False%20Prophet%20(2026)%20trailer"
   },
   "1020670": {
    "id": 1020670,
@@ -1061,6 +1038,28 @@
    ],
    "trailer": null,
    "trailerSearch": "https://www.youtube.com/results?search_query=Aetherlob%20trailer"
+  },
+  "1020880": {
+   "id": 1020880,
+   "name": "Rude Supermarket Simulator",
+   "released": "2026-11-10",
+   "image": "https://media.rawg.io/media/screenshots/db9/db94c3f03000470fd0e99cf145161b74.jpg",
+   "rating": null,
+   "metacritic": null,
+   "platforms": [
+    "pc"
+   ],
+   "genres": [
+    "Simulation"
+   ],
+   "stores": [
+    {
+     "name": "Steam",
+     "url": "https://store.steampowered.com/app/5050670/"
+    }
+   ],
+   "trailer": null,
+   "trailerSearch": "https://www.youtube.com/results?search_query=Rude%20Supermarket%20Simulator%20trailer"
   },
   "1020960": {
    "id": 1020960,
@@ -1255,14 +1254,14 @@
   },
   {
    "store": "Steam",
-   "id": 2183900,
-   "name": "Warhammer 40,000: Space Marine 2",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1790874369",
-   "discount": 75,
-   "original": 19990,
-   "final": 4997,
+   "id": 2947440,
+   "name": "SILENT HILL f",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+   "discount": 72,
+   "original": 34990,
+   "final": 9797,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2183900"
+   "url": "https://store.steampowered.com/app/2947440"
   },
   {
    "store": "Steam",
@@ -1301,23 +1300,12 @@
    "store": "Steam",
    "id": 3768760,
    "name": "007 First Light",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
    "discount": 50,
    "original": 29900,
    "final": 14950,
    "currency": "BRL",
    "url": "https://store.steampowered.com/app/3768760"
-  },
-  {
-   "store": "Steam",
-   "id": 2531310,
-   "name": "The Last of Us™ Parte II Remastered",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-   "discount": 33,
-   "original": 19990,
-   "final": 13393,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/2531310"
   },
   {
    "store": "Steam",
@@ -1334,143 +1322,53 @@
  "freeGames": [
   {
    "store": "Steam",
-   "id": 3058500,
-   "name": "Cucumber",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3058500/bf4429234fa2896922416fa2b0c18860abd0eb7f/header.jpg?t=1795629723",
+   "id": 871460,
+   "name": "Beryl",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871460/5193eb7de2b8e0e26f45022522af00be8acd3c4e/header.jpg?t=1795715517",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3058500"
+   "url": "https://store.steampowered.com/app/871460"
   },
   {
    "store": "Steam",
-   "id": 5015630,
-   "name": "Last Contract",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015630/49b853f4da0d942702d5484bb2148dbbb184e3bc/header.jpg?t=1795626108",
+   "id": 4054580,
+   "name": "Sharkbaked",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054580/3d7d0c048fb80b13ff6d62d36c1148529fd95a14/header.jpg?t=1795710609",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5015630"
+   "url": "https://store.steampowered.com/app/4054580"
   },
   {
    "store": "Steam",
-   "id": 3572070,
-   "name": "Athelan Battlegrounds",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572070/a18386f22fd485ee5e6e4ed1e22eef2987d070da/header.jpg?t=1795630942",
+   "id": 5015050,
+   "name": "Apocalypticlick",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015050/8223cd833b6547ce01125f86bafac1d42e424a49/header.jpg?t=1795706261",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3572070"
+   "url": "https://store.steampowered.com/app/5015050"
   },
   {
    "store": "Steam",
-   "id": 5520650,
-   "name": "Clip Out: Backrooms",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5520650/4f60be24cf7c682b8682f04cec4c4fc98ae55ab2/header.jpg?t=1795620321",
+   "id": 5514130,
+   "name": "Campo Minado em Loop",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514130/0eb472893a3f0dc1216b68cbc5ae84558c116d59/header.jpg?t=1795705442",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5520650"
+   "url": "https://store.steampowered.com/app/5514130"
   },
   {
    "store": "Steam",
-   "id": 4308630,
-   "name": "Dopamine rogue",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4308630/4ee07c66bb1b7e988633c186ca68132309798c6f/header.jpg?t=1795629120",
+   "id": 5467410,
+   "name": "Male Pornstar Simulator",
+   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467410/56a30a34d60618381fce0c4ceb1fcd08f34c1f8a/header.jpg?t=1795411721",
    "kind": "f2p",
    "original": 0,
    "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4308630"
-  },
-  {
-   "store": "Steam",
-   "id": 5657080,
-   "name": "Time Heals Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5657080/7fe5ea64bc508e4adb0ba3d0cdb73b6df8b1e356/header.jpg?t=1795113774",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5657080"
-  },
-  {
-   "store": "Steam",
-   "id": 5169130,
-   "name": "Valliberum Memory Challenges",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169130/91591f3865f7309dcca77d76b1bf34ea724f269f/header.jpg?t=1795045838",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5169130"
-  },
-  {
-   "store": "Steam",
-   "id": 5136620,
-   "name": "SOS :Should I Stay or Should I Hit",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5136620/ba41f1c170bf7c8ac4687be396676ea386bf9750/header.jpg?t=1795611877",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5136620"
-  },
-  {
-   "store": "Steam",
-   "id": 3640830,
-   "name": "VICIOUS CIRCLE",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3640830/2e84230b72e990881d8e656c18c04fe7bf7904fe/header.jpg?t=1788401146",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/3640830"
-  },
-  {
-   "store": "Steam",
-   "id": 5127220,
-   "name": "Clocks Sleep at Zero Demo",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127220/801b91c8dc32c025b3a1f56d8471397d807c95a0/header.jpg?t=1792229667",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5127220"
-  },
-  {
-   "store": "Steam",
-   "id": 5319410,
-   "name": "My Staff Are Dead! Paranormal Tycoon",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5319410/514a20295275c05a446d425bec58505d123c5c3d/header.jpg?t=1795308355",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5319410"
-  },
-  {
-   "store": "Steam",
-   "id": 5515050,
-   "name": "Secret 3-Cushion Club",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5515050/46a6a721b5433c34aa89f3c4047d69689308d6a4/header.jpg?t=1795260272",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5515050"
-  },
-  {
-   "store": "Steam",
-   "id": 5374830,
-   "name": "DPS - Character Pack : Geumeum",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5374830/3caf2578f845df890f50e8899d7f2a8b3144c73a/header.jpg?t=1795257093",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/5374830"
-  },
-  {
-   "store": "Steam",
-   "id": 4554700,
-   "name": "BroCode",
-   "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554700/7da779e70f549c9eaf4ca58c2fd313885c0ac29c/header.jpg?t=1795146096",
-   "kind": "f2p",
-   "original": 0,
-   "currency": "BRL",
-   "url": "https://store.steampowered.com/app/4554700"
+   "url": "https://store.steampowered.com/app/5467410"
   }
  ]
 }
